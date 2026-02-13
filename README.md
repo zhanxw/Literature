@@ -6,6 +6,7 @@ Automatically generated list of literature summaries.
 
 ### 2026
 
+- [Spatial and temporal patterns of public transit aerobiomes](2026-orr-spatial-and-temporal-patterns-of-public-transit-aerobiomes.md)
 - [Reliable detection of Host-Microbe Signatures in cancer using PRISM](2026-Ghaddar-Reliable detection of Host-Microbe Signatures in cancer using PRISM.md)
 - [Navigating the duality of Akkermansia muciniphila](2026-Grant-Navigating the duality of Akkermansia muciniphila.md)
 - [Identifying unmeasured heterogeneity in microbiome data via quantile thresholding (QuanT)](2026-Lu-Identifying_unmeasured_heterogeneity_quanT.md)
@@ -14,6 +15,7 @@ Automatically generated list of literature summaries.
 ### 2025
 
 - [Spatial and temporal distribution of ribosomes in single cells reveals aging differences between old and new daughters of Escherichia coli](2025-Chao-Spatial-temporal-distribution-ribosomes-aging-E-coli.md)
+- [Baby-to-baby strain transmission shapes the developing gut microbiome](2025-Contador-Baby-to-baby strain transmission shapes the developing gut microbiome.md)
 - [Antibiotic Resistance Microbiology Dataset (ARMD): A Resource for Antimicrobial Resistance from EHRs](2025-Nateghi-Haredasht-Antibiotic Resistance Microbiology Dataset.md)
 ### 2024
 
