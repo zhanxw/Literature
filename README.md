@@ -13,6 +13,7 @@ Automatically generated list of literature summaries.
 - [Identifying unmeasured heterogeneity in microbiome data via quantile thresholding (QuanT)](2026-Lu-Identifying_unmeasured_heterogeneity_quanT.md)
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md)
 - [Critical assessment of intratumor and low-biomass microbiome using long-read sequencing](2026-Fang-Critical assessment of intratumor and low-biomass microbiome using long-read sequencing.md)
+- [Biological and technical variability in mouse microbiota analysis and implications for sample size determination](2025-McAdams-Biological and technical variability in mouse microbiota analysis and implications for sample size determination.md)
 ### 2025
 
 - [Spatial and temporal distribution of ribosomes in single cells reveals aging differences between old and new daughters of Escherichia coli](2025-Chao-Spatial-temporal-distribution-ribosomes-aging-E-coli.md)
