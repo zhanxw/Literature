@@ -29,6 +29,9 @@ Automatically generated list of literature summaries.
 ### 2016
 
 - [Spatial organization of bacterial transcription and translation](2016-Castellana-Spatial organization of bacterial transcription and translation.md)
+### 2011
+
+- [OmpK26, a Novel Porin Associated with Carbapenem Resistance in Klebsiella pneumoniae](2011-garcia-sureda-ompk26-novel-porin-carbapenem-resistance.md)
 
 ## Articles by Keyword
 
