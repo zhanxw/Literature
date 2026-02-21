@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: Paper to GitHub
+  description: Summarize a research paper into a structured markdown file and publish it to a GitHub repository.
+  default_prompt: Read the provided paper, write the required structured summary markdown in repo root using year-author-title naming, and push the change.
