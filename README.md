@@ -24,6 +24,7 @@ Automatically generated list of literature summaries.
 - [An agentic system for rare disease diagnosis with traceable reasoning](2025-Chen-deeprare-agentic-system-rare-disease-diagnosis.md)
 ### 2024
 
+- [FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation](2024-shapiro-sepsis-immunoscore.md)
 - [Exploring uncatalogued genetic variation in antimicrobial resistance gene families in Escherichia coli: an observational analysis](2024-Lipworth-Exploring uncatalogued genetic variation in antimicrobial resistance gene families in E. coli.md)
 ### 2017
 
