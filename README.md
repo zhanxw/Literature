@@ -6,6 +6,7 @@ Automatically generated list of literature summaries.
 
 ### 2026
 
+- [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md)
 - [Spatial and temporal patterns of public transit aerobiomes](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md)
 - [Reliable detection of Host-Microbe Signatures in cancer using PRISM](2026-Ghaddar-Reliable detection of Host-Microbe Signatures in cancer using PRISM.md)
 - [Navigating the duality of Akkermansia muciniphila](2026-Grant-Navigating the duality of Akkermansia muciniphila.md)
