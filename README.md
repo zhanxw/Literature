@@ -6,14 +6,15 @@ Automatically generated list of literature summaries.
 
 ### Unknown
 
-- [Paper Summary](2026-brixi-genome-modelling-and-design-across-all-domains-of-life-with-evo-2.md)
-- [Paper Summary](2026-liu-bacterial-genomic-structural-variations-in-children-with-autism-serve-as-diagnostic-biomarkers.md)
-- [Paper Summary](2025-pacesa-bindcraft-one-shot-design-of-functional-protein-binders.md)
-- [Paper Summary](2025-goulet-crocodeel-accurate-control-free-detection-of-cross-sample-contamination-in-metagenomic-data.md)
-- [Paper Summary](2025-kang-microgenomer-transferable-microbial-genome-representations-enabling-multi-scale-genomic-understanding-and-ecophysiological-trait-prediction.md)
-- [Paper Summary](2025-corral-lopez-imbalance-in-gut-microbial-interactions-as-a-marker-of-health-and-disease.md)
-- [Paper Summary](2026-dawkins-mmethane-interpretable-ai-for-predicting-host-status-from-microbial-composition-and-metabolomics-data.md)
-- [Paper Summary](2024-cornman-the-omg-dataset-an-open-metagenomic-corpus-for-mixed-modality-genomic-language-modeling.md)
+- [Paper Summary](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md)
+- [Paper Summary](2025-Pacesa-Bindcraft-One-Shot-Design-Of-Functional-Protein-Binders.md)
+- [Paper Summary](2025-Goulet-Crocodeel-Accurate-Control-Free-Detection-Of-Cross-Sample-Contamination-In-Metagenomic-Data.md)
+- [Paper Summary](2025-Kang-Microgenomer-Transferable-Microbial-Genome-Representations-Enabling-Multi-Scale-Genomic-Understanding-And-Ecophysiological-Trait-Prediction.md)
+- [Paper Summary](2024-Cornman-The-Omg-Dataset-An-Open-Metagenomic-Corpus-For-Mixed-Modality-Genomic-Language-Modeling.md)
+- [Paper Summary](2025-Corral-Lopez-Imbalance-In-Gut-Microbial-Interactions-As-A-Marker-Of-Health-And-Disease.md)
+- [Paper Summary](2015-croucher-rapid-phylogenetic-analysis-gubbins.md)
+- [Paper Summary](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md)
+- [Paper Summary](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md)
 ### 2026
 
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md)
@@ -29,20 +30,20 @@ Automatically generated list of literature summaries.
 ### 2025
 
 - [Spatial and temporal distribution of ribosomes in single cells reveals aging differences between old and new daughters of Escherichia coli](2025-Chao-Spatial-temporal-distribution-ribosomes-aging-E-coli.md)
-- [Paper Summary](2025-heinz-detecting-foldback-artifacts-in-long-reads.md)
+- [Paper Summary](2025-Heinz-Detecting-Foldback-Artifacts-In-Long-Reads.md)
 - [Modulating the gut-reproductive tract axis: microbial influence on gynaecological cancer pathogenesis and treatment](2025-Chen-Modulating the gut-reproductive tract axis.md)
 - [Gut microbiota-derived short-chain fatty acids and their role in human health and disease](2025-Mukhopadhya-Gut-microbiota-derived-short-chain-fatty-acids-and-their-role-in-human-health-and-disease.md)
-- [Genome modelling and design across all domains of life with Evo 2](evo2_nature_2025_summary.md)
 - [Baby-to-baby strain transmission shapes the developing gut microbiome](2025-Contador-Baby-to-baby strain transmission shapes the developing gut microbiome.md)
 - [Antibiotic Resistance Microbiology Dataset (ARMD): A Resource for Antimicrobial Resistance from EHRs](2025-Nateghi-Haredasht-Antibiotic Resistance Microbiology Dataset.md)
 - [An agentic system for rare disease diagnosis with traceable reasoning](2025-Chen-deeprare-agentic-system-rare-disease-diagnosis.md)
 ### 2024
 
-- [FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation](2024-shapiro-sepsis-immunoscore.md)
+- [FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation](2024-Shapiro-Sepsis-Immunoscore.md)
 - [Exploring uncatalogued genetic variation in antimicrobial resistance gene families in Escherichia coli: an observational analysis](2024-Lipworth-Exploring uncatalogued genetic variation in antimicrobial resistance gene families in E. coli.md)
 ### 2017
 
 - [Paper Summary: Attention Is All You Need](2017-Vaswani-Attention Is All You Need.md)
+- [Paper Summary](2019-feldgarden-validating-the-amrfinder-tool-and-resistance-gene-database.md)
 ### 2016
 
 - [Spatial organization of bacterial transcription and translation](2016-Castellana-Spatial organization of bacterial transcription and translation.md)
