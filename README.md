@@ -20,6 +20,7 @@ Automatically generated list of literature summaries.
 - [Spatial and temporal distribution of ribosomes in single cells reveals aging differences between old and new daughters of Escherichia coli](2025-Chao-Spatial-temporal-distribution-ribosomes-aging-E-coli.md)
 - [Modulating the gut-reproductive tract axis: microbial influence on gynaecological cancer pathogenesis and treatment](2025-Chen-Modulating the gut-reproductive tract axis.md)
 - [Gut microbiota-derived short-chain fatty acids and their role in human health and disease](2025-Mukhopadhya-Gut-microbiota-derived-short-chain-fatty-acids-and-their-role-in-human-health-and-disease.md)
+- [Genome modelling and design across all domains of life with Evo 2](evo2_nature_2025_summary.md)
 - [Baby-to-baby strain transmission shapes the developing gut microbiome](2025-Contador-Baby-to-baby strain transmission shapes the developing gut microbiome.md)
 - [Antibiotic Resistance Microbiology Dataset (ARMD): A Resource for Antimicrobial Resistance from EHRs](2025-Nateghi-Haredasht-Antibiotic Resistance Microbiology Dataset.md)
 - [An agentic system for rare disease diagnosis with traceable reasoning](2025-Chen-deeprare-agentic-system-rare-disease-diagnosis.md)
