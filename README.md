@@ -12,7 +12,7 @@ Automatically generated list of literature summaries.
 - [Paper Summary](2025-Kang-Microgenomer-Transferable-Microbial-Genome-Representations-Enabling-Multi-Scale-Genomic-Understanding-And-Ecophysiological-Trait-Prediction.md)
 - [Paper Summary](2024-Cornman-The-Omg-Dataset-An-Open-Metagenomic-Corpus-For-Mixed-Modality-Genomic-Language-Modeling.md)
 - [Paper Summary](2025-Corral-Lopez-Imbalance-In-Gut-Microbial-Interactions-As-A-Marker-Of-Health-And-Disease.md)
-- [Paper Summary](2015-croucher-rapid-phylogenetic-analysis-gubbins.md)
+- [Paper Summary](2015-Croucher-Rapid-Phylogenetic-Analysis-Gubbins.md)
 - [Paper Summary](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md)
 - [Paper Summary](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md)
 ### 2026
@@ -43,7 +43,7 @@ Automatically generated list of literature summaries.
 ### 2017
 
 - [Paper Summary: Attention Is All You Need](2017-Vaswani-Attention Is All You Need.md)
-- [Paper Summary](2019-feldgarden-validating-the-amrfinder-tool-and-resistance-gene-database.md)
+- [Paper Summary](2019-Feldgarden-Validating-The-Amrfinder-Tool-And-Resistance-Gene-Database.md)
 ### 2016
 
 - [Spatial organization of bacterial transcription and translation](2016-Castellana-Spatial organization of bacterial transcription and translation.md)
