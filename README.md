@@ -4,6 +4,15 @@ Automatically generated list of literature summaries.
 
 ## Articles by Year
 
+### Unknown
+
+- [Paper Summary](2026-liu-bacterial-genomic-structural-variations-in-children-with-autism-serve-as-diagnostic-biomarkers.md)
+- [Paper Summary](2025-pacesa-bindcraft-one-shot-design-of-functional-protein-binders.md)
+- [Paper Summary](2025-goulet-crocodeel-accurate-control-free-detection-of-cross-sample-contamination-in-metagenomic-data.md)
+- [Paper Summary](2025-kang-microgenomer-transferable-microbial-genome-representations-enabling-multi-scale-genomic-understanding-and-ecophysiological-trait-prediction.md)
+- [Paper Summary](2025-corral-lopez-imbalance-in-gut-microbial-interactions-as-a-marker-of-health-and-disease.md)
+- [Paper Summary](2026-dawkins-mmethane-interpretable-ai-for-predicting-host-status-from-microbial-composition-and-metabolomics-data.md)
+- [Paper Summary](2024-cornman-the-omg-dataset-an-open-metagenomic-corpus-for-mixed-modality-genomic-language-modeling.md)
 ### 2026
 
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md)
