@@ -6,6 +6,7 @@ Automatically generated list of literature summaries.
 
 ### Unknown
 
+- [Paper Summary](2026-brixi-genome-modelling-and-design-across-all-domains-of-life-with-evo-2.md)
 - [Paper Summary](2026-liu-bacterial-genomic-structural-variations-in-children-with-autism-serve-as-diagnostic-biomarkers.md)
 - [Paper Summary](2025-pacesa-bindcraft-one-shot-design-of-functional-protein-binders.md)
 - [Paper Summary](2025-goulet-crocodeel-accurate-control-free-detection-of-cross-sample-contamination-in-metagenomic-data.md)
@@ -28,6 +29,7 @@ Automatically generated list of literature summaries.
 ### 2025
 
 - [Spatial and temporal distribution of ribosomes in single cells reveals aging differences between old and new daughters of Escherichia coli](2025-Chao-Spatial-temporal-distribution-ribosomes-aging-E-coli.md)
+- [Paper Summary](2025-heinz-detecting-foldback-artifacts-in-long-reads.md)
 - [Modulating the gut-reproductive tract axis: microbial influence on gynaecological cancer pathogenesis and treatment](2025-Chen-Modulating the gut-reproductive tract axis.md)
 - [Gut microbiota-derived short-chain fatty acids and their role in human health and disease](2025-Mukhopadhya-Gut-microbiota-derived-short-chain-fatty-acids-and-their-role-in-human-health-and-disease.md)
 - [Genome modelling and design across all domains of life with Evo 2](evo2_nature_2025_summary.md)
