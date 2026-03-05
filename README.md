@@ -13,6 +13,7 @@ Automatically generated list of literature summaries.
 - [Identifying unmeasured heterogeneity in microbiome data via quantile thresholding (QuanT)](2026-Lu-Identifying_unmeasured_heterogeneity_quanT.md)
 - [Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design](2026-Shao-Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design.md)
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md)
+- [Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome](2026-Lu-Eubiota-modular-agentic-ai-gut-microbiome.md)
 - [Critical assessment of intratumor and low-biomass microbiome using long-read sequencing](2026-Fang-Critical assessment of intratumor and low-biomass microbiome using long-read sequencing.md)
 - [Biological and technical variability in mouse microbiota analysis and implications for sample size determination](2025-McAdams-Biological and technical variability in mouse microbiota analysis and implications for sample size determination.md)
 ### 2025
