@@ -1,0 +1,5 @@
+# Ignore archived source PDFs
+archived/*.pdf
+archived/*.PDF
+archived/**/*.pdf
+archived/**/*.PDF
