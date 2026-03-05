@@ -6,20 +6,21 @@ Automatically generated list of literature summaries.
 
 ### Unknown
 
-- [Paper Summary](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md)
-- [Paper Summary](2025-Pacesa-Bindcraft-One-Shot-Design-Of-Functional-Protein-Binders.md)
-- [Paper Summary](2025-Goulet-Crocodeel-Accurate-Control-Free-Detection-Of-Cross-Sample-Contamination-In-Metagenomic-Data.md)
-- [Paper Summary](2025-Kang-Microgenomer-Transferable-Microbial-Genome-Representations-Enabling-Multi-Scale-Genomic-Understanding-And-Ecophysiological-Trait-Prediction.md)
-- [Paper Summary](2024-Cornman-The-Omg-Dataset-An-Open-Metagenomic-Corpus-For-Mixed-Modality-Genomic-Language-Modeling.md)
-- [Paper Summary](2025-Corral-Lopez-Imbalance-In-Gut-Microbial-Interactions-As-A-Marker-Of-Health-And-Disease.md)
-- [Paper Summary](2015-Croucher-Rapid-Phylogenetic-Analysis-Gubbins.md)
-- [Paper Summary](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md)
 - [Paper Summary](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md)
+- [Paper Summary](2015-Croucher-Rapid-Phylogenetic-Analysis-Gubbins.md)
+- [Paper Summary](2024-Cornman-The-Omg-Dataset-An-Open-Metagenomic-Corpus-For-Mixed-Modality-Genomic-Language-Modeling.md)
+- [Paper Summary](2025-Goulet-Crocodeel-Accurate-Control-Free-Detection-Of-Cross-Sample-Contamination-In-Metagenomic-Data.md)
+- [Paper Summary](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md)
+- [Paper Summary](2025-Corral-Lopez-Imbalance-In-Gut-Microbial-Interactions-As-A-Marker-Of-Health-And-Disease.md)
+- [Paper Summary](2025-Kang-Microgenomer-Transferable-Microbial-Genome-Representations-Enabling-Multi-Scale-Genomic-Understanding-And-Ecophysiological-Trait-Prediction.md)
+- [Paper Summary](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md)
+- [Paper Summary](2025-Pacesa-Bindcraft-One-Shot-Design-Of-Functional-Protein-Binders.md)
 ### 2026
 
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md)
 - [Spatial and temporal patterns of public transit aerobiomes](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md)
 - [Reliable detection of Host-Microbe Signatures in cancer using PRISM](2026-Ghaddar-Reliable detection of Host-Microbe Signatures in cancer using PRISM.md)
+- [Paper Summary](2026-unemo-zoliflodacin-phase-3-microbiological-failures.md)
 - [Navigating the duality of Akkermansia muciniphila](2026-Grant-Navigating the duality of Akkermansia muciniphila.md)
 - [Identifying unmeasured heterogeneity in microbiome data via quantile thresholding (QuanT)](2026-Lu-Identifying_unmeasured_heterogeneity_quanT.md)
 - [Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design](2026-Shao-Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design.md)
@@ -30,6 +31,8 @@ Automatically generated list of literature summaries.
 ### 2025
 
 - [Spatial and temporal distribution of ribosomes in single cells reveals aging differences between old and new daughters of Escherichia coli](2025-Chao-Spatial-temporal-distribution-ribosomes-aging-E-coli.md)
+- [Paper Summary](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md)
+- [Paper Summary](2025-jacobsson-zoliflodacin-susceptibility-egasp-2021-2024.md)
 - [Paper Summary](2025-Heinz-Detecting-Foldback-Artifacts-In-Long-Reads.md)
 - [Modulating the gut-reproductive tract axis: microbial influence on gynaecological cancer pathogenesis and treatment](2025-Chen-Modulating the gut-reproductive tract axis.md)
 - [Gut microbiota-derived short-chain fatty acids and their role in human health and disease](2025-Mukhopadhya-Gut-microbiota-derived-short-chain-fatty-acids-and-their-role-in-human-health-and-disease.md)
@@ -40,6 +43,9 @@ Automatically generated list of literature summaries.
 
 - [FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation](2024-Shapiro-Sepsis-Immunoscore.md)
 - [Exploring uncatalogued genetic variation in antimicrobial resistance gene families in Escherichia coli: an observational analysis](2024-Lipworth-Exploring uncatalogued genetic variation in antimicrobial resistance gene families in E. coli.md)
+### 2020
+
+- [Paper Summary](2020-holden-mara-rama-and-soxs-stress-response-survival-cost.md)
 ### 2017
 
 - [Paper Summary: Attention Is All You Need](2017-Vaswani-Attention Is All You Need.md)
