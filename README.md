@@ -32,6 +32,7 @@ Automatically generated list of literature summaries.
 
 - [Spatial and temporal distribution of ribosomes in single cells reveals aging differences between old and new daughters of Escherichia coli](2025-Chao-Spatial-temporal-distribution-ribosomes-aging-E-coli.md)
 - [Paper Summary](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md)
+- [Paper Summary](2025-qu-gianthunter-accurate-detection-giant-virus-metagenomic-data.md)
 - [Paper Summary](2025-jacobsson-zoliflodacin-susceptibility-egasp-2021-2024.md)
 - [Paper Summary](2025-Heinz-Detecting-Foldback-Artifacts-In-Long-Reads.md)
 - [Modulating the gut-reproductive tract axis: microbial influence on gynaecological cancer pathogenesis and treatment](2025-Chen-Modulating the gut-reproductive tract axis.md)
@@ -43,6 +44,9 @@ Automatically generated list of literature summaries.
 
 - [FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation](2024-Shapiro-Sepsis-Immunoscore.md)
 - [Exploring uncatalogued genetic variation in antimicrobial resistance gene families in Escherichia coli: an observational analysis](2024-Lipworth-Exploring uncatalogued genetic variation in antimicrobial resistance gene families in E. coli.md)
+### 2023
+
+- [Paper Summary](2023-gu-rgreat-functional-enrichment-genomic-regions.md)
 ### 2020
 
 - [Paper Summary](2020-holden-mara-rama-and-soxs-stress-response-survival-cost.md)
