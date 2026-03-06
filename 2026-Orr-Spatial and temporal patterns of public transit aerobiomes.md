@@ -1,172 +1,83 @@
-# Spatial and temporal patterns of public transit aerobiomes
+# Paper Summary
 
-**Authors:** Russell J. S. Orr*, Ola Brynildsrud*, Kari O. Bøifot, Jostein Gohli, Gunnar Skogan, Frank J. Kelly, Mark T. Hernandez, Klas Udekwu, Patrick K. H. Lee, Christopher E. Mason, Marius Dybwad
+### Authors
+- Russell J. S. Orr
+- Ola Brynildsrud
+- Kari O. Boifot
+- Jostein Gohli
+- Gunnar Skogan
+- Frank J. Kelly
+- Mark T. Hernandez
+- Klas Udekwu
+- Patrick K. H. Lee
+- Christopher E. Mason
+- Marius Dybwad
 
-**Journal:** Microbiome (BMC)  
-**Year:** 2026 (Volume 14, Article 64)  
-**DOI:** [10.1186/s40168-025-02303-7](https://doi.org/10.1186/s40168-025-02303-7)  
-**Open Access:** Yes (CC BY 4.0)
+### Journal
+- Microbiome (BMC)
 
----
+### Publication Date
+- 2026
 
-## Summary
+### DOI
+- https://doi.org/10.1186/s40168-025-02303-7
 
-This study presents the first large-scale interannual analysis of public transit aerobiomes (airborne microbiomes) across six global cities over a 3-year period (2017-2019), utilizing shotgun metagenomic sequencing to characterize bacterial and fungal community structure at the species level.
-
----
+## Keywords
+- public transit aerobiome
+- shotgun metagenomics
+- low-biomass contamination control
+- city-specific microbiome
+- fungal profiling
+- interannual stability
+- core microbiome
 
 ## Main Idea
+- This study characterizes spatial and temporal structure of airborne microbiomes in public transit systems across multiple global cities using shotgun metagenomics.
+- The authors test whether transit aerobiomes have city-specific signatures, whether these signatures are stable across years, and whether a global species-level core exists.
 
-The study examines **spatial and temporal patterns in the species diversity of public transit aerobiomes**, with emphasis on both bacteria and fungi. Public transit systems are critically important for public health (subways alone carry ~190 million daily travelers globally), yet their airborne microbial communities remain poorly characterized. Previous studies were limited by:
-- Small sample sizes
-- Single-city focus (limited spatial comparison)
-- Lack of interannual temporal studies
-- Bacterial bias with poor fungal database coverage
-- Insufficient contamination control in low-biomass samples
-
-The objective was to determine whether public transit aerobiomes exhibit:
-1. City-specific "signatures" or community structures
-2. Temporal (interannual) stability
-3. A global or local "core" microbiome
-4. Correlations with environmental/human factors
-
----
+## Evidence Supporting the Main Idea
+- Sampling/evidence scale: 750 transit air samples from six cities over three summers (2017-2019), plus 22 negative controls and 5 positive controls.
+- Strong contamination handling in low-biomass data: 290 contaminant taxa were identified (265 bacterial, 25 fungal), and 62.7% of reads were removed as contamination before ecological interpretation.
+- Fungal signal increased compared with earlier analyses by using expanded fungal references: reported fungal classified reads were 25.3% (vs much lower values in prior database-limited analyses).
+- Statistical analyses indicate city is a major driver of community structure (reported as highly significant, p < 1.0E-4).
+- A strict global core at >97% prevalence was not found; the most prevalent species did not reach universal presence across all cities.
+- Figures/tables in the paper report city-separated diversity/community patterns and prevalence-based core/sub-core outcomes, supporting city-specific and not globally uniform aerobiomes.
 
 ## Main Novelty
+- First large-scale interannual (3-year) multi-city transit aerobiome metagenomic analysis with species-level bacterial and fungal emphasis.
+- An explicit low-biomass contamination workflow combining field/lab controls and statistical filtering before downstream ecological inference.
+- Demonstration that local (city-level) cores are detectable while a strict global species-level core is not, refining expectations for urban airborne microbiome structure.
 
-1. **First 3-year interannual study** of public transit aerobiomes (2017-2019), demonstrating stability over time despite seasonal/daily variation reported in other studies
-
-2. **Improved fungal classification** through enhanced databases including fungal genomes (3,049 accessions), achieving 25.3% fungal read classification vs. 0.2% in prior studies
-
-3. **Stringent bioinformatics pipeline** for low-biomass contamination control:
-   - 290 contaminant taxa identified (265 bacterial, 25 fungal)
-   - Combined field and lab negative controls
-   - Statistical testing (Z-test) to distinguish contaminants from true environmental signals
-   - 62.7% of reads identified as contaminants and removed
-
-4. **First local public transit aerobiome cores** defined for each city, relating species to ecological niches
-
-5. **Rejection of a ubiquitous global species core** - No single species present in >97% of samples across all cities, though a sub-core of 44 bacterial and 1 fungal species was confirmed
-
-6. **City-specific microbial signatures** with potential correlation between geographic distance and genetic similarity of aerobiomes
-
----
-
-## Main Datasets
-
-### Sampling
-- **750 air samples** from public transit hubs in **6 global cities**:
-  - Denver (38 samples)
-  - Hong Kong (239 samples)
-  - London (117 samples)
-  - New York (125 samples)
-  - Oslo (191 samples)
-  - Stockholm (40 samples)
-
-- **Temporal coverage**: Summer months (June-August) across 3 years:
-  - 2017: 250 samples (reanalyzed from prior study)
-  - 2018: 261 samples from 6 cities
-  - 2019: 239 samples from 5 cities (excluding Stockholm)
-
-### Controls
-- **22 negative controls**: Field blanks + lab reagent blanks
-- **5 positive controls**: ZymoBIOMICS Microbial Community Standard
-
-### Metadata Collected
-- Temperature (°C)
-- Relative humidity (%)
-- Number of travelers
-- Enclosed vs. open areas
-- Above-ground vs. underground
-
-### Sequencing
-- **Platform**: Illumina NovaSeq 6000
-- **Read type**: 150 bp paired-end
-- **Mean depth**: 
-  - 2017: 9.4M reads/sample
-  - 2018: 76.4M reads/sample
-  - 2019: 71.2M reads/sample
-
-### Data Availability
-- NCBI BioProjects: PRJNA561080 (2017), PRJNA1129830 (2018), PRJNA1132165 (2019)
-
----
+## Datasets Used for Evaluation
+- Public transit air metagenomes:
+- 750 samples total from Denver (38), Hong Kong (239), London (117), New York (125), Oslo (191), Stockholm (40).
+- Time coverage: summers of 2017, 2018, and 2019 (Stockholm not sampled in 2019).
+- Controls:
+- 22 negative controls (field and lab blanks).
+- 5 positive controls (ZymoBIOMICS standard).
+- Sequencing:
+- Illumina NovaSeq 6000, 150 bp paired-end reads.
+- Mean depth reported by year: about 9.4M (2017), 76.4M (2018), 71.2M (2019) reads/sample.
+- Public repositories:
+- BioProjects PRJNA561080, PRJNA1129830, PRJNA1132165.
 
 ## Experimental Procedure
+- Collect transit air using high-volume electret filter sampling at standardized height/orientation and runtime.
+- Extract DNA from filters with lysis + enzymatic/mechanical disruption + cleanup, then quantify DNA.
+- Prepare sequencing libraries and run NovaSeq paired-end sequencing.
+- Perform QC/trimming and remove host (human) reads.
+- Classify reads using Kraken2/Bracken with cross-kingdom and FBAV-oriented reference resources including expanded fungal genomes.
+- Use negative controls plus rule-based/statistical filtering to remove likely contaminants.
+- Compute alpha/beta diversity and multivariate statistics to test effects of city/year/environmental covariates.
+- Define core/sub-core taxa by prevalence thresholds and compare local vs global core structure.
 
-### 1. Air Sampling
-- **Equipment**: SASS3100 high-volume electret filter air sampler (300 L/min for 30 min)
-- **Setup**: Tripod-mounted, 45° downward angle, 1.5m above floor
-- **Filters**: Sterilized electret filters stored at -80°C
-
-### 2. DNA Isolation
-- Protocol adapted from Bøifot et al. for electret filter aerobiome samples
-- Steps: Lysis buffer extraction → centrifugation → enzymatic lysis (MetaPolyzyme) → bead beating → inhibitor removal → magnetic bead DNA purification
-- DNA quantification: Qubit Fluorometer 3.0
-
-### 3. Library Preparation & Sequencing
-- Qiagen GeneRead DNA Library Prep Kit I
-- Covaris sonication (500nt fragments)
-- Bead cleanup, A-tailing, adapter ligation, PCR amplification
-- Sequencing: NovaSeq 6000 (150bp PE)
-
-### 4. Bioinformatics Pipeline
-- **QC**: FastQC v0.11.9
-- **Trimming**: TrimGalore v0.6.7 (min length 130bp, Phred 30)
-- **Human read removal**: Bowtie2 vs. GRCh38
-- **Diversity estimation**: Nonpareil 3 (estimated coverage: ~50% for 2018-2019, ~25% for 2017)
-
-### 5. Classification Databases
-- **Cross-kingdom**: Kraken2 protein database (entire NCBInr)
-- **Species-level (FBAV)**: 
-  - Archaea: 871 genomes
-  - Bacteria: 63,568 genomes
-  - Viruses: 14,018 genomes
-  - Fungi: 3,049 reference/representative genomes
-- **Classification**: Kraken2 (confidence 0.1, min-hit-groups 4) + Bracken
-- **Threshold**: 0.005% read abundance cutoff for species-level assignment
-
-### 6. Contamination Removal
-- Aggregated Kraken2 reports from 22 negative controls
-- Taxa flagged as contaminants if present in ≥2 negative samples with >10,000 reads
-- Statistical Z-test to ensure air sample prevalence significantly exceeded negative controls
-
-### 7. Statistical Analysis
-- **Alpha diversity**: Shannon Diversity Index (vegan R package)
-- **Beta diversity**: UMAP visualization
-- **MANOVA**: Effect of city, year, environmental factors on community structure
-- **Core microbiome**: Prevalence analysis at >97% (core) and 70-97% (sub-core) thresholds
-
----
-
-## Key Findings
-
-1. **City is the dominant factor** shaping aerobiome diversity and community structure (p < 1.0E-4), with clear city-specific signatures
-
-2. **Interannual stability**: Species diversity was consistent across the 3-year sampling period within cities
-
-3. **Population density correlation**: Bacterial diversity positively correlated with city population density; Hong Kong (highest density) had richest bacterial diversity
-
-4. **Dominance patterns**: Bacteria comprised 74.4% of classified reads; fungi 25.3%; archaea and viruses <1% each
-
-5. **No global core**: No single species present in >97% of all samples. Most prevalent: *Dietzia* sp. oral taxon 368 (95.2% prevalence)
-
-6. **Sub-core confirmed**: 44 bacterial species + 1 fungal species (*Cladosporiaceae* sp.) in 70-97% of samples
-
-7. **Local cores identified**: Each city had distinct core microbiomes (27-69 species at >97% prevalence):
-   - Denver: Dominated by fungus *Ustilago bromivora* (grass pathogen, 100% prevalence)
-   - Hong Kong: Dominated by *Roseomonas mucosa* (8.0% abundance, 100% prevalence)
-   - London: Dominated by *Kocuria rhizophila* (5.8% abundance)
-   - Oslo: Dominated by *Nocardioides aquaticus* + fungal species
-   - Stockholm: Similar to Oslo with *N. aquaticus* dominance
-   - New York: Multiple bacterial species at 100% prevalence + fungus *Epicoccum nigrum*
-
----
+## Key Biology Insights
+- Public transit aerobiomes are strongly city-structured rather than globally homogeneous at species level.
+- Interannual sampling indicates relative stability of city-level diversity/community patterns across the studied summers.
+- Fungi are a substantial component of transit aerobiomes when fungal references are sufficiently represented.
+- Local city cores likely reflect regional environmental and human-activity influences on airborne microbial exposure.
 
 ## Implications
-
-The study demonstrates that public transit aerobiomes are diverse, city-specific ecosystems with stable interannual patterns during summer months. The findings highlight:
-
-1. **Importance of robust contamination control** for low-biomass environmental metagenomics
-2. **Potential for microbial forensics** - city-specific signatures could have applications in environmental monitoring and public health
-3. **Need for improved fungal databases** - the 25% fungal contribution was
+- Urban airborne microbiome surveillance should prioritize city-specific baselines over assumptions of a universal species core.
+- Low-biomass contamination control is essential; conclusions can change substantially without rigorous control filtering.
+- Improved fungal reference databases materially increase interpretability and should be standard in aerobiome metagenomics.
