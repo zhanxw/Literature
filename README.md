@@ -18,9 +18,9 @@ Automatically generated list of literature summaries.
 ### 2026
 
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md)
-- [Spatial and temporal patterns of public transit aerobiomes](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md)
 - [Reliable detection of Host-Microbe Signatures in cancer using PRISM](2026-Ghaddar-Reliable detection of Host-Microbe Signatures in cancer using PRISM.md)
 - [Paper Summary](2026-unemo-zoliflodacin-phase-3-microbiological-failures.md)
+- [Paper Summary](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md)
 - [Navigating the duality of Akkermansia muciniphila](2026-Grant-Navigating the duality of Akkermansia muciniphila.md)
 - [Identifying unmeasured heterogeneity in microbiome data via quantile thresholding (QuanT)](2026-Lu-Identifying_unmeasured_heterogeneity_quanT.md)
 - [Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design](2026-Shao-Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design.md)
