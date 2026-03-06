@@ -3,3 +3,7 @@ archived/*.pdf
 archived/*.PDF
 archived/**/*.pdf
 archived/**/*.PDF
+
+# macOS Finder metadata
+.DS_Store
+**/.DS_Store
