@@ -17,32 +17,45 @@
 - tumor microenvironment
 - spatial transcriptomics
 - single-cell RNA-seq
+- host-microbe interactions
 
 ## Main Idea
-- The study maps spatial and cellular host-microbe interactions in tumors and shows that intratumoral microbes form structured microniches linked to pro-tumor biology.
+- The study maps how intratumoral microbes are distributed across tumor tissue and host-cell states.
+- It argues that bacteria-associated microniches correspond to specific immunologic and vascular programs.
+- The work proposes that tumor-associated microbes contribute to functional intra-tumor heterogeneity.
 
 ## Evidence Supporting the Main Idea
-- Uses 10x Visium, GeoMx DSP, and a new scRNA-seq method (INVADEseq).
-- Shows bacteria-positive regions are less vascularized, more immunosuppressive, and associated with lower Ki-67.
-- Functional experiments show bacteria-infected cancer cells invade as single cells and recruit myeloid cells.
-- CRC heterogeneity evidence includes 16S sequencing from 44 tissue pieces across 11 patients.
+- Multi-modal spatial assays were used to compare bacteria-positive and bacteria-negative regions.
+- Single-cell-level approaches identified host cells associated with intratumoral bacteria.
+- Regions with bacterial signals showed distinct immune and tissue-state features.
+- Functional experiments linked bacteria-associated states to invasive behavior and myeloid recruitment.
+- CRC sampling across multiple tissue pieces and patients showed substantial within-patient heterogeneity.
 
 ## Main Novelty
-- Direct in situ mapping of intratumoral microbial localization and host-cell interaction states at spatial and single-cell resolution.
+- Direct in situ mapping of microbial localization with matched host-cell transcriptional context.
+- Combined spatial and single-cell framework for host-microbe tumor ecology.
+- Functional follow-up connecting localization patterns to tumor-relevant phenotypes.
 
 ## Datasets Used for Evaluation
-- Patient OSCC and CRC tumor tissues.
-- CRC intratumoral microbiota profiling: 44 tissue pieces from 11 patients.
-- Multi-modal datasets: Visium, GeoMx, INVADEseq and functional assays.
+- Human OSCC and CRC tumor tissue samples.
+- CRC heterogeneity profiling dataset (reported: 44 tissue pieces from 11 patients).
+- Spatial transcriptomic/proteomic datasets (for example 10x Visium and GeoMx DSP).
+- Single-cell host-microbe association dataset (INVADEseq) and functional validation assays.
 
 ## Experimental Procedure
-- Profile intratumoral microbiota heterogeneity by 16S sequencing.
-- Perform spatial transcriptomic/proteomic profiling of bacteria-positive vs bacteria-negative regions.
-- Detect host cell-associated bacteria using INVADEseq.
-- Validate phenotypes with functional invasion and immune-recruitment assays.
+- Profile intratumoral microbiota distribution across tumor sections.
+- Perform spatial molecular profiling in bacteria-positive versus bacteria-negative regions.
+- Use host-cell association sequencing to identify bacteria-linked cellular programs.
+- Run functional assays on bacteria-infected cancer cell behavior.
+- Quantify immune-cell recruitment effects linked to microbial exposure.
+- Integrate multi-modal data to infer tumor ecological structure.
 
 ## Key Biology Insights
-- Intratumoral microbiota distribution is organized, not random, and contributes to tumor ecological heterogeneity.
+- Intratumoral microbes are spatially organized rather than randomly distributed.
+- Microbial localization correlates with specific immunosuppressive and tissue-context programs.
+- Host-microbe interactions can help define functional tumor microniches.
 
 ## Implications
-- Suggests microbiota-informed cancer stratification and intervention opportunities.
+- Supports microbiota-informed tumor stratification and biomarker development.
+- Suggests microbial targeting as a potential adjunct in cancer therapy design.
+- Encourages spatially resolved microbiome profiling in oncology studies.

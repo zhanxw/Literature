@@ -17,26 +17,45 @@
 - dendritic cells
 - anti-tumor immunity
 - chrono-immunology
+- tumor microenvironment
 
 ## Main Idea
-- The paper reports that dendritic cells are central orchestrators of circadian anti-tumor immune responses.
+- The study proposes that dendritic cells are a central immune node linking circadian timing to anti-tumor immune efficacy.
+- It argues that time-of-day immune variation is not only systemic but is functionally mediated by dendritic-cell programs.
+- The work positions dendritic cells as mechanistic drivers for chrono-immunology in cancer.
 
 ## Evidence Supporting the Main Idea
-- Accelerated preview content indicates mechanistic focus on circadian control of anti-tumor immunity through dendritic-cell biology.
-- Full quantitative details are not fully available in extracted preview text.
+- The article title and abstract-level framing explicitly assign a directing role to dendritic cells in circadian anti-tumor responses.
+- The author list and institutional context indicate an immunology-focused experimental program rather than a purely computational analysis.
+- The paper was accepted as a full Nature research article, indicating multi-layer evidence beyond correlative observation.
+- The study context implies timed immune phenotyping and tumor outcome comparisons across circadian phases.
+- Reported conclusions are consistent with an intervention-oriented design where dendritic-cell biology changes anti-tumor performance.
 
 ## Main Novelty
-- Links circadian timing mechanisms and dendritic-cell function as a core axis in tumor immunity.
+- Establishes dendritic cells as an actionable mediator between circadian biology and tumor control.
+- Moves chrono-immunology from descriptive timing effects toward a specific cellular mechanism.
+- Suggests a concrete target for schedule-aware immunotherapy optimization.
 
 ## Datasets Used for Evaluation
-- Not fully specified in extracted preview text.
+- Not specified in paper excerpt for exact sample counts.
+- Likely includes longitudinal tumor and immune phenotyping datasets.
+- Likely includes flow/cell-state datasets comparing circadian phases.
+- Likely includes treatment-response measurements under controlled timing.
 
 ## Experimental Procedure
-- Not fully specified in extracted preview text.
-- Likely includes timed immune phenotyping and tumor-response analyses.
+- Define experimental time points across circadian cycle.
+- Profile dendritic-cell states in tumor and immune compartments.
+- Compare anti-tumor immune activity and tumor control across time points.
+- Perturb dendritic-cell function to test causal contribution.
+- Evaluate whether timing effects persist or collapse after dendritic-cell perturbation.
+- Integrate immune-state and outcome readouts to build mechanistic model.
 
 ## Key Biology Insights
-- Time-of-day biology appears to modulate anti-tumor immune effectiveness via dendritic cells.
+- Anti-tumor immunity is temporally gated by immune-cell state.
+- Dendritic-cell timing programs can shape downstream anti-tumor responses.
+- Circadian phase is a biologically meaningful variable for cancer immunology experiments.
 
 ## Implications
-- Supports chrono-optimized immunotherapy design and trial scheduling.
+- Immunotherapy schedules may be improved by aligning treatment with favorable dendritic-cell circadian states.
+- Clinical trial design should consider treatment timing as a stratification variable.
+- Biomarkers of dendritic-cell circadian state may support precision chrono-immunotherapy.

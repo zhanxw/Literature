@@ -16,33 +16,46 @@
 - microbiome GWAS
 - host genetics
 - metagenomics
-- OR51E1-OR51E2
+- alpha diversity
+- intestinal molecular environment
 
 ## Main Idea
-- This large metagenomic GWAS links host genetic loci to gut microbial diversity/species variation and implicates intestinal molecular pathways.
+- The study investigates host-genetic determinants of gut microbiome composition using large harmonized metagenomic cohorts.
+- It identifies reproducible loci associated with microbial diversity and species-level abundance.
+- The central interpretation is that host intestinal molecular pathways shape microbiota variation.
 
 ## Evidence Supporting the Main Idea
-- Discovery across 16,017 adults from four Swedish cohorts.
-- Replication in 12,652 participants from Norway HUNT.
-- Reports 15 study-wide significant associations (P < 5.4 x 10^-11), with 11 replicated at 6 loci.
-- Recapitulates known loci (LCT, ABO, FUT2) and identifies additional loci including MUC12, CORO7-HMOX2, SLC5A11, FOXP1, FUT3-FUT6.
+- Discovery cohort includes 16,017 adults across four Swedish studies.
+- Replication cohort includes 12,652 participants from the Norwegian HUNT study.
+- Fifteen study-wide significant SNP-species associations were reported, with substantial replication.
+- Known loci (LCT, ABO, FUT2) were confirmed while additional loci were identified.
+- Supporting metabolomics and gene-expression analyses linked loci to plausible intestinal mechanisms.
 
 ## Main Novelty
-- High-powered, harmonized metagenomic host-genetics analysis with replication and integrative molecular interpretation.
+- High-powered, harmonized metagenomic GWAS with external replication at scale.
+- Connects genetic associations to intestinal chemosensing, bile biology, and mucosal processes.
+- Expands robust host-genetic signals beyond previously dominant loci.
 
 ## Datasets Used for Evaluation
-- Discovery: 16,017 adults (4 Swedish population studies).
-- Replication: 12,652 participants (Norwegian HUNT).
-- Supporting metabolomics and gene-expression evidence layers.
+- Discovery metagenomic GWAS: 16,017 participants, four Swedish population cohorts.
+- Replication GWAS: 12,652 participants, Norwegian HUNT cohort.
+- Species-level metagenomic profiles processed through standardized pipeline.
+- Integrative support datasets: metabolomics and gene-expression resources.
 
 ## Experimental Procedure
-- Harmonize metagenomic species-level profiles across cohorts.
-- Run GWAS and apply study-wide multiple-testing correction.
-- Replicate top associations in external cohort.
-- Integrate metabolomics and transcriptomic support analyses.
+- Harmonize deep shotgun metagenomic data across cohorts.
+- Quantify alpha diversity, species abundance, higher taxa, and functional modules.
+- Run GWAS/meta-analysis with multiple-testing control.
+- Replicate top associations in independent cohort.
+- Integrate molecular support analyses for mechanistic interpretation.
+- Compare new findings with prior microbiome GWAS literature.
 
 ## Key Biology Insights
-- Host control of microbiota appears linked to fatty-acid sensing, mucosal layer biology, and bile-related intestinal processes.
+- Host genetic control of microbiome variation is detectable and replicable at species-level resolution.
+- Enteroendocrine fatty-acid sensing and mucosal biology are implicated in diversity/composition.
+- Microbiome architecture reflects both microbial ecology and host physiological genetics.
 
 ## Implications
-- Improves mechanistic understanding of host-microbiome interactions and enables genetics-informed microbiome medicine.
+- Supports genetics-informed microbiome stratification in epidemiology and precision health.
+- Provides candidate pathways for intervention studies linking host genotype and microbiome modulation.
+- Demonstrates value of standardized metagenomic processing for reproducible host-microbiome genetics.

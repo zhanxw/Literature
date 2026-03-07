@@ -1,4 +1,5 @@
 # Paper Summary
+
 ### Authors
 - Sanju Sinha et al.
 
@@ -6,43 +7,56 @@
 - Nature Cancer
 
 ### Publication Date
-- 2024 (accepted March 8, 2024)
+- 2024
 
 ### DOI
-- 10.1038/s43018-024-00756-7
+- https://doi.org/10.1038/s43018-024-00756-7
 
 ## Keywords
-- Precision oncology
-- Single-cell transcriptomics
-- Drug response prediction
-- Tumor heterogeneity
-- Treatment resistance
+- precision oncology
+- single-cell transcriptomics
+- treatment response prediction
+- resistance evolution
+- tumor heterogeneity
+- PERCEPTION
 
 ## Main Idea
-- The paper introduces PERCEPTION, a computational pipeline that uses single-cell tumor transcriptomics to predict patient treatment response and resistance.
+- The paper presents PERCEPTION, a computational pipeline that predicts patient treatment response and resistance using single-cell tumor transcriptomics.
+- It is trained using large preclinical resources linking expression profiles and drug-response phenotypes, then transferred to patient settings.
+- The framework aims to personalize therapy by modeling clone-level heterogeneity rather than relying only on bulk averages.
 
 ## Evidence Supporting the Main Idea
-- The authors report validation in cultured cells, patient-tumor-derived primary cells, and clinical cohorts (multiple myeloma and breast cancer).
-- They state that PERCEPTION also tracks resistance development in lung cancer patients treated with tyrosine kinase inhibitors.
-- The manuscript reports PERCEPTION outperforming previously published single-cell-based and bulk-expression-based predictors across the evaluated clinical cohorts.
+- PERCEPTION was validated in cultured and patient-derived primary-cell settings for targeted therapy prediction.
+- The framework showed predictive utility in clinical-trial cohorts for multiple myeloma and breast cancer.
+- It captured resistance development trajectories in tyrosine-kinase-inhibitor-treated lung cancer patients.
+- The paper reports that PERCEPTION outperformed published single-cell-based and bulk-expression-based comparators across evaluated clinical cohorts.
 
 ## Main Novelty
-- A unified framework linking matched bulk/single-cell expression from drug screens to patient-level treatment prediction from single-cell tumor data.
+- Systematic use of single-cell tumor expression to build patient-level treatment response predictions.
+- Explicit integration of intra-tumor heterogeneity into response and resistance modeling.
+- A reusable computational framework bridging preclinical screens and clinical single-cell data.
 
 ## Datasets Used for Evaluation
-- Large-scale matched bulk and single-cell expression profiles from cell-line drug screens.
-- Clinical trial cohorts in multiple myeloma and breast cancer.
-- Lung cancer patient cohorts treated with tyrosine kinase inhibitors.
-- Exact sample sizes: Not specified in extracted text.
+- Large-scale preclinical drug-screen expression datasets.
+  - Main content: matched expression and treatment-response data for model training.
+  - Sample size: not specified in paper excerpt.
+- Single-cell patient tumor transcriptomic cohorts from clinical studies.
+  - Main content: scRNA-seq profiles linked to treatment outcomes across multiple cancer types.
+  - Sample size: trial-specific counts not specified in paper excerpt.
 
 ## Experimental Procedure
-- Build response models using matched bulk and single-cell expression plus drug-screen outcomes.
-- Apply models to patient single-cell tumor transcriptomes.
-- Evaluate prediction of response/non-response across clinical cohorts.
-- Compare against prior state-of-the-art single-cell and bulk-based predictors.
+- Build response models from matched bulk and single-cell preclinical expression data.
+- Convert patient scRNA-seq tumor profiles into model-compatible features.
+- Predict response at clone/cell-subpopulation resolution and aggregate to patient-level predictions.
+- Validate predictions in independent clinical cohorts.
+- Assess resistance dynamics in longitudinal or progression-associated contexts.
 
 ## Key Biology Insights
-- Single-cell tumor heterogeneity carries actionable information for treatment matching and resistance tracking.
+- Intra-tumor transcriptional heterogeneity carries actionable signal for treatment response prediction.
+- Single-cell profiles can reveal resistant subpopulations that bulk methods may dilute.
+- Resistance evolution can be tracked computationally from tumor-cell-state composition.
 
 ## Implications
-- Supports broader clinical adoption of single-cell omics for precision oncology treatment planning.
+- Supports clinical value of incorporating single-cell omics into precision oncology workflows.
+- May improve treatment selection and early resistance-risk stratification.
+- Encourages prospective clinical integration of sc-omics-guided decision support tools.

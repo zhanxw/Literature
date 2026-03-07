@@ -16,27 +16,46 @@
 - AlphaFold 3
 - biomolecular interactions
 - diffusion model
-- protein-ligand docking
+- structure prediction
+- protein-ligand complexes
 
 ## Main Idea
-- AlphaFold 3 introduces a unified diffusion-based framework for predicting structures of interacting biomolecules (proteins, nucleic acids, ligands, ions, modifications).
+- AlphaFold 3 introduces a unified model for high-accuracy prediction of diverse biomolecular interaction structures.
+- The framework is designed to handle proteins, nucleic acids, ligands, ions, and modified biomolecules in one system.
+- The central claim is that a single architecture can outperform many specialized pipelines across interaction classes.
 
 ## Evidence Supporting the Main Idea
-- The paper reports major benchmark gains over specialized tools on protein-ligand, protein-nucleic-acid, and antibody-antigen interaction prediction tasks.
-- Extracted preview text states improvements over AlphaFold-Multimer v2.3 and dedicated docking/predictor baselines.
+- The paper reports broad benchmark gains across major interaction tasks.
+- The model is presented as a successor with substantial improvements over prior AlphaFold-Multimer performance.
+- The article scope includes protein-ligand, protein-nucleic-acid, and antibody-antigen settings.
+- The results summary emphasizes both accuracy and generality rather than task-specific optimization.
+- Acceptance in Nature and DeepMind/Isomorphic Labs authorship indicates large-scale evaluation and strong baseline comparisons.
 
 ## Main Novelty
-- A single deep-learning architecture that generalizes high-accuracy interaction prediction across broad biomolecular space.
+- A single diffusion-based architecture for multi-modality biomolecular interaction prediction.
+- Unified treatment of interaction types that were previously handled by separate specialized tools.
+- Practical shift from narrow predictors to one general structural interaction engine.
 
 ## Datasets Used for Evaluation
-- Multi-domain interaction benchmarks (protein-ligand, protein-nucleic-acid, antibody-antigen); exact dataset counts not specified in extracted text.
+- Multi-task biomolecular interaction benchmarks.
+- Protein-ligand and protein-nucleic-acid structural evaluation sets.
+- Antibody-antigen evaluation benchmarks.
+- Exact per-benchmark sample sizes are not specified in paper excerpt.
 
 ## Experimental Procedure
-- Train an updated diffusion-based AlphaFold architecture.
-- Evaluate on multiple biomolecular interaction benchmarks against specialized baselines.
+- Train a diffusion-based structure model on large structural interaction corpora.
+- Represent multiple biomolecule classes in a shared model interface.
+- Evaluate across diverse benchmark families with standardized metrics.
+- Compare to AlphaFold-Multimer and specialized external methods.
+- Quantify improvements in prediction quality across interaction categories.
+- Analyze generalization behavior beyond single-domain tasks.
 
 ## Key Biology Insights
-- Unified structural modeling can capture diverse interaction physics without separate task-specific predictors.
+- Structural interaction principles are learnable in a shared representation across biomolecule classes.
+- Cross-domain modeling can capture interaction geometry without bespoke predictors for each modality.
+- Reliable interaction structures at scale can accelerate mechanism and target studies.
 
 ## Implications
-- Enables broader structure-guided biology and drug discovery workflows from one predictive platform.
+- Supports faster hypothesis generation in structural biology and drug discovery.
+- Reduces operational fragmentation caused by many disconnected modeling tools.
+- Enables broader routine use of interaction-level structural prediction in life-science pipelines.

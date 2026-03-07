@@ -16,28 +16,47 @@
 ## Keywords
 - short-chain fatty acids
 - gut microbiota
-- fiber fermentation
-- host-microbe interactions
+- dietary fiber fermentation
+- cross-feeding
+- host-microbe signaling
 
 ## Main Idea
-- The review synthesizes how microbiota-derived SCFAs are produced, how they signal to host systems, and how they influence intestinal and extraintestinal disease.
+- This review synthesizes how gut microbes produce SCFAs and how these metabolites influence host physiology.
+- It connects microbial metabolism, gut ecological interactions, and host immune/barrier outcomes.
+- The core message is that SCFA effects depend on both microbial community context and host state.
 
 ## Evidence Supporting the Main Idea
-- Integrates microbial metabolic pathways and cross-feeding mechanisms for acetate, propionate, and butyrate production.
-- Reviews molecular interactions in gut barrier, immunity, and systemic physiology.
-- Summarizes disease links and therapeutic development directions.
+- The review details substrate sources, including dietary fiber and host-derived compounds such as mucin.
+- It describes cross-feeding networks among primary degraders and secondary fermenters.
+- It summarizes local intestinal effects and broader systemic effects of acetate, propionate, and butyrate.
+- Disease links are discussed across intestinal and extraintestinal conditions.
+- Therapeutic directions are presented with caution about context-dependent responses.
 
 ## Main Novelty
-- Comprehensive integration of microbial ecology, host signaling, and translational implications for SCFA-targeted interventions.
+- Integrates biochemical production pathways with immunological and clinical consequences in a single framework.
+- Emphasizes ecological network effects rather than single-microbe interpretations.
+- Frames SCFA translation as a context-aware precision problem.
 
 ## Datasets Used for Evaluation
-- Not a single primary dataset; evidence is synthesized from prior mechanistic, clinical, and translational studies.
+- Not a single primary dataset; this is a review article.
+- Evidence synthesized from mechanistic microbiology studies.
+- Evidence synthesized from host physiology and immunology studies.
+- Evidence synthesized from clinical/epidemiological studies on disease associations.
 
 ## Experimental Procedure
-- Structured evidence synthesis across metabolism, host interaction mechanisms, and disease contexts.
+- Not specified in paper as a new experiment (review format).
+- Curate prior literature on microbial SCFA metabolism.
+- Organize evidence by production pathways and ecological interactions.
+- Synthesize host signaling mechanisms and immune effects.
+- Compare disease associations and therapeutic intervention findings.
+- Provide conclusions and outlook for translational applications.
 
 ## Key Biology Insights
-- SCFA effects are highly context dependent and mediated by both microbial network structure and host physiology.
+- SCFA output depends on substrate availability and microbial interaction topology.
+- Host response to SCFAs is tissue- and condition-dependent.
+- Gut homeostasis and disease risk can both be modulated through SCFA pathways.
 
 ## Implications
-- Supports diet- and microbiome-directed strategies to modulate SCFA biology for disease prevention and treatment.
+- Diet and microbiome interventions should consider ecosystem-level effects.
+- SCFA-targeted therapies need stratification by host and microbiome context.
+- Future studies should integrate metabolism, ecology, and clinical endpoints.
