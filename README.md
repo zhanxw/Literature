@@ -16,6 +16,7 @@ Automatically generated list of literature summaries.
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md)
 - [Reliable detection of Host-Microbe Signatures in cancer using PRISM](2026-Ghaddar-Reliable detection of Host-Microbe Signatures in cancer using PRISM.md)
 - [Paper Summary](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md)
+- [Paper Summary](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md)
 - [Paper Summary](2026-servetas-evaluating-analytical-performance-direct-to-consumer-gut-microbiome-testing-services.md)
 - [Paper Summary](2026-grant-navigating-duality-akkermansia-muciniphila.md)
 - [Paper Summary](2026-unemo-zoliflodacin-phase-3-microbiological-failures.md)
