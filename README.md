@@ -7,7 +7,6 @@ Automatically generated list of literature summaries.
 ### Unknown
 
 - [Paper Summary](2025-Goulet-Crocodeel-Accurate-Control-Free-Detection-Of-Cross-Sample-Contamination-In-Metagenomic-Data.md)
-- [Paper Summary](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md)
 - [Paper Summary](2025-Kang-Microgenomer-Transferable-Microbial-Genome-Representations-Enabling-Multi-Scale-Genomic-Understanding-And-Ecophysiological-Trait-Prediction.md)
 - [Paper Summary](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md)
 - [Paper Summary](2025-Pacesa-Bindcraft-One-Shot-Design-Of-Functional-Protein-Binders.md)
@@ -21,6 +20,7 @@ Automatically generated list of literature summaries.
 - [Paper Summary](2026-grant-navigating-duality-akkermansia-muciniphila.md)
 - [Paper Summary](2026-ntekas-spatial-transcriptomics-maps-host-gut-microbiome-biogeography-high-resolution.md)
 - [Paper Summary](2026-unemo-zoliflodacin-phase-3-microbiological-failures.md)
+- [Paper Summary](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md)
 - [Paper Summary](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md)
 - [Paper Summary](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md)
 - [Paper Summary](2026-dekkers-gwas-intestinal-molecular-environment-human-gut-microbiota-variation.md)
