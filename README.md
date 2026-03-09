@@ -40,6 +40,7 @@ Automatically generated list of literature summaries.
 - [Paper Summary](2025-catacutan-discovery-ai-guided-mechanistic-elucidation-narrow-spectrum-antibiotic.md)
 - [Paper Summary](2025-wang-predicting-drug-responses-unseen-cell-types-transfer-learning-foundation-models.md)
 - [Paper Summary](2025-qu-gianthunter-accurate-detection-giant-virus-metagenomic-data.md)
+- [Paper Summary](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md)
 - [Paper Summary](2025-kim-evaluation-prediction-guide-rna-activities-genome-editing-tools.md)
 - [Paper Summary](2025-jacobsson-zoliflodacin-susceptibility-egasp-2021-2024.md)
 - [Paper Summary](2025-chen-machine-learning-assisted-optimization-dietary-intervention-dementia-risk.md)
