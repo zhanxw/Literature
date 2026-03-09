@@ -19,6 +19,7 @@ Automatically generated list of literature summaries.
 - [Paper Summary](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md)
 - [Paper Summary](2026-servetas-evaluating-analytical-performance-direct-to-consumer-gut-microbiome-testing-services.md)
 - [Paper Summary](2026-grant-navigating-duality-akkermansia-muciniphila.md)
+- [Paper Summary](2026-ntekas-spatial-transcriptomics-maps-host-gut-microbiome-biogeography-high-resolution.md)
 - [Paper Summary](2026-unemo-zoliflodacin-phase-3-microbiological-failures.md)
 - [Paper Summary](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md)
 - [Paper Summary](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md)
