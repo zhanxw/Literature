@@ -7,3 +7,8 @@ archived/**/*.PDF
 # macOS Finder metadata
 .DS_Store
 **/.DS_Store
+
+# Python cache artifacts
+__pycache__/
+**/__pycache__/
+*.py[cod]
