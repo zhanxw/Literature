@@ -14,6 +14,7 @@ Automatically generated list of literature summaries.
 
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md)
 - [Reliable detection of Host-Microbe Signatures in cancer using PRISM](2026-Ghaddar-Reliable detection of Host-Microbe Signatures in cancer using PRISM.md)
+- [Paper Summary](2026-chen-strain-level-genetic-heterogeneity-and-colonization-dynamics-drive-microbiome-therapeutic-efficacy.md)
 - [Paper Summary](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md)
 - [Paper Summary](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md)
 - [Paper Summary](2026-nguyen-amr-gnn-genomic-antimicrobial-resistance-prediction.md)
@@ -23,6 +24,7 @@ Automatically generated list of literature summaries.
 - [Paper Summary](2026-unemo-zoliflodacin-phase-3-microbiological-failures.md)
 - [Paper Summary](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md)
 - [Paper Summary](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md)
+- [Paper Summary](2026-da-silva-meta-analysis-of-the-uncultured-gut-microbiome-candidate-signature-of-health.md)
 - [Paper Summary](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md)
 - [Paper Summary](2026-dekkers-gwas-intestinal-molecular-environment-human-gut-microbiota-variation.md)
 - [Navigating the duality of Akkermansia muciniphila](2026-Grant-Navigating the duality of Akkermansia muciniphila.md)
