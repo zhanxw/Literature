@@ -74,6 +74,7 @@ Automatically generated list of literature summaries.
 - [Rgreat functional enrichment genomic regions](2023-gu-rgreat-functional-enrichment-genomic-regions.md)
 - [Nino intratumoral microbiota spatial cellular heterogeneity cancer](2022-galeano-nino-intratumoral-microbiota-spatial-cellular-heterogeneity-cancer.md)
 - [Dendritic cells direct circadian anti tumor immune responses](2022-wang-dendritic-cells-direct-circadian-anti-tumor-immune-responses.md)
+- [Concerted modification ribosome single molecule rna profiling](2022-bailey-concerted-modification-ribosome-single-molecule-rna-profiling.md)
 - [Commensal microbiota inflammatory bowel disease produce genotoxic metabolites](2022-cao-commensal-microbiota-inflammatory-bowel-disease-produce-genotoxic-metabolites.md)
 ### 2021
 
