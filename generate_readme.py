@@ -3,6 +3,11 @@ import re
 import glob
 
 GENERIC_HEADINGS = {"paper summary", "summary"}
+PLACEHOLDER_KEYWORDS = {
+    "not specified in paper",
+    "not specified",
+    "...",
+}
 
 
 def title_from_filename(file_path):
@@ -56,6 +61,97 @@ def extract_title(content, file_path):
     return title_from_filename(file_path)
 
 
+def clean_keyword(keyword):
+    keyword = re.sub(r'^\s*[-*+]\s*', '', keyword).strip()
+    keyword = re.sub(r'^\d+\.\s*', '', keyword).strip()
+    keyword = re.sub(r'^\*\*(.*?)\*\*$', r'\1', keyword).strip()
+    keyword = keyword.rstrip(':').strip()
+    keyword = re.sub(r'\s+', ' ', keyword)
+    if not keyword:
+        return None
+    if keyword.lower() in PLACEHOLDER_KEYWORDS:
+        return None
+    return keyword
+
+
+def dedupe_keywords(keywords):
+    deduped = []
+    seen = set()
+    for keyword in keywords:
+        cleaned = clean_keyword(keyword)
+        if not cleaned:
+            continue
+        lowered = cleaned.lower()
+        if lowered in seen:
+            continue
+        seen.add(lowered)
+        deduped.append(cleaned)
+    return deduped
+
+
+def extract_section_keywords(content):
+    lines = content.splitlines()
+    keywords = []
+
+    for i, line in enumerate(lines):
+        heading_match = re.match(r'^(#{2,6})\s+(.+?)\s*$', line)
+        if not heading_match:
+            continue
+
+        heading_level = len(heading_match.group(1))
+        heading_text = heading_match.group(2).strip()
+        heading_text_lower = heading_text.lower()
+        if "keyword" not in heading_text_lower:
+            continue
+
+        collect_bullets = bool(re.fullmatch(r'keywords?', heading_text_lower.rstrip(':').strip()))
+        collect_subheadings = not collect_bullets
+
+        j = i + 1
+        while j < len(lines):
+            current = lines[j]
+
+            next_heading_match = re.match(r'^(#{1,6})\s+(.+?)\s*$', current)
+            if next_heading_match and len(next_heading_match.group(1)) <= heading_level:
+                break
+
+            if collect_subheadings and next_heading_match and len(next_heading_match.group(1)) > heading_level:
+                keywords.append(next_heading_match.group(2))
+                j += 1
+                continue
+
+            bullet_match = re.match(r'^\s*[-*+]\s+(.+?)\s*$', current)
+            if collect_bullets and bullet_match:
+                keywords.append(bullet_match.group(1))
+                j += 1
+                continue
+
+            j += 1
+
+        if keywords:
+            break
+
+    return dedupe_keywords(keywords)
+
+
+def extract_inline_keywords(content):
+    keywords = []
+    keyword_patterns = [
+        r'\*\*Keywords:\*\*\s*(.+)',
+        r'\*Keywords:\*\s*(.+)',
+        r'Keywords:\s*(.+)',
+    ]
+    for pattern in keyword_patterns:
+        match = re.search(pattern, content, re.IGNORECASE)
+        if not match:
+            continue
+        line = match.group(1).strip().rstrip('*').strip()
+        keywords.extend(re.split(r',|;', line))
+        if keywords:
+            break
+    return dedupe_keywords(keywords)
+
+
 def parse_markdown(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
@@ -100,22 +196,9 @@ def parse_markdown(file_path):
         else:
             year = "Unknown"
 
-    # Keywords: Look for Keywords: or *Keywords:*
-    keywords = []
-    keyword_patterns = [
-        r'\*Keywords:\*\s*(.*)',
-        r'Keywords:\s*(.*)'
-    ]
-    for pattern in keyword_patterns:
-        match = re.search(pattern, content, re.IGNORECASE)
-        if match:
-            line = match.group(1).strip()
-            # Remove trailing * if exists
-            line = line.rstrip('*').strip()
-            # Split by comma or semicolon
-            split_keywords = re.split(r',|;', line)
-            keywords = [k.strip() for k in split_keywords if k.strip()]
-            break
+    keywords = extract_section_keywords(content)
+    if not keywords:
+        keywords = extract_inline_keywords(content)
             
     return {
         'title': title,
