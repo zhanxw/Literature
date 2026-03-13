@@ -21,6 +21,7 @@ Automatically generated list of literature summaries.
 - [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md)
 - [Mmethane Interpretable Ai For Predicting Host Status From Microbial Composition And Metabolomics Data](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md)
 - [Leveraging intratumoral probiotics pancreatic cancer immunotherapy via xenophagy](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md)
+- [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md)
 - [Identifying unmeasured heterogeneity in microbiome data via quantile thresholding (QuanT)](2026-Lu-Identifying_unmeasured_heterogeneity_quanT.md)
 - [Gwas intestinal molecular environment human gut microbiota variation](2026-dekkers-gwas-intestinal-molecular-environment-human-gut-microbiota-variation.md)
 - [Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design](2026-Shao-Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design.md)
@@ -231,6 +232,10 @@ Automatically generated list of literature summaries.
 
 - [Rapid Phylogenetic Analysis Gubbins](2015-Croucher-Rapid-Phylogenetic-Analysis-Gubbins.md) (2015)
 
+### Bacteroides fragilis
+
+- [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md) (2026)
+
 ### Bacteroides uniformis
 
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md) (2026)
@@ -355,6 +360,10 @@ Automatically generated list of literature summaries.
 ### colorectal cancer
 
 - [Commensal microbiota inflammatory bowel disease produce genotoxic metabolites](2022-cao-commensal-microbiota-inflammatory-bowel-disease-produce-genotoxic-metabolites.md) (2022)
+
+### colorectal cancer (CRC)
+
+- [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md) (2026)
 
 ### colorectal cancer model
 
@@ -575,6 +584,10 @@ Automatically generated list of literature summaries.
 
 - [Spatial and temporal patterns of public transit aerobiomes](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md) (2026)
 
+### Fusobacterium nucleatum
+
+- [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md) (2026)
+
 ### Gavi
 
 - [Effective health aid evidence gavi vaccine program](2025-shastry-effective-health-aid-evidence-gavi-vaccine-program.md) (2025)
@@ -742,6 +755,10 @@ Automatically generated list of literature summaries.
 
 - [Gwas intestinal molecular environment human gut microbiota variation](2026-dekkers-gwas-intestinal-molecular-environment-human-gut-microbiota-variation.md) (2026)
 
+### host genotype
+
+- [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md) (2026)
+
 ### host status prediction
 
 - [Mmethane Interpretable Ai For Predicting Host Status From Microbial Composition And Metabolomics Data](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md) (2026)
@@ -823,6 +840,7 @@ Automatically generated list of literature summaries.
 
 ### intratumoral microbiota
 
+- [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md) (2026)
 - [Nino intratumoral microbiota spatial cellular heterogeneity cancer](2022-galeano-nino-intratumoral-microbiota-spatial-cellular-heterogeneity-cancer.md) (2022)
 
 ### irinotecan
@@ -1089,6 +1107,10 @@ Automatically generated list of literature summaries.
 
 - [Cell type directed network correcting combination therapy alzheimers disease](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md) (2025)
 
+### neutrophil cytotoxicity
+
+- [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md) (2026)
+
 ### next-generation probiotics
 
 - [Navigating duality akkermansia muciniphila](2026-grant-navigating-duality-akkermansia-muciniphila.md) (2026)
@@ -1316,6 +1338,10 @@ Automatically generated list of literature summaries.
 - [Spatial and temporal patterns of public transit aerobiomes](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md) (2026)
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md) (2026)
 
+### Siglec-14
+
+- [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md) (2026)
+
 ### single-cell perturbation
 
 - [Predicting drug responses unseen cell types transfer learning foundation models](2025-wang-predicting-drug-responses-unseen-cell-types-transfer-learning-foundation-models.md) (2025)
@@ -1457,6 +1483,10 @@ Automatically generated list of literature summaries.
 - [Conserved spatial subtypes cellular neighborhoods cancer associated fibroblasts](2025-liu-conserved-spatial-subtypes-cellular-neighborhoods-cancer-associated-fibroblasts.md) (2025)
 - [Nino intratumoral microbiota spatial cellular heterogeneity cancer](2022-galeano-nino-intratumoral-microbiota-spatial-cellular-heterogeneity-cancer.md) (2022)
 - [Dendritic cells direct circadian anti tumor immune responses](2022-wang-dendritic-cells-direct-circadian-anti-tumor-immune-responses.md) (2022)
+
+### tumor-associated neutrophils (TANs)
+
+- [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md) (2026)
 
 ### ucgMLST
 
