@@ -18,6 +18,7 @@ Automatically generated list of literature summaries.
 - [Navigating the duality of Akkermansia muciniphila](2026-Grant-Navigating the duality of Akkermansia muciniphila.md)
 - [Navigating duality akkermansia muciniphila](2026-grant-navigating-duality-akkermansia-muciniphila.md)
 - [Multimodal spatial omics co evolution alveolar progenitors proinflammatory niches lung precursor lesions](2026-peng-multimodal-spatial-omics-co-evolution-alveolar-progenitors-proinflammatory-niches-lung-precursor-lesions.md)
+- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md)
 - [Mmethane Interpretable Ai For Predicting Host Status From Microbial Composition And Metabolomics Data](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md)
 - [Leveraging intratumoral probiotics pancreatic cancer immunotherapy via xenophagy](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md)
 - [Identifying unmeasured heterogeneity in microbiome data via quantile thresholding (QuanT)](2026-Lu-Identifying_unmeasured_heterogeneity_quanT.md)
@@ -172,6 +173,10 @@ Automatically generated list of literature summaries.
 ### antibiotics
 
 - [Discovery structural class antibiotics explainable deep learning](2024-wong-discovery-structural-class-antibiotics-explainable-deep-learning.md) (2024)
+
+### Antigen prioritization
+
+- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
 
 ### antimicrobial resistance
 
@@ -828,9 +833,17 @@ Automatically generated list of literature summaries.
 
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md) (2023)
 
+### Knowledge graph
+
+- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
+
 ### Laplace approximation
 
 - [Tmb automatic differentiation laplace approximation](2016-kristensen-tmb-automatic-differentiation-laplace-approximation.md) (2016)
+
+### Large language model (LLM)
+
+- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
 
 ### large-scale inference
 
@@ -851,6 +864,10 @@ Automatically generated list of literature summaries.
 ### library scale
 
 - [Impact library size scale testing virtual screening](2025-liu-impact-library-size-scale-testing-virtual-screening.md) (2025)
+
+### Literature mining
+
+- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
 
 ### localization
 
@@ -1034,6 +1051,10 @@ Automatically generated list of literature summaries.
 ### multimodal MRI
 
 - [Plasma proteomics biomarkers undulating changes brain aging](2024-liu-plasma-proteomics-biomarkers-undulating-changes-brain-aging.md) (2024)
+
+### Mycobacterium tuberculosis (MTB)
+
+- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
 
 ### nanopore direct RNA sequencing
 
@@ -1456,6 +1477,10 @@ Automatically generated list of literature summaries.
 ### vaccination coverage
 
 - [Effective health aid evidence gavi vaccine program](2025-shastry-effective-health-aid-evidence-gavi-vaccine-program.md) (2025)
+
+### Vaccine development
+
+- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
 
 ### Variant effect prediction
 
