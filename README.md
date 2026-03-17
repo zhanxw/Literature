@@ -29,6 +29,7 @@ Automatically generated list of literature summaries.
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md)
 - [Evaluating analytical performance direct to consumer gut microbiome testing services](2026-servetas-evaluating-analytical-performance-direct-to-consumer-gut-microbiome-testing-services.md)
 - [Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome](2026-Lu-Eubiota-modular-agentic-ai-gut-microbiome.md)
+- [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md)
 - [Critical assessment of intratumor and low-biomass microbiome using long-read sequencing](2026-Fang-Critical assessment of intratumor and low-biomass microbiome using long-read sequencing.md)
 - [Biological and technical variability in mouse microbiota analysis and implications for sample size determination](2025-McAdams-Biological and technical variability in mouse microbiota analysis and implications for sample size determination.md)
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md)
@@ -444,6 +445,7 @@ Automatically generated list of literature summaries.
 
 ### deep learning
 
+- [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
 - [Discovery ai guided mechanistic elucidation narrow spectrum antibiotic](2025-catacutan-discovery-ai-guided-mechanistic-elucidation-narrow-spectrum-antibiotic.md) (2025)
 
 ### dementia prevention
@@ -730,6 +732,10 @@ Automatically generated list of literature summaries.
 
 - [Silva meta analysis of the uncultured gut microbiome candidate signature of health](2026-da-silva-meta-analysis-of-the-uncultured-gut-microbiome-candidate-signature-of-health.md) (2026)
 
+### hepatocellular carcinoma
+
+- [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
+
 ### hierarchical vision transformer
 
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md) (2023)
@@ -745,6 +751,10 @@ Automatically generated list of literature summaries.
 ### hit rate
 
 - [Impact library size scale testing virtual screening](2025-liu-impact-library-size-scale-testing-virtual-screening.md) (2025)
+
+### hit-to-lead optimization
+
+- [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
 
 ### horizontal gene transfer
 
@@ -779,6 +789,10 @@ Automatically generated list of literature summaries.
 ### Humanised microbiome mouse model
 
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md) (2026)
+
+### idiopathic pulmonary fibrosis
+
+- [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
 
 ### IL1B
 
@@ -1348,6 +1362,7 @@ Automatically generated list of literature summaries.
 
 ### single-cell RNA-seq
 
+- [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
 - [Nino intratumoral microbiota spatial cellular heterogeneity cancer](2022-galeano-nino-intratumoral-microbiota-spatial-cellular-heterogeneity-cancer.md) (2022)
 
 ### single-cell transcriptomics
@@ -1449,6 +1464,10 @@ Automatically generated list of literature summaries.
 
 - [Tmb automatic differentiation laplace approximation](2016-kristensen-tmb-automatic-differentiation-laplace-approximation.md) (2016)
 
+### transcriptomics-based drug discovery
+
+- [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
+
 ### transfer learning
 
 - [Predicting drug responses unseen cell types transfer learning foundation models](2025-wang-predicting-drug-responses-unseen-cell-types-transfer-learning-foundation-models.md) (2025)
@@ -1522,6 +1541,7 @@ Automatically generated list of literature summaries.
 
 ### virtual screening
 
+- [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
 - [Impact library size scale testing virtual screening](2025-liu-impact-library-size-scale-testing-virtual-screening.md) (2025)
 
 ### Virulence
