@@ -18,7 +18,7 @@ Automatically generated list of literature summaries.
 - [Navigating the duality of Akkermansia muciniphila](2026-Grant-Navigating the duality of Akkermansia muciniphila.md)
 - [Navigating duality akkermansia muciniphila](2026-grant-navigating-duality-akkermansia-muciniphila.md)
 - [Multimodal spatial omics co evolution alveolar progenitors proinflammatory niches lung precursor lesions](2026-peng-multimodal-spatial-omics-co-evolution-alveolar-progenitors-proinflammatory-niches-lung-precursor-lesions.md)
-- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md)
+- [MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md)
 - [Mmethane Interpretable Ai For Predicting Host Status From Microbial Composition And Metabolomics Data](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md)
 - [Leveraging intratumoral probiotics pancreatic cancer immunotherapy via xenophagy](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md)
 - [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md)
@@ -178,7 +178,7 @@ Automatically generated list of literature summaries.
 
 ### Antigen prioritization
 
-- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
+- [MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
 
 ### antimicrobial resistance
 
@@ -867,7 +867,7 @@ Automatically generated list of literature summaries.
 
 ### Knowledge graph
 
-- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
+- [MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
 
 ### Laplace approximation
 
@@ -875,7 +875,7 @@ Automatically generated list of literature summaries.
 
 ### Large language model (LLM)
 
-- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
+- [MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
 
 ### large-scale inference
 
@@ -899,7 +899,7 @@ Automatically generated list of literature summaries.
 
 ### Literature mining
 
-- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
+- [MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
 
 ### localization
 
@@ -1086,7 +1086,7 @@ Automatically generated list of literature summaries.
 
 ### Mycobacterium tuberculosis (MTB)
 
-- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
+- [MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
 
 ### nanopore direct RNA sequencing
 
@@ -1529,7 +1529,7 @@ Automatically generated list of literature summaries.
 
 ### Vaccine development
 
-- [Mtb immunogenkg antigen selection tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
+- [MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
 
 ### Variant effect prediction
 

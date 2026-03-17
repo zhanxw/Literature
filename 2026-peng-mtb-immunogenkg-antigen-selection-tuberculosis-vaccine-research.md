@@ -1,4 +1,4 @@
-# Paper Summary
+# Paper Summary: MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research
 
 ### Authors
 Jielong Peng, Xinhao Zhuang, Yingying Chen, Haitong Xu, Yunjie Du, Bingdong Zhu, Guoping Zhao, Ying Wang, Yunchao Ling, Guoqing Zhang
