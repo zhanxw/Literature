@@ -33,6 +33,7 @@ Automatically generated list of literature summaries.
 - [Critical assessment of intratumor and low-biomass microbiome using long-read sequencing](2026-Fang-Critical assessment of intratumor and low-biomass microbiome using long-read sequencing.md)
 - [Biological and technical variability in mouse microbiota analysis and implications for sample size determination](2025-McAdams-Biological and technical variability in mouse microbiota analysis and implications for sample size determination.md)
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md)
+- [Antibiotic use and gut microbiome composition links from individual-level prescription data of 14,979 individuals](2026-baldanzi-antibiotic-use-gut-microbiome-prescription-data.md)
 - [Amr gnn genomic antimicrobial resistance prediction](2026-nguyen-amr-gnn-genomic-antimicrobial-resistance-prediction.md)
 ### 2025
 
@@ -178,6 +179,7 @@ Automatically generated list of literature summaries.
 
 ### antibiotics
 
+- [Antibiotic use and gut microbiome composition links from individual-level prescription data of 14,979 individuals](2026-baldanzi-antibiotic-use-gut-microbiome-prescription-data.md) (2026)
 - [Discovery structural class antibiotics explainable deep learning](2024-wong-discovery-structural-class-antibiotics-explainable-deep-learning.md) (2024)
 
 ### Antigen prioritization
@@ -348,6 +350,10 @@ Automatically generated list of literature summaries.
 ### city-specific microbiome
 
 - [Spatial and temporal patterns of public transit aerobiomes](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md) (2026)
+
+### clindamycin
+
+- [Antibiotic use and gut microbiome composition links from individual-level prescription data of 14,979 individuals](2026-baldanzi-antibiotic-use-gut-microbiome-prescription-data.md) (2026)
 
 ### clinical AI
 
@@ -605,6 +611,14 @@ Automatically generated list of literature summaries.
 
 - [Strain level genetic heterogeneity and colonization dynamics drive microbiome therapeutic efficacy](2026-chen-strain-level-genetic-heterogeneity-and-colonization-dynamics-drive-microbiome-therapeutic-efficacy.md) (2026)
 
+### flucloxacillin
+
+- [Antibiotic use and gut microbiome composition links from individual-level prescription data of 14,979 individuals](2026-baldanzi-antibiotic-use-gut-microbiome-prescription-data.md) (2026)
+
+### fluoroquinolones
+
+- [Antibiotic use and gut microbiome composition links from individual-level prescription data of 14,979 individuals](2026-baldanzi-antibiotic-use-gut-microbiome-prescription-data.md) (2026)
+
 ### foldback artifact
 
 - [Detecting Foldback Artifacts In Long Reads](2025-Heinz-Detecting-Foldback-Artifacts-In-Long-Reads.md) (2025)
@@ -746,6 +760,7 @@ Automatically generated list of literature summaries.
 ### Gut microbiome
 
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md) (2026)
+- [Antibiotic use and gut microbiome composition links from individual-level prescription data of 14,979 individuals](2026-baldanzi-antibiotic-use-gut-microbiome-prescription-data.md) (2026)
 - [Lopez Imbalance In Gut Microbial Interactions As A Marker Of Health And Disease](2025-Corral-Lopez-Imbalance-In-Gut-Microbial-Interactions-As-A-Marker-Of-Health-And-Disease.md) (2025)
 
 ### gut microbiome biogeography
@@ -981,6 +996,10 @@ Automatically generated list of literature summaries.
 ### long-read sequencing
 
 - [Detecting Foldback Artifacts In Long Reads](2025-Heinz-Detecting-Foldback-Artifacts-In-Long-Reads.md) (2025)
+
+### long-term microbiome disruption
+
+- [Antibiotic use and gut microbiome composition links from individual-level prescription data of 14,979 individuals](2026-baldanzi-antibiotic-use-gut-microbiome-prescription-data.md) (2026)
 
 ### low-biomass contamination control
 
@@ -1291,6 +1310,10 @@ Automatically generated list of literature summaries.
 
 - [Multimodal spatial omics co evolution alveolar progenitors proinflammatory niches lung precursor lesions](2026-peng-multimodal-spatial-omics-co-evolution-alveolar-progenitors-proinflammatory-niches-lung-precursor-lesions.md) (2026)
 
+### prescription registry
+
+- [Antibiotic use and gut microbiome composition links from individual-level prescription data of 14,979 individuals](2026-baldanzi-antibiotic-use-gut-microbiome-prescription-data.md) (2026)
+
 ### pretraining corpus
 
 - [The Omg Dataset An Open Metagenomic Corpus For Mixed Modality Genomic Language Modeling](2024-Cornman-The-Omg-Dataset-An-Open-Metagenomic-Corpus-For-Mixed-Modality-Genomic-Language-Modeling.md) (2024)
@@ -1444,6 +1467,7 @@ Automatically generated list of literature summaries.
 
 - [Spatial and temporal patterns of public transit aerobiomes](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md) (2026)
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md) (2026)
+- [Antibiotic use and gut microbiome composition links from individual-level prescription data of 14,979 individuals](2026-baldanzi-antibiotic-use-gut-microbiome-prescription-data.md) (2026)
 
 ### Siglec-14
 
