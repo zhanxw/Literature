@@ -46,6 +46,7 @@ Automatically generated list of literature summaries.
 - [Lopez Imbalance In Gut Microbial Interactions As A Marker Of Health And Disease](2025-Corral-Lopez-Imbalance-In-Gut-Microbial-Interactions-As-A-Marker-Of-Health-And-Disease.md)
 - [Interplm discovering interpretable features protein language models sparse autoencoders](2025-simon-interplm-discovering-interpretable-features-protein-language-models-sparse-autoencoders.md)
 - [Impact library size scale testing virtual screening](2025-liu-impact-library-size-scale-testing-virtual-screening.md)
+- [Human genetics of steatotic liver disease: insights into insulin resistance and lipid metabolism](2025-mancina-human-genetics-steatotic-liver-disease-insulin-resistance-lipid-metabolism.md)
 - [Gut microbiota-derived short-chain fatty acids and their role in human health and disease](2025-Mukhopadhya-Gut-microbiota-derived-short-chain-fatty-acids-and-their-role-in-human-health-and-disease.md)
 - [Gut microbiota derived short chain fatty acids role human health disease](2025-mukhopadhya-gut-microbiota-derived-short-chain-fatty-acids-role-human-health-disease.md)
 - [Gianthunter accurate detection giant virus metagenomic data](2025-qu-gianthunter-accurate-detection-giant-virus-metagenomic-data.md)
@@ -75,6 +76,7 @@ Automatically generated list of literature summaries.
 
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md)
 - [Evolutionary scale prediction atomic protein structure language model](2023-lin-evolutionary-scale-prediction-atomic-protein-structure-language-model.md)
+- [Evaluating explainability for graph neural networks](2023-agarwal-evaluating-explainability-graph-neural-networks.md)
 - [B cell specific checkpoint molecules regulate anti tumour immunity](2023-bod-b-cell-specific-checkpoint-molecules-regulate-anti-tumour-immunity.md)
 ### 2022
 
@@ -86,9 +88,11 @@ Automatically generated list of literature summaries.
 ### 2021
 
 - [Srgan wheat stripe rust classification](2021-maqsood-srgan-wheat-stripe-rust-classification.md)
+- [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md)
 ### 2020
 
 - [Mara rama and soxs stress response survival cost](2020-holden-mara-rama-and-soxs-stress-response-survival-cost.md)
+- [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md)
 ### 2019
 
 - [Validating The Amrfinder Tool And Resistance Gene Database](2019-Feldgarden-Validating-The-Amrfinder-Tool-And-Resistance-Gene-Database.md)
@@ -204,6 +208,10 @@ Automatically generated list of literature summaries.
 ### automatic differentiation
 
 - [Tmb automatic differentiation laplace approximation](2016-kristensen-tmb-automatic-differentiation-laplace-approximation.md) (2016)
+
+### auxotrophy analysis
+
+- [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md) (2020)
 
 ### azithromycin
 
@@ -341,6 +349,10 @@ Automatically generated list of literature summaries.
 
 - [Spatial and temporal patterns of public transit aerobiomes](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md) (2026)
 
+### clinical AI
+
+- [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md) (2021)
+
 ### Clinical translation
 
 - [Spatial omics forefront emerging technologies analytical innovations clinical applications](2026-liu-spatial-omics-forefront-emerging-technologies-analytical-innovations-clinical-applications.md) (2026)
@@ -374,6 +386,10 @@ Automatically generated list of literature summaries.
 
 - [Cell type directed network correcting combination therapy alzheimers disease](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md) (2025)
 
+### comparative genomics
+
+- [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md) (2020)
+
 ### computational pathology
 
 - [Multimodal generative ai copilot human pathology](2024-lu-multimodal-generative-ai-copilot-human-pathology.md) (2024)
@@ -389,6 +405,10 @@ Automatically generated list of literature summaries.
 ### context dependence
 
 - [Navigating duality akkermansia muciniphila](2026-grant-navigating-duality-akkermansia-muciniphila.md) (2026)
+
+### contextualized embeddings
+
+- [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md) (2021)
 
 ### convolutional neural network
 
@@ -492,6 +512,10 @@ Automatically generated list of literature summaries.
 
 - [Srgan wheat stripe rust classification](2021-maqsood-srgan-wheat-stripe-rust-classification.md) (2021)
 
+### disease prediction
+
+- [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md) (2021)
+
 ### DNA damage
 
 - [Commensal microbiota inflammatory bowel disease produce genotoxic metabolites](2022-cao-commensal-microbiota-inflammatory-bowel-disease-produce-genotoxic-metabolites.md) (2022)
@@ -528,6 +552,10 @@ Automatically generated list of literature summaries.
 
 - [Microgenomer Transferable Microbial Genome Representations Enabling Multi Scale Genomic Understanding And Ecophysiological Trait Prediction](2025-Kang-Microgenomer-Transferable-Microbial-Genome-Representations-Enabling-Multi-Scale-Genomic-Understanding-And-Ecophysiological-Trait-Prediction.md) (2025)
 
+### electronic health records
+
+- [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md) (2021)
+
 ### Electronic medical record integration
 
 - [FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation](2024-Shapiro-Sepsis-Immunoscore.md) (2024)
@@ -557,9 +585,17 @@ Automatically generated list of literature summaries.
 
 - [Spatial organization of bacterial transcription and translation](2016-Castellana-Spatial organization of bacterial transcription and translation.md) (2016)
 
+### explainability
+
+- [Evaluating explainability for graph neural networks](2023-agarwal-evaluating-explainability-graph-neural-networks.md) (2023)
+
 ### explainable AI
 
 - [Discovery structural class antibiotics explainable deep learning](2024-wong-discovery-structural-class-antibiotics-explainable-deep-learning.md) (2024)
+
+### fairness
+
+- [Evaluating explainability for graph neural networks](2023-agarwal-evaluating-explainability-graph-neural-networks.md) (2023)
 
 ### FDA-authorized AI diagnostic
 
@@ -605,6 +641,10 @@ Automatically generated list of literature summaries.
 ### genome contamination
 
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
+
+### genome-scale metabolic models
+
+- [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md) (2020)
 
 ### Genome-scale representation
 
@@ -665,10 +705,19 @@ Automatically generated list of literature summaries.
 ### graph neural networks
 
 - [Discovery structural class antibiotics explainable deep learning](2024-wong-discovery-structural-class-antibiotics-explainable-deep-learning.md) (2024)
+- [Evaluating explainability for graph neural networks](2023-agarwal-evaluating-explainability-graph-neural-networks.md) (2023)
+
+### GraphXAI
+
+- [Evaluating explainability for graph neural networks](2023-agarwal-evaluating-explainability-graph-neural-networks.md) (2023)
 
 ### GREAT
 
 - [Rgreat functional enrichment genomic regions](2023-gu-rgreat-functional-enrichment-genomic-regions.md) (2022)
+
+### ground-truth explanations
+
+- [Evaluating explainability for graph neural networks](2023-agarwal-evaluating-explainability-graph-neural-networks.md) (2023)
 
 ### GTDB marker genes
 
@@ -756,6 +805,10 @@ Automatically generated list of literature summaries.
 
 - [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
 
+### homology matrix
+
+- [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md) (2020)
+
 ### horizontal gene transfer
 
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
@@ -781,6 +834,10 @@ Automatically generated list of literature summaries.
 ### host-microbe signaling
 
 - [Gut microbiota derived short chain fatty acids role human health disease](2025-mukhopadhya-gut-microbiota-derived-short-chain-fatty-acids-role-human-health-disease.md) (2025)
+
+### HSD17B13
+
+- [Human genetics of steatotic liver disease: insights into insulin resistance and lipid metabolism](2025-mancina-human-genetics-steatotic-liver-disease-insulin-resistance-lipid-metabolism.md) (2025)
 
 ### HSIM score
 
@@ -831,6 +888,10 @@ Automatically generated list of literature summaries.
 - [Mmethane Interpretable Ai For Predicting Host Status From Microbial Composition And Metabolomics Data](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md) (2026)
 - [Gut microbiota-derived short-chain fatty acids and their role in human health and disease](2025-Mukhopadhya-Gut-microbiota-derived-short-chain-fatty-acids-and-their-role-in-human-health-and-disease.md) (2025)
 - [Commensal microbiota inflammatory bowel disease produce genotoxic metabolites](2022-cao-commensal-microbiota-inflammatory-bowel-disease-produce-genotoxic-metabolites.md) (2022)
+
+### insulin resistance
+
+- [Human genetics of steatotic liver disease: insights into insulin resistance and lipid metabolism](2025-mancina-human-genetics-steatotic-liver-disease-insulin-resistance-lipid-metabolism.md) (2025)
 
 ### interannual stability
 
@@ -897,6 +958,10 @@ Automatically generated list of literature summaries.
 
 - [Impact library size scale testing virtual screening](2025-liu-impact-library-size-scale-testing-virtual-screening.md) (2025)
 
+### lipid metabolism
+
+- [Human genetics of steatotic liver disease: insights into insulin resistance and lipid metabolism](2025-mancina-human-genetics-steatotic-liver-disease-insulin-resistance-lipid-metabolism.md) (2025)
+
 ### Literature mining
 
 - [MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
@@ -938,6 +1003,10 @@ Automatically generated list of literature summaries.
 
 - [Mara rama and soxs stress response survival cost](2020-holden-mara-rama-and-soxs-stress-response-survival-cost.md) (2020)
 
+### MASLD
+
+- [Human genetics of steatotic liver disease: insights into insulin resistance and lipid metabolism](2025-mancina-human-genetics-steatotic-liver-disease-insulin-resistance-lipid-metabolism.md) (2025)
+
 ### mechanistic analysis
 
 - [Interplm discovering interpretable features protein language models sparse autoencoders](2025-simon-interplm-discovering-interpretable-features-protein-language-models-sparse-autoencoders.md) (2025)
@@ -945,6 +1014,10 @@ Automatically generated list of literature summaries.
 ### Mechanistic interpretability
 
 - [Genome Modelling And Design Across All Domains Of Life With Evo 2](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md) (2026)
+
+### Med-BERT
+
+- [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md) (2021)
 
 ### mediation analysis
 
@@ -966,6 +1039,10 @@ Automatically generated list of literature summaries.
 ### metabolic and neurological disease
 
 - [Gut microbiota-derived short-chain fatty acids and their role in human health and disease](2025-Mukhopadhya-Gut-microbiota-derived-short-chain-fatty-acids-and-their-role-in-human-health-and-disease.md) (2025)
+
+### metabolic reconstruction
+
+- [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md) (2020)
 
 ### Metabolic similarity
 
@@ -1071,6 +1148,10 @@ Automatically generated list of literature summaries.
 ### multi-representation genomics
 
 - [Amr gnn genomic antimicrobial resistance prediction](2026-nguyen-amr-gnn-genomic-antimicrobial-resistance-prediction.md) (2026)
+
+### multi-strain modeling
+
+- [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md) (2020)
 
 ### Multidrug efflux
 
@@ -1189,6 +1270,10 @@ Automatically generated list of literature summaries.
 
 - [Plasma proteomics biomarkers undulating changes brain aging](2024-liu-plasma-proteomics-biomarkers-undulating-changes-brain-aging.md) (2024)
 
+### PNPLA3
+
+- [Human genetics of steatotic liver disease: insights into insulin resistance and lipid metabolism](2025-mancina-human-genetics-steatotic-liver-disease-insulin-resistance-lipid-metabolism.md) (2025)
+
 ### Precancer evolution
 
 - [Multimodal spatial omics co evolution alveolar progenitors proinflammatory niches lung precursor lesions](2026-peng-multimodal-spatial-omics-co-evolution-alveolar-progenitors-proinflammatory-niches-lung-precursor-lesions.md) (2026)
@@ -1217,6 +1302,10 @@ Automatically generated list of literature summaries.
 ### prime editing
 
 - [Evaluation prediction guide rna activities genome editing tools](2025-kim-evaluation-prediction-guide-rna-activities-genome-editing-tools.md) (2025)
+
+### prokaryotes
+
+- [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md) (2020)
 
 ### propionate
 
@@ -1339,6 +1428,10 @@ Automatically generated list of literature summaries.
 
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
 
+### ShapeGGen
+
+- [Evaluating explainability for graph neural networks](2023-agarwal-evaluating-explainability-graph-neural-networks.md) (2023)
+
 ### short-chain fatty acids
 
 - [Gut microbiota derived short chain fatty acids role human health disease](2025-mukhopadhya-gut-microbiota-derived-short-chain-fatty-acids-role-human-health-disease.md) (2025)
@@ -1426,6 +1519,10 @@ Automatically generated list of literature summaries.
 
 - [Tmb automatic differentiation laplace approximation](2016-kristensen-tmb-automatic-differentiation-laplace-approximation.md) (2016)
 
+### steatotic liver disease
+
+- [Human genetics of steatotic liver disease: insights into insulin resistance and lipid metabolism](2025-mancina-human-genetics-steatotic-liver-disease-insulin-resistance-lipid-metabolism.md) (2025)
+
 ### Stereo-seq
 
 - [Spatial transcriptomics maps host gut microbiome biogeography high resolution](2026-ntekas-spatial-transcriptomics-maps-host-gut-microbiome-biogeography-high-resolution.md) (2026)
@@ -1448,6 +1545,10 @@ Automatically generated list of literature summaries.
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md) (2023)
 - [Srgan wheat stripe rust classification](2021-maqsood-srgan-wheat-stripe-rust-classification.md) (2021)
 
+### synthetic benchmarks
+
+- [Evaluating explainability for graph neural networks](2023-agarwal-evaluating-explainability-graph-neural-networks.md) (2023)
+
 ### Taxonomic and Environmental Insights
 
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md) (2026)
@@ -1459,6 +1560,10 @@ Automatically generated list of literature summaries.
 ### TIM-1
 
 - [B cell specific checkpoint molecules regulate anti tumour immunity](2023-bod-b-cell-specific-checkpoint-molecules-regulate-anti-tumour-immunity.md) (2023)
+
+### TM6SF2
+
+- [Human genetics of steatotic liver disease: insights into insulin resistance and lipid metabolism](2025-mancina-human-genetics-steatotic-liver-disease-insulin-resistance-lipid-metabolism.md) (2025)
 
 ### TMB
 
@@ -1472,10 +1577,12 @@ Automatically generated list of literature summaries.
 
 - [Predicting drug responses unseen cell types transfer learning foundation models](2025-wang-predicting-drug-responses-unseen-cell-types-transfer-learning-foundation-models.md) (2025)
 - [Microgenomer Transferable Microbial Genome Representations Enabling Multi Scale Genomic Understanding And Ecophysiological Trait Prediction](2025-Kang-Microgenomer-Transferable-Microbial-Genome-Representations-Enabling-Multi-Scale-Genomic-Understanding-And-Ecophysiological-Trait-Prediction.md) (2025)
+- [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md) (2021)
 
 ### Transformer
 
 - [Gianthunter accurate detection giant virus metagenomic data](2025-qu-gianthunter-accurate-detection-giant-virus-metagenomic-data.md) (2025)
+- [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md) (2021)
 
 ### translation
 
