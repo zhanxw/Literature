@@ -21,6 +21,7 @@ Automatically generated list of literature summaries.
 - [MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md)
 - [Mmethane Interpretable Ai For Predicting Host Status From Microbial Composition And Metabolomics Data](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md)
 - [Leveraging intratumoral probiotics pancreatic cancer immunotherapy via xenophagy](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md)
+- [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md)
 - [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md)
 - [Identifying unmeasured heterogeneity in microbiome data via quantile thresholding (QuanT)](2026-Lu-Identifying_unmeasured_heterogeneity_quanT.md)
 - [Gwas intestinal molecular environment human gut microbiota variation](2026-dekkers-gwas-intestinal-molecular-environment-human-gut-microbiota-variation.md)
@@ -38,6 +39,7 @@ Automatically generated list of literature summaries.
 ### 2025
 
 - [Zoliflodacin susceptibility egasp 2021 2024](2025-jacobsson-zoliflodacin-susceptibility-egasp-2021-2024.md)
+- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md)
 - [Spatial and temporal distribution of ribosomes in single cells reveals aging differences between old and new daughters of Escherichia coli](2025-Chao-Spatial-temporal-distribution-ribosomes-aging-E-coli.md)
 - [Predicting drug responses unseen cell types transfer learning foundation models](2025-wang-predicting-drug-responses-unseen-cell-types-transfer-learning-foundation-models.md)
 - [Multi modal spatial characterization tumor immune microenvironments dlbcl](2025-dai-multi-modal-spatial-characterization-tumor-immune-microenvironments-dlbcl.md)
@@ -218,6 +220,10 @@ Automatically generated list of literature summaries.
 ### azithromycin
 
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md) (2026)
+
+### B cell receptor repertoire
+
+- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 
 ### B cells
 
@@ -506,6 +512,10 @@ Automatically generated list of literature summaries.
 
 - [Accurate structure prediction biomolecular interactions alphafold 3](2024-abramson-accurate-structure-prediction-biomolecular-interactions-alphafold-3.md) (2024)
 
+### Digital pathology
+
+- [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md) (2026)
+
 ### direct-to-consumer microbiome testing
 
 - [Evaluating analytical performance direct to consumer gut microbiome testing services](2026-servetas-evaluating-analytical-performance-direct-to-consumer-gut-microbiome-testing-services.md) (2026)
@@ -610,6 +620,10 @@ Automatically generated list of literature summaries.
 ### fecal microbiota transplantation (FMT)
 
 - [Strain level genetic heterogeneity and colonization dynamics drive microbiome therapeutic efficacy](2026-chen-strain-level-genetic-heterogeneity-and-colonization-dynamics-drive-microbiome-therapeutic-efficacy.md) (2026)
+
+### FFPE
+
+- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 
 ### flucloxacillin
 
@@ -811,6 +825,10 @@ Automatically generated list of literature summaries.
 ### histology
 
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md) (2023)
+
+### Histopathology
+
+- [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md) (2026)
 
 ### hit rate
 
@@ -1180,9 +1198,17 @@ Automatically generated list of literature summaries.
 
 - [Multimodal generative ai copilot human pathology](2024-lu-multimodal-generative-ai-copilot-human-pathology.md) (2024)
 
+### Multimodal integration
+
+- [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md) (2026)
+
 ### multimodal MRI
 
 - [Plasma proteomics biomarkers undulating changes brain aging](2024-liu-plasma-proteomics-biomarkers-undulating-changes-brain-aging.md) (2024)
+
+### Mycobacterium tuberculosis
+
+- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 
 ### Mycobacterium tuberculosis (MTB)
 
@@ -1379,6 +1405,10 @@ Automatically generated list of literature summaries.
 
 - [Crocodeel Accurate Control Free Detection Of Cross Sample Contamination In Metagenomic Data](2025-Goulet-Crocodeel-Accurate-Control-Free-Detection-Of-Cross-Sample-Contamination-In-Metagenomic-Data.md) (2025)
 
+### Random priming
+
+- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
+
 ### RANSAC
 
 - [Crocodeel Accurate Control Free Detection Of Cross Sample Contamination In Metagenomic Data](2025-Goulet-Crocodeel-Accurate-Control-Free-Detection-Of-Cross-Sample-Contamination-In-Metagenomic-Data.md) (2025)
@@ -1438,6 +1468,10 @@ Automatically generated list of literature summaries.
 ### Ruminococcus torques
 
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md) (2026)
+
+### scverse
+
+- [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md) (2026)
 
 ### Sepsis prediction
 
@@ -1531,9 +1565,14 @@ Automatically generated list of literature summaries.
 - [Spatial transcriptomics maps host gut microbiome biogeography high resolution](2026-ntekas-spatial-transcriptomics-maps-host-gut-microbiome-biogeography-high-resolution.md) (2026)
 - [Spatial omics forefront emerging technologies analytical innovations clinical applications](2026-liu-spatial-omics-forefront-emerging-technologies-analytical-innovations-clinical-applications.md) (2026)
 - [Multimodal spatial omics co evolution alveolar progenitors proinflammatory niches lung precursor lesions](2026-peng-multimodal-spatial-omics-co-evolution-alveolar-progenitors-proinflammatory-niches-lung-precursor-lesions.md) (2026)
+- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 - [Multi modal spatial characterization tumor immune microenvironments dlbcl](2025-dai-multi-modal-spatial-characterization-tumor-immune-microenvironments-dlbcl.md) (2025)
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md) (2023)
 - [Nino intratumoral microbiota spatial cellular heterogeneity cancer](2022-galeano-nino-intratumoral-microbiota-spatial-cellular-heterogeneity-cancer.md) (2022)
+
+### SpatialData
+
+- [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md) (2026)
 
 ### SRGAN
 
@@ -1550,6 +1589,10 @@ Automatically generated list of literature summaries.
 ### Stereo-seq
 
 - [Spatial transcriptomics maps host gut microbiome biogeography high resolution](2026-ntekas-spatial-transcriptomics-maps-host-gut-microbiome-biogeography-high-resolution.md) (2026)
+
+### Stereo-seq V2
+
+- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 
 ### strain-level microbiome profiling
 
@@ -1593,6 +1636,10 @@ Automatically generated list of literature summaries.
 
 - [Tmb automatic differentiation laplace approximation](2016-kristensen-tmb-automatic-differentiation-laplace-approximation.md) (2016)
 
+### Total RNA
+
+- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
+
 ### transcriptomics-based drug discovery
 
 - [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
@@ -1619,6 +1666,10 @@ Automatically generated list of literature summaries.
 ### triple-difference design
 
 - [Effective health aid evidence gavi vaccine program](2025-shastry-effective-health-aid-evidence-gavi-vaccine-program.md) (2025)
+
+### Triple-negative breast cancer
+
+- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 
 ### tumor heterogeneity
 
@@ -1683,6 +1734,10 @@ Automatically generated list of literature summaries.
 
 - [Multimodal generative ai copilot human pathology](2024-lu-multimodal-generative-ai-copilot-human-pathology.md) (2024)
 
+### Vision-language models
+
+- [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md) (2026)
+
 ### Visium
 
 - [Spatial transcriptomics maps host gut microbiome biogeography high resolution](2026-ntekas-spatial-transcriptomics-maps-host-gut-microbiome-biogeography-high-resolution.md) (2026)
@@ -1715,6 +1770,10 @@ Automatically generated list of literature summaries.
 
 - [Amr gnn genomic antimicrobial resistance prediction](2026-nguyen-amr-gnn-genomic-antimicrobial-resistance-prediction.md) (2026)
 
+### Whole-slide imaging
+
+- [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md) (2026)
+
 ### Xenium
 
 - [Conserved spatial subtypes cellular neighborhoods cancer associated fibroblasts](2025-liu-conserved-spatial-subtypes-cellular-neighborhoods-cancer-associated-fibroblasts.md) (2025)
@@ -1726,6 +1785,10 @@ Automatically generated list of literature summaries.
 ### yeast (Saccharomyces cerevisiae)
 
 - [Concerted modification ribosome single molecule rna profiling](2022-bailey-concerted-modification-ribosome-single-molecule-rna-profiling.md) (2022)
+
+### Zero-shot learning
+
+- [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md) (2026)
 
 ### zero-shot prediction
 
