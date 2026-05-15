@@ -45,6 +45,7 @@ Automatically generated list of literature summaries.
 - [Multi modal spatial characterization tumor immune microenvironments dlbcl](2025-dai-multi-modal-spatial-characterization-tumor-immune-microenvironments-dlbcl.md)
 - [Modulating the gut-reproductive tract axis: microbial influence on gynaecological cancer pathogenesis and treatment](2025-Chen-Modulating the gut-reproductive tract axis.md)
 - [Microgenomer Transferable Microbial Genome Representations Enabling Multi Scale Genomic Understanding And Ecophysiological Trait Prediction](2025-Kang-Microgenomer-Transferable-Microbial-Genome-Representations-Enabling-Multi-Scale-Genomic-Understanding-And-Ecophysiological-Trait-Prediction.md)
+- [Methylmapr functional prokaryotic methylome](2025-morrissey-methylmapr-functional-prokaryotic-methylome.md)
 - [Machine learning assisted optimization dietary intervention dementia risk](2025-chen-machine-learning-assisted-optimization-dietary-intervention-dementia-risk.md)
 - [Lopez Imbalance In Gut Microbial Interactions As A Marker Of Health And Disease](2025-Corral-Lopez-Imbalance-In-Gut-Microbial-Interactions-As-A-Marker-Of-Health-And-Disease.md)
 - [Interplm discovering interpretable features protein language models sparse autoencoders](2025-simon-interplm-discovering-interpretable-features-protein-language-models-sparse-autoencoders.md)
@@ -55,8 +56,10 @@ Automatically generated list of literature summaries.
 - [Gianthunter accurate detection giant virus metagenomic data](2025-qu-gianthunter-accurate-detection-giant-virus-metagenomic-data.md)
 - [Evaluation prediction guide rna activities genome editing tools](2025-kim-evaluation-prediction-guide-rna-activities-genome-editing-tools.md)
 - [Effective health aid evidence gavi vaccine program](2025-shastry-effective-health-aid-evidence-gavi-vaccine-program.md)
+- [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md)
 - [Discovery ai guided mechanistic elucidation narrow spectrum antibiotic](2025-catacutan-discovery-ai-guided-mechanistic-elucidation-narrow-spectrum-antibiotic.md)
 - [Detecting Foldback Artifacts In Long Reads](2025-Heinz-Detecting-Foldback-Artifacts-In-Long-Reads.md)
+- [Decoding bacterial methylomes nanopore](2025-galeone-decoding-bacterial-methylomes-nanopore.md)
 - [Crocodeel Accurate Control Free Detection Of Cross Sample Contamination In Metagenomic Data](2025-Goulet-Crocodeel-Accurate-Control-Free-Detection-Of-Cross-Sample-Contamination-In-Metagenomic-Data.md)
 - [Conserved spatial subtypes cellular neighborhoods cancer associated fibroblasts](2025-liu-conserved-spatial-subtypes-cellular-neighborhoods-cancer-associated-fibroblasts.md)
 - [Cell type directed network correcting combination therapy alzheimers disease](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md)
@@ -80,6 +83,7 @@ Automatically generated list of literature summaries.
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md)
 - [Evolutionary scale prediction atomic protein structure language model](2023-lin-evolutionary-scale-prediction-atomic-protein-structure-language-model.md)
 - [Evaluating explainability for graph neural networks](2023-agarwal-evaluating-explainability-graph-neural-networks.md)
+- [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md)
 - [B cell specific checkpoint molecules regulate anti tumour immunity](2023-bod-b-cell-specific-checkpoint-molecules-regulate-anti-tumour-immunity.md)
 ### 2022
 
@@ -94,6 +98,7 @@ Automatically generated list of literature summaries.
 - [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md)
 ### 2020
 
+- [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md)
 - [Mara rama and soxs stress response survival cost](2020-holden-mara-rama-and-soxs-stress-response-survival-cost.md)
 - [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md)
 ### 2019
@@ -108,12 +113,28 @@ Automatically generated list of literature summaries.
 - [Spatial organization of bacterial transcription and translation](2016-Castellana-Spatial organization of bacterial transcription and translation.md)
 ### 2015
 
+- [Smalr bacterial methylome heterogeneity](2015-beaulaurier-smalr-bacterial-methylome-heterogeneity.md)
 - [Rapid Phylogenetic Analysis Gubbins](2015-Croucher-Rapid-Phylogenetic-Analysis-Gubbins.md)
 ### 2011
 
 - [OmpK26, a Novel Porin Associated with Carbapenem Resistance in Klebsiella pneumoniae](2011-Garcia-Sureda-Ompk26-novel-porin-carbapenem-resistance.md)
 
 ## Articles by Keyword
+
+### 4mC
+
+- [Decoding bacterial methylomes nanopore](2025-galeone-decoding-bacterial-methylomes-nanopore.md) (2025)
+- [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md) (2020)
+
+### 5mC
+
+- [Decoding bacterial methylomes nanopore](2025-galeone-decoding-bacterial-methylomes-nanopore.md) (2025)
+- [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md) (2020)
+
+### 6mA
+
+- [Decoding bacterial methylomes nanopore](2025-galeone-decoding-bacterial-methylomes-nanopore.md) (2025)
+- [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md) (2020)
 
 ### AAV retargeting
 
@@ -122,6 +143,10 @@ Automatically generated list of literature summaries.
 ### acetate
 
 - [Gut microbiota-derived short-chain fatty acids and their role in human health and disease](2025-Mukhopadhya-Gut-microbiota-derived-short-chain-fatty-acids-and-their-role-in-human-health-and-disease.md) (2025)
+
+### Adaptation
+
+- [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
 
 ### aging trajectories
 
@@ -175,6 +200,10 @@ Automatically generated list of literature summaries.
 
 - [Dendritic cells direct circadian anti tumor immune responses](2022-wang-dendritic-cells-direct-circadian-anti-tumor-immune-responses.md) (2022)
 
+### Antibacterial target discovery
+
+- [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md) (2023)
+
 ### antibiotic resistance genes
 
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
@@ -191,6 +220,7 @@ Automatically generated list of literature summaries.
 ### antimicrobial resistance
 
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
+- [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
 - [Validating The Amrfinder Tool And Resistance Gene Database](2019-Feldgarden-Validating-The-Amrfinder-Tool-And-Resistance-Gene-Database.md) (2019)
 
 ### antimicrobial resistance (AMR)
@@ -237,6 +267,10 @@ Automatically generated list of literature summaries.
 
 - [Spatial organization of bacterial transcription and translation](2016-Castellana-Spatial organization of bacterial transcription and translation.md) (2016)
 
+### Bacterial epigenome
+
+- [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md) (2020)
+
 ### Bacterial genomic structural variations (SVs)
 
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md) (2026)
@@ -244,6 +278,15 @@ Automatically generated list of literature summaries.
 ### bacterial genomics
 
 - [Validating The Amrfinder Tool And Resistance Gene Database](2019-Feldgarden-Validating-The-Amrfinder-Tool-And-Resistance-Gene-Database.md) (2019)
+
+### Bacterial methylome
+
+- [Decoding bacterial methylomes nanopore](2025-galeone-decoding-bacterial-methylomes-nanopore.md) (2025)
+- [Smalr bacterial methylome heterogeneity](2015-beaulaurier-smalr-bacterial-methylome-heterogeneity.md) (2015)
+
+### Bacterial pathogenicity
+
+- [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
 
 ### bacterial recombination
 
@@ -279,6 +322,7 @@ Automatically generated list of literature summaries.
 
 ### Biofilm formation
 
+- [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
 - [Mara rama and soxs stress response survival cost](2020-holden-mara-rama-and-soxs-stress-response-survival-cost.md) (2020)
 
 ### biomolecular interactions
@@ -398,8 +442,9 @@ Automatically generated list of literature summaries.
 
 - [Cell type directed network correcting combination therapy alzheimers disease](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md) (2025)
 
-### comparative genomics
+### Comparative genomics
 
+- [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md) (2023)
 - [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md) (2020)
 
 ### computational pathology
@@ -536,9 +581,27 @@ Automatically generated list of literature summaries.
 
 - [Commensal microbiota inflammatory bowel disease produce genotoxic metabolites](2022-cao-commensal-microbiota-inflammatory-bowel-disease-produce-genotoxic-metabolites.md) (2022)
 
+### DNA methylation
+
+- [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
+- [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md) (2023)
+- [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md) (2020)
+
+### DNA methylation sequencing
+
+- [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
+
+### DNA methyltransferase
+
+- [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md) (2020)
+
 ### docking
 
 - [Impact library size scale testing virtual screening](2025-liu-impact-library-size-scale-testing-virtual-screening.md) (2025)
+
+### Dorado
+
+- [Decoding bacterial methylomes nanopore](2025-galeone-decoding-bacterial-methylomes-nanopore.md) (2025)
 
 ### drug discovery
 
@@ -584,6 +647,14 @@ Automatically generated list of literature summaries.
 
 - [Discovery ai guided mechanistic elucidation narrow spectrum antibiotic](2025-catacutan-discovery-ai-guided-mechanistic-elucidation-narrow-spectrum-antibiotic.md) (2025)
 - [Mara rama and soxs stress response survival cost](2020-holden-mara-rama-and-soxs-stress-response-survival-cost.md) (2020)
+
+### Epigenetic heterogeneity
+
+- [Smalr bacterial methylome heterogeneity](2015-beaulaurier-smalr-bacterial-methylome-heterogeneity.md) (2015)
+
+### Epigenetics
+
+- [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md) (2023)
 
 ### ESM-2
 
@@ -645,6 +716,10 @@ Automatically generated list of literature summaries.
 ### Functional binder validation
 
 - [Bindcraft One Shot Design Of Functional Protein Binders](2025-Pacesa-Bindcraft-One-Shot-Design-Of-Functional-Protein-Binders.md) (2025)
+
+### Functional methylome
+
+- [Methylmapr functional prokaryotic methylome](2025-morrissey-methylmapr-functional-prokaryotic-methylome.md) (2025)
 
 ### fungal profiling
 
@@ -810,6 +885,10 @@ Automatically generated list of literature summaries.
 
 - [Silva meta analysis of the uncultured gut microbiome candidate signature of health](2026-da-silva-meta-analysis-of-the-uncultured-gut-microbiome-candidate-signature-of-health.md) (2026)
 
+### Hemimethylation
+
+- [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md) (2020)
+
 ### hepatocellular carcinoma
 
 - [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
@@ -951,6 +1030,10 @@ Automatically generated list of literature summaries.
 - [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md) (2026)
 - [Nino intratumoral microbiota spatial cellular heterogeneity cancer](2022-galeano-nino-intratumoral-microbiota-spatial-cellular-heterogeneity-cancer.md) (2022)
 
+### IPD ratio
+
+- [Methylmapr functional prokaryotic methylome](2025-morrissey-methylmapr-functional-prokaryotic-methylome.md) (2025)
+
 ### irinotecan
 
 - [Cell type directed network correcting combination therapy alzheimers disease](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md) (2025)
@@ -1011,6 +1094,10 @@ Automatically generated list of literature summaries.
 
 - [Genome Modelling And Design Across All Domains Of Life With Evo 2](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md) (2026)
 
+### Long-read phasing
+
+- [Smalr bacterial methylome heterogeneity](2015-beaulaurier-smalr-bacterial-methylome-heterogeneity.md) (2015)
+
 ### long-read sequencing
 
 - [Detecting Foldback Artifacts In Long Reads](2025-Heinz-Detecting-Foldback-Artifacts-In-Long-Reads.md) (2025)
@@ -1026,6 +1113,10 @@ Automatically generated list of literature summaries.
 ### Lung adenocarcinoma
 
 - [Multimodal spatial omics co evolution alveolar progenitors proinflammatory niches lung precursor lesions](2026-peng-multimodal-spatial-omics-co-evolution-alveolar-progenitors-proinflammatory-niches-lung-precursor-lesions.md) (2026)
+
+### m6A
+
+- [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md) (2023)
 
 ### machine learning
 
@@ -1098,9 +1189,21 @@ Automatically generated list of literature summaries.
 
 - [Evaluating analytical performance direct to consumer gut microbiome testing services](2026-servetas-evaluating-analytical-performance-direct-to-consumer-gut-microbiome-testing-services.md) (2026)
 
+### methylMapR
+
+- [Methylmapr functional prokaryotic methylome](2025-morrissey-methylmapr-functional-prokaryotic-methylome.md) (2025)
+
+### Methyltransferase activity
+
+- [Smalr bacterial methylome heterogeneity](2015-beaulaurier-smalr-bacterial-methylome-heterogeneity.md) (2015)
+
 ### MIC distribution
 
 - [Zoliflodacin susceptibility egasp 2021 2024](2025-jacobsson-zoliflodacin-susceptibility-egasp-2021-2024.md) (2025)
+
+### MicrobeMod
+
+- [Decoding bacterial methylomes nanopore](2025-galeone-decoding-bacterial-methylomes-nanopore.md) (2025)
 
 ### microbial ecology
 
@@ -1162,6 +1265,10 @@ Automatically generated list of literature summaries.
 
 - [Machine learning assisted optimization dietary intervention dementia risk](2025-chen-machine-learning-assisted-optimization-dietary-intervention-dementia-risk.md) (2025)
 
+### Modkit
+
+- [Decoding bacterial methylomes nanopore](2025-galeone-decoding-bacterial-methylomes-nanopore.md) (2025)
+
 ### Monte Carlo tree search
 
 - [Gianthunter accurate detection giant virus metagenomic data](2025-qu-gianthunter-accurate-detection-giant-virus-metagenomic-data.md) (2025)
@@ -1169,6 +1276,10 @@ Automatically generated list of literature summaries.
 ### Morganella morganii
 
 - [Commensal microbiota inflammatory bowel disease produce genotoxic metabolites](2022-cao-commensal-microbiota-inflammatory-bowel-disease-produce-genotoxic-metabolites.md) (2022)
+
+### Motility
+
+- [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
 
 ### mRNA
 
@@ -1217,6 +1328,10 @@ Automatically generated list of literature summaries.
 ### nanopore direct RNA sequencing
 
 - [Concerted modification ribosome single molecule rna profiling](2022-bailey-concerted-modification-ribosome-single-molecule-rna-profiling.md) (2022)
+
+### Nanopore sequencing
+
+- [Decoding bacterial methylomes nanopore](2025-galeone-decoding-bacterial-methylomes-nanopore.md) (2025)
 
 ### NARMS
 
@@ -1283,9 +1398,17 @@ Automatically generated list of literature summaries.
 
 - [Genome Modelling And Design Across All Domains Of Life With Evo 2](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md) (2026)
 
+### Opportunistic pathogens
+
+- [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
+
 ### outbreak genomics
 
 - [Rapid Phylogenetic Analysis Gubbins](2015-Croucher-Rapid-Phylogenetic-Analysis-Gubbins.md) (2015)
+
+### PacBio sequencing
+
+- [Methylmapr functional prokaryotic methylome](2025-morrissey-methylmapr-functional-prokaryotic-methylome.md) (2025)
 
 ### pancreatic ductal adenocarcinoma (PDAC)
 
@@ -1310,6 +1433,15 @@ Automatically generated list of literature summaries.
 ### phase 3 trial
 
 - [Zoliflodacin phase 3 microbiological failures](2026-unemo-zoliflodacin-phase-3-microbiological-failures.md) (2026)
+
+### Phase variation
+
+- [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md) (2020)
+- [Smalr bacterial methylome heterogeneity](2015-beaulaurier-smalr-bacterial-methylome-heterogeneity.md) (2015)
+
+### Phasevarion
+
+- [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md) (2020)
 
 ### plasma proteomics
 
@@ -1356,6 +1488,10 @@ Automatically generated list of literature summaries.
 
 - [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md) (2020)
 
+### Prokaryotic methylome
+
+- [Methylmapr functional prokaryotic methylome](2025-morrissey-methylmapr-functional-prokaryotic-methylome.md) (2025)
+
 ### propionate
 
 - [Gut microbiota-derived short-chain fatty acids and their role in human health and disease](2025-Mukhopadhya-Gut-microbiota-derived-short-chain-fatty-acids-and-their-role-in-human-health-and-disease.md) (2025)
@@ -1383,6 +1519,7 @@ Automatically generated list of literature summaries.
 ### Pseudomonas aeruginosa
 
 - [Amr gnn genomic antimicrobial resistance prediction](2026-nguyen-amr-gnn-genomic-antimicrobial-resistance-prediction.md) (2026)
+- [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md) (2023)
 
 ### public transit aerobiome
 
@@ -1392,6 +1529,14 @@ Automatically generated list of literature summaries.
 
 - [Detecting Foldback Artifacts In Long Reads](2025-Heinz-Detecting-Foldback-Artifacts-In-Long-Reads.md) (2025)
 - [Crocodeel Accurate Control Free Detection Of Cross Sample Contamination In Metagenomic Data](2025-Goulet-Crocodeel-Accurate-Control-Free-Detection-Of-Cross-Sample-Contamination-In-Metagenomic-Data.md) (2025)
+
+### R package
+
+- [Methylmapr functional prokaryotic methylome](2025-morrissey-methylmapr-functional-prokaryotic-methylome.md) (2025)
+
+### R10.4.1
+
+- [Decoding bacterial methylomes nanopore](2025-galeone-decoding-bacterial-methylomes-nanopore.md) (2025)
 
 ### RamA
 
@@ -1440,6 +1585,10 @@ Automatically generated list of literature summaries.
 ### resistance gene database
 
 - [Validating The Amrfinder Tool And Resistance Gene Database](2019-Feldgarden-Validating-The-Amrfinder-Tool-And-Resistance-Gene-Database.md) (2019)
+
+### Restriction-modification system
+
+- [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md) (2020)
 
 ### rGREAT
 
@@ -1520,6 +1669,10 @@ Automatically generated list of literature summaries.
 
 - [Perception predicts patient response resistance treatment](2024-sinha-perception-predicts-patient-response-resistance-treatment.md) (2024)
 
+### Single-molecule methylation detection
+
+- [Smalr bacterial methylome heterogeneity](2015-beaulaurier-smalr-bacterial-methylome-heterogeneity.md) (2015)
+
 ### single-molecule profiling
 
 - [Concerted modification ribosome single molecule rna profiling](2022-bailey-concerted-modification-ribosome-single-molecule-rna-profiling.md) (2022)
@@ -1527,6 +1680,15 @@ Automatically generated list of literature summaries.
 ### single-nucleus transcriptomics
 
 - [Cell type directed network correcting combination therapy alzheimers disease](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md) (2025)
+
+### SMALR
+
+- [Smalr bacterial methylome heterogeneity](2015-beaulaurier-smalr-bacterial-methylome-heterogeneity.md) (2015)
+
+### SMRT sequencing
+
+- [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md) (2023)
+- [Smalr bacterial methylome heterogeneity](2015-beaulaurier-smalr-bacterial-methylome-heterogeneity.md) (2015)
 
 ### snoRNP
 
@@ -1640,6 +1802,10 @@ Automatically generated list of literature summaries.
 
 - [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 
+### Transcription factor binding sites
+
+- [Methylmapr functional prokaryotic methylome](2025-morrissey-methylmapr-functional-prokaryotic-methylome.md) (2025)
+
 ### transcriptomics-based drug discovery
 
 - [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
@@ -1729,6 +1895,10 @@ Automatically generated list of literature summaries.
 ### Virulence
 
 - [Mara rama and soxs stress response survival cost](2020-holden-mara-rama-and-soxs-stress-response-survival-cost.md) (2020)
+
+### Virulence factor expression
+
+- [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
 
 ### vision-language model
 
