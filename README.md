@@ -14,6 +14,7 @@ Automatically generated list of literature summaries.
 - [Spatial omics forefront emerging technologies analytical innovations clinical applications](2026-liu-spatial-omics-forefront-emerging-technologies-analytical-innovations-clinical-applications.md)
 - [Spatial and temporal patterns of public transit aerobiomes](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md)
 - [Silva meta analysis of the uncultured gut microbiome candidate signature of health](2026-da-silva-meta-analysis-of-the-uncultured-gut-microbiome-candidate-signature-of-health.md)
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md)
 - [Reliable detection of Host-Microbe Signatures in cancer using PRISM](2026-Ghaddar-Reliable detection of Host-Microbe Signatures in cancer using PRISM.md)
 - [Precise DNA base editing using AlphaFold3-based contact modelling](2026-Meng-Precise DNA base editing using AlphaFold3-based contact modelling.md)
 - [Navigating the duality of Akkermansia muciniphila](2026-Grant-Navigating the duality of Akkermansia muciniphila.md)
@@ -174,6 +175,10 @@ Automatically generated list of literature summaries.
 
 - [Bindcraft One Shot Design Of Functional Protein Binders](2025-Pacesa-Bindcraft-One-Shot-Design-Of-Functional-Protein-Binders.md) (2025)
 
+### Alternative catalysis
+
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
+
 ### Alveolar progenitors
 
 - [Multimodal spatial omics co evolution alveolar progenitors proinflammatory niches lung precursor lesions](2026-peng-multimodal-spatial-omics-co-evolution-alveolar-progenitors-proinflammatory-niches-lung-precursor-lesions.md) (2026)
@@ -188,6 +193,7 @@ Automatically generated list of literature summaries.
 
 ### Ampicillin
 
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
 - [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
 
 ### AMR phenotype prediction
@@ -212,6 +218,7 @@ Automatically generated list of literature summaries.
 
 ### Antibiotic resistance
 
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
 - [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
 
 ### antibiotic resistance genes
@@ -379,6 +386,10 @@ Automatically generated list of literature summaries.
 
 - [Leveraging intratumoral probiotics pancreatic cancer immunotherapy via xenophagy](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md) (2026)
 
+### Ceftazidime
+
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
+
 ### ceftriaxone
 
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md) (2026)
@@ -390,6 +401,10 @@ Automatically generated list of literature summaries.
 ### Cellular niches
 
 - [Multi modal spatial characterization tumor immune microenvironments dlbcl](2025-dai-multi-modal-spatial-characterization-tumor-immune-microenvironments-dlbcl.md) (2025)
+
+### Cephalosporins
+
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
 
 ### child mortality
 
@@ -649,6 +664,10 @@ Automatically generated list of literature summaries.
 
 - [Spatial organization of bacterial transcription and translation](2016-Castellana-Spatial organization of bacterial transcription and translation.md) (2016)
 
+### E166P
+
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
+
 ### ecological modeling
 
 - [Lopez Imbalance In Gut Microbial Interactions As A Marker Of Health And Disease](2025-Corral-Lopez-Imbalance-In-Gut-Microbial-Interactions-As-A-Marker-Of-Health-And-Disease.md) (2025)
@@ -708,6 +727,7 @@ Automatically generated list of literature summaries.
 
 ### Extended-spectrum β-lactamase (ESBL)
 
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
 - [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
 
 ### fairness
@@ -774,6 +794,10 @@ Automatically generated list of literature summaries.
 ### Gene Ontology
 
 - [Rgreat functional enrichment genomic regions](2023-gu-rgreat-functional-enrichment-genomic-regions.md) (2022)
+
+### Generalist and specialist mutations
+
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
 
 ### genome contamination
 
@@ -1315,6 +1339,14 @@ Automatically generated list of literature summaries.
 
 - [Decoding bacterial methylomes nanopore](2025-galeone-decoding-bacterial-methylomes-nanopore.md) (2025)
 
+### Molecular dynamics
+
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
+
+### Monobactams
+
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
+
 ### Monte Carlo tree search
 
 - [Gianthunter accurate detection giant virus metagenomic data](2025-qu-gianthunter-accurate-detection-giant-virus-metagenomic-data.md) (2025)
@@ -1664,6 +1696,10 @@ Automatically generated list of literature summaries.
 
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md) (2026)
 
+### Saturation mutagenesis
+
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
+
 ### scverse
 
 - [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md) (2026)
@@ -1834,6 +1870,7 @@ Automatically generated list of literature summaries.
 
 ### TEM-1 β-lactamase
 
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
 - [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
 
 ### TIM-1
@@ -2019,4 +2056,12 @@ Automatically generated list of literature summaries.
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md) (2026)
 - [Zoliflodacin phase 3 microbiological failures](2026-unemo-zoliflodacin-phase-3-microbiological-failures.md) (2026)
 - [Zoliflodacin susceptibility egasp 2021 2024](2025-jacobsson-zoliflodacin-susceptibility-egasp-2021-2024.md) (2025)
+
+### β-lactam antibiotics
+
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
+
+### Ω-loop
+
+- [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
 
