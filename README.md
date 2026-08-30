@@ -52,6 +52,7 @@ Automatically generated list of literature summaries.
 - [Interplm discovering interpretable features protein language models sparse autoencoders](2025-simon-interplm-discovering-interpretable-features-protein-language-models-sparse-autoencoders.md)
 - [Impact library size scale testing virtual screening](2025-liu-impact-library-size-scale-testing-virtual-screening.md)
 - [Human genetics of steatotic liver disease: insights into insulin resistance and lipid metabolism](2025-mancina-human-genetics-steatotic-liver-disease-insulin-resistance-lipid-metabolism.md)
+- [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md)
 - [Gut microbiota-derived short-chain fatty acids and their role in human health and disease](2025-Mukhopadhya-Gut-microbiota-derived-short-chain-fatty-acids-and-their-role-in-human-health-and-disease.md)
 - [Gut microbiota derived short chain fatty acids role human health disease](2025-mukhopadhya-gut-microbiota-derived-short-chain-fatty-acids-role-human-health-disease.md)
 - [Gianthunter accurate detection giant virus metagenomic data](2025-qu-gianthunter-accurate-detection-giant-virus-metagenomic-data.md)
@@ -185,6 +186,10 @@ Automatically generated list of literature summaries.
 
 - [Impact library size scale testing virtual screening](2025-liu-impact-library-size-scale-testing-virtual-screening.md) (2025)
 
+### Ampicillin
+
+- [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
+
 ### AMR phenotype prediction
 
 - [Amr gnn genomic antimicrobial resistance prediction](2026-nguyen-amr-gnn-genomic-antimicrobial-resistance-prediction.md) (2026)
@@ -204,6 +209,10 @@ Automatically generated list of literature summaries.
 ### Antibacterial target discovery
 
 - [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md) (2023)
+
+### Antibiotic resistance
+
+- [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
 
 ### antibiotic resistance genes
 
@@ -251,6 +260,10 @@ Automatically generated list of literature summaries.
 ### azithromycin
 
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md) (2026)
+
+### Aztreonam
+
+- [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
 
 ### B cell receptor repertoire
 
@@ -443,6 +456,10 @@ Automatically generated list of literature summaries.
 
 - [Cell type directed network correcting combination therapy alzheimers disease](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md) (2025)
 
+### Combinatorial mutagenesis
+
+- [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
+
 ### Comparative genomics
 
 - [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md) (2023)
@@ -562,6 +579,10 @@ Automatically generated list of literature summaries.
 
 - [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md) (2026)
 
+### Direct coupling analysis (DCA)
+
+- [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
+
 ### direct-to-consumer microbiome testing
 
 - [Evaluating analytical performance direct to consumer gut microbiome testing services](2026-servetas-evaluating-analytical-performance-direct-to-consumer-gut-microbiome-testing-services.md) (2026)
@@ -577,6 +598,10 @@ Automatically generated list of literature summaries.
 ### disease prediction
 
 - [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md) (2021)
+
+### DNA barcoding
+
+- [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
 
 ### DNA damage
 
@@ -681,6 +706,10 @@ Automatically generated list of literature summaries.
 
 - [Discovery structural class antibiotics explainable deep learning](2024-wong-discovery-structural-class-antibiotics-explainable-deep-learning.md) (2024)
 
+### Extended-spectrum β-lactamase (ESBL)
+
+- [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
+
 ### fairness
 
 - [Evaluating explainability for graph neural networks](2023-agarwal-evaluating-explainability-graph-neural-networks.md) (2023)
@@ -696,6 +725,10 @@ Automatically generated list of literature summaries.
 ### FFPE
 
 - [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
+
+### Fitness landscape
+
+- [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
 
 ### flucloxacillin
 
@@ -902,6 +935,10 @@ Automatically generated list of literature summaries.
 
 - [Evaluation prediction guide rna activities genome editing tools](2025-kim-evaluation-prediction-guide-rna-activities-genome-editing-tools.md) (2025)
 
+### Higher-order epistasis
+
+- [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
+
 ### histology
 
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md) (2023)
@@ -1059,6 +1096,10 @@ Automatically generated list of literature summaries.
 
 - [Evolutionary scale prediction atomic protein structure language model](2023-lin-evolutionary-scale-prediction-atomic-protein-structure-language-model.md) (2023)
 
+### Latent generative landscape (LGL)
+
+- [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
+
 ### latent variable models
 
 - [Tmb automatic differentiation laplace approximation](2016-kristensen-tmb-automatic-differentiation-laplace-approximation.md) (2016)
@@ -1074,6 +1115,10 @@ Automatically generated list of literature summaries.
 ### library scale
 
 - [Impact library size scale testing virtual screening](2025-liu-impact-library-size-scale-testing-virtual-screening.md) (2025)
+
+### LightGBM and SHAP
+
+- [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
 
 ### lipid metabolism
 
@@ -1786,6 +1831,10 @@ Automatically generated list of literature summaries.
 ### Taxonomic profiling
 
 - [Crocodeel Accurate Control Free Detection Of Cross Sample Contamination In Metagenomic Data](2025-Goulet-Crocodeel-Accurate-Control-Free-Detection-Of-Cross-Sample-Contamination-In-Metagenomic-Data.md) (2025)
+
+### TEM-1 β-lactamase
+
+- [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
 
 ### TIM-1
 
