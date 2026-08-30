@@ -99,6 +99,7 @@ Automatically generated list of literature summaries.
 
 - [Srgan wheat stripe rust classification](2021-maqsood-srgan-wheat-stripe-rust-classification.md)
 - [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md)
+- [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md)
 ### 2020
 
 - [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md)
@@ -128,6 +129,10 @@ Automatically generated list of literature summaries.
 
 - [Decoding bacterial methylomes nanopore](2025-galeone-decoding-bacterial-methylomes-nanopore.md) (2025)
 - [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md) (2020)
+
+### 4′-desmethyltrimethoprim (4′-DTMP)
+
+- [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
 
 ### 5mC
 
@@ -220,6 +225,10 @@ Automatically generated list of literature summaries.
 
 - [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
 - [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
+
+### Antibiotic resistance evolution
+
+- [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
 
 ### antibiotic resistance genes
 
@@ -450,6 +459,10 @@ Automatically generated list of literature summaries.
 
 - [Rapid Phylogenetic Analysis Gubbins](2015-Croucher-Rapid-Phylogenetic-Analysis-Gubbins.md) (2015)
 
+### Clonal interference
+
+- [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
+
 ### CODEX
 
 - [Multi modal spatial characterization tumor immune microenvironments dlbcl](2025-dai-multi-modal-spatial-characterization-tumor-immune-microenvironments-dlbcl.md) (2025)
@@ -594,6 +607,10 @@ Automatically generated list of literature summaries.
 
 - [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md) (2026)
 
+### Dihydrofolate reductase (DHFR)
+
+- [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
+
 ### Direct coupling analysis (DCA)
 
 - [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
@@ -701,6 +718,10 @@ Automatically generated list of literature summaries.
 
 - [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md) (2023)
 
+### Escherichia coli*
+
+- [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
+
 ### ESM-2
 
 - [Interplm discovering interpretable features protein language models sparse autoencoders](2025-simon-interplm-discovering-interpretable-features-protein-language-models-sparse-autoencoders.md) (2025)
@@ -712,6 +733,14 @@ Automatically generated list of literature summaries.
 ### Evo 2
 
 - [Genome Modelling And Design Across All Domains Of Life With Evo 2](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md) (2026)
+
+### Evolutionary steering
+
+- [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
+
+### Experimental evolution
+
+- [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
 
 ### experiments
 
@@ -1108,6 +1137,10 @@ Automatically generated list of literature summaries.
 
 - [MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
 
+### L28R mutation
+
+- [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
+
 ### Laplace approximation
 
 - [Tmb automatic differentiation laplace approximation](2016-kristensen-tmb-automatic-differentiation-laplace-approximation.md) (2016)
@@ -1351,6 +1384,10 @@ Automatically generated list of literature summaries.
 
 - [Gianthunter accurate detection giant virus metagenomic data](2025-qu-gianthunter-accurate-detection-giant-virus-metagenomic-data.md) (2025)
 
+### Morbidostat
+
+- [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
+
 ### Morganella morganii
 
 - [Commensal microbiota inflammatory bowel disease produce genotoxic metabolites](2022-cao-commensal-microbiota-inflammatory-bowel-disease-produce-genotoxic-metabolites.md) (2022)
@@ -1394,6 +1431,10 @@ Automatically generated list of literature summaries.
 ### multimodal MRI
 
 - [Plasma proteomics biomarkers undulating changes brain aging](2024-liu-plasma-proteomics-biomarkers-undulating-changes-brain-aging.md) (2024)
+
+### Mutant-selective inhibitor
+
+- [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
 
 ### Mycobacterium tuberculosis
 
@@ -1851,6 +1892,10 @@ Automatically generated list of literature summaries.
 - [Accurate structure prediction biomolecular interactions alphafold 3](2024-abramson-accurate-structure-prediction-biomolecular-interactions-alphafold-3.md) (2024)
 - [Evolutionary scale prediction atomic protein structure language model](2023-lin-evolutionary-scale-prediction-atomic-protein-structure-language-model.md) (2023)
 
+### Structure-guided drug design
+
+- [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
+
 ### super-resolution
 
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md) (2023)
@@ -1915,6 +1960,10 @@ Automatically generated list of literature summaries.
 ### treatment response prediction
 
 - [Perception predicts patient response resistance treatment](2024-sinha-perception-predicts-patient-response-resistance-treatment.md) (2024)
+
+### Trimethoprim (TMP)
+
+- [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
 
 ### triple-difference design
 
