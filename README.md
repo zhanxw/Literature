@@ -91,7 +91,9 @@ Automatically generated list of literature summaries.
 ### 2022
 
 - [Rgreat functional enrichment genomic regions](2023-gu-rgreat-functional-enrichment-genomic-regions.md)
+- [Prediction of synergistic antibiotic combinations by graph learning](2022-lv-prediction-of-synergistic-antibiotic-combinations-by-graph-learning.md)
 - [Nino intratumoral microbiota spatial cellular heterogeneity cancer](2022-galeano-nino-intratumoral-microbiota-spatial-cellular-heterogeneity-cancer.md)
+- [Network based machine learning approach to predict immunotherapy response in cancer patients](2022-kong-network-based-machine-learning-approach-to-predict-immunotherapy-response-in-cancer-patients.md)
 - [Dendritic cells direct circadian anti tumor immune responses](2022-wang-dendritic-cells-direct-circadian-anti-tumor-immune-responses.md)
 - [Concerted modification ribosome single molecule rna profiling](2022-bailey-concerted-modification-ribosome-single-molecule-rna-profiling.md)
 - [Commensal microbiota inflammatory bowel disease produce genotoxic metabolites](2022-cao-commensal-microbiota-inflammatory-bowel-disease-produce-genotoxic-metabolites.md)
@@ -221,6 +223,10 @@ Automatically generated list of literature summaries.
 
 - [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md) (2023)
 
+### Antibiotic combination
+
+- [Prediction of synergistic antibiotic combinations by graph learning](2022-lv-prediction-of-synergistic-antibiotic-combinations-by-graph-learning.md) (2022)
+
 ### Antibiotic resistance
 
 - [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
@@ -247,6 +253,7 @@ Automatically generated list of literature summaries.
 
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
 - [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
+- [Prediction of synergistic antibiotic combinations by graph learning](2022-lv-prediction-of-synergistic-antibiotic-combinations-by-graph-learning.md) (2022)
 - [Validating The Amrfinder Tool And Resistance Gene Database](2019-Feldgarden-Validating-The-Amrfinder-Tool-And-Resistance-Gene-Database.md) (2019)
 
 ### antimicrobial resistance (AMR)
@@ -308,6 +315,10 @@ Automatically generated list of literature summaries.
 ### bacterial genomics
 
 - [Validating The Amrfinder Tool And Resistance Gene Database](2019-Feldgarden-Validating-The-Amrfinder-Tool-And-Resistance-Gene-Database.md) (2019)
+
+### Bacterial infection
+
+- [Prediction of synergistic antibiotic combinations by graph learning](2022-lv-prediction-of-synergistic-antibiotic-combinations-by-graph-learning.md) (2022)
 
 ### Bacterial methylome
 
@@ -887,6 +898,10 @@ Automatically generated list of literature summaries.
 ### gonorrhoea
 
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md) (2026)
+
+### Graph learning
+
+- [Prediction of synergistic antibiotic combinations by graph learning](2022-lv-prediction-of-synergistic-antibiotic-combinations-by-graph-learning.md) (2022)
 
 ### graph neural network (GNN)
 
@@ -1481,6 +1496,10 @@ Automatically generated list of literature summaries.
 
 - [Cell type directed network correcting combination therapy alzheimers disease](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md) (2025)
 
+### Network pharmacology
+
+- [Prediction of synergistic antibiotic combinations by graph learning](2022-lv-prediction-of-synergistic-antibiotic-combinations-by-graph-learning.md) (2022)
+
 ### neutrophil cytotoxicity
 
 - [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md) (2026)
@@ -1630,6 +1649,10 @@ Automatically generated list of literature summaries.
 ### Protein-protein interactions
 
 - [Bindcraft One Shot Design Of Functional Protein Binders](2025-Pacesa-Bindcraft-One-Shot-Design-Of-Functional-Protein-Binders.md) (2025)
+
+### Protein–protein interaction network
+
+- [Prediction of synergistic antibiotic combinations by graph learning](2022-lv-prediction-of-synergistic-antibiotic-combinations-by-graph-learning.md) (2022)
 
 ### Prp43
 
@@ -1900,6 +1923,10 @@ Automatically generated list of literature summaries.
 
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md) (2023)
 - [Srgan wheat stripe rust classification](2021-maqsood-srgan-wheat-stripe-rust-classification.md) (2021)
+
+### Synergy effect
+
+- [Prediction of synergistic antibiotic combinations by graph learning](2022-lv-prediction-of-synergistic-antibiotic-combinations-by-graph-learning.md) (2022)
 
 ### synthetic benchmarks
 
