@@ -112,6 +112,7 @@ Automatically generated list of literature summaries.
 - [Validating The Amrfinder Tool And Resistance Gene Database](2019-Feldgarden-Validating-The-Amrfinder-Tool-And-Resistance-Gene-Database.md)
 ### 2017
 
+- [Percolation transition of cooperative mutational effects in colorectal tumorigenesis](2017-shin-percolation-transition-of-cooperative-mutational-effects-in-colorectal-tumorigenesis.md)
 - [Attention Is All You Need](2017-Vaswani-Attention Is All You Need.md)
 ### 2016
 
