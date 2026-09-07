@@ -30,6 +30,7 @@ Automatically generated list of literature summaries.
 - [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md)
 - [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md)
 - [Identifying unmeasured heterogeneity in microbiome data via quantile thresholding (QuanT)](2026-Lu-Identifying_unmeasured_heterogeneity_quanT.md)
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md)
 - [Gwas intestinal molecular environment human gut microbiota variation](2026-dekkers-gwas-intestinal-molecular-environment-human-gut-microbiota-variation.md)
 - [Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design](2026-Shao-Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design.md)
 - [Genome Modelling And Design Across All Domains Of Life With Evo 2](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md)
@@ -164,6 +165,10 @@ Automatically generated list of literature summaries.
 ### Adaptation
 
 - [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
+
+### age acceleration
+
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
 
 ### aging trajectories
 
@@ -386,9 +391,17 @@ Automatically generated list of literature summaries.
 - [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
 - [Mara rama and soxs stress response survival cost](2020-holden-mara-rama-and-soxs-stress-response-survival-cost.md) (2020)
 
+### biological aging
+
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
+
 ### biomolecular interactions
 
 - [Accurate structure prediction biomolecular interactions alphafold 3](2024-abramson-accurate-structure-prediction-biomolecular-interactions-alphafold-3.md) (2024)
+
+### blood biomarkers
+
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
 
 ### brain age gap (BAG)
 
@@ -466,6 +479,10 @@ Automatically generated list of literature summaries.
 
 - [Genome Modelling And Design Across All Domains Of Life With Evo 2](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md) (2026)
 
+### chronic disease
+
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
+
 ### chrono-immunology
 
 - [Dendritic cells direct circadian anti tumor immune responses](2022-wang-dendritic-cells-direct-circadian-anti-tumor-immune-responses.md) (2022)
@@ -534,6 +551,7 @@ Automatically generated list of literature summaries.
 
 ### computational pathology
 
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
 - [Multimodal generative ai copilot human pathology](2024-lu-multimodal-generative-ai-copilot-human-pathology.md) (2024)
 
 ### concerted nucleotide modification
@@ -607,6 +625,7 @@ Automatically generated list of literature summaries.
 
 ### deep learning
 
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
 - [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
 - [Discovery ai guided mechanistic elucidation narrow spectrum antibiotic](2025-catacutan-discovery-ai-guided-mechanistic-elucidation-narrow-spectrum-antibiotic.md) (2025)
 
@@ -687,6 +706,10 @@ Automatically generated list of literature summaries.
 - [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
 - [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md) (2023)
 - [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md) (2020)
+
+### DNA methylation clocks
+
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
 
 ### DNA methylation sequencing
 
@@ -998,6 +1021,10 @@ Automatically generated list of literature summaries.
 ### GTDB marker genes
 
 - [Microgenomer Transferable Microbial Genome Representations Enabling Multi Scale Genomic Understanding And Ecophysiological Trait Prediction](2025-Kang-Microgenomer-Transferable-Microbial-Genome-Representations-Enabling-Multi-Scale-Genomic-Understanding-And-Ecophysiological-Trait-Prediction.md) (2025)
+
+### GTEx
+
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
 
 ### Gubbins
 
@@ -1652,6 +1679,10 @@ Automatically generated list of literature summaries.
 
 - [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
 
+### organ-specific aging
+
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
+
 ### outbreak genomics
 
 - [Rapid Phylogenetic Analysis Gubbins](2015-Croucher-Rapid-Phylogenetic-Analysis-Gubbins.md) (2015)
@@ -2084,6 +2115,10 @@ Automatically generated list of literature summaries.
 
 - [Crocodeel Accurate Control Free Detection Of Cross Sample Contamination In Metagenomic Data](2025-Goulet-Crocodeel-Accurate-Control-Free-Detection-Of-Cross-Sample-Contamination-In-Metagenomic-Data.md) (2025)
 
+### telomere attrition
+
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
+
 ### TEM-1 β-lactamase
 
 - [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
@@ -2096,6 +2131,10 @@ Automatically generated list of literature summaries.
 ### time-series prediction
 
 - [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
+
+### tissue clocks
+
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
 
 ### TM6SF2
 
@@ -2112,6 +2151,10 @@ Automatically generated list of literature summaries.
 ### Transcription factor binding sites
 
 - [Methylmapr functional prokaryotic methylome](2025-morrissey-methylmapr-functional-prokaryotic-methylome.md) (2025)
+
+### transcriptomics
+
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
 
 ### transcriptomics-based drug discovery
 
@@ -2259,6 +2302,10 @@ Automatically generated list of literature summaries.
 ### whole-genome sequencing (WGS)
 
 - [Amr gnn genomic antimicrobial resistance prediction](2026-nguyen-amr-gnn-genomic-antimicrobial-resistance-prediction.md) (2026)
+
+### whole-slide histopathology
+
+- [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
 
 ### Whole-slide imaging
 
