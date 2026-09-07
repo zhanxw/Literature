@@ -34,6 +34,7 @@ Automatically generated list of literature summaries.
 - [Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome](2026-Lu-Eubiota-modular-agentic-ai-gut-microbiome.md)
 - [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md)
 - [Critical assessment of intratumor and low-biomass microbiome using long-read sequencing](2026-Fang-Critical assessment of intratumor and low-biomass microbiome using long-read sequencing.md)
+- [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md)
 - [Biological and technical variability in mouse microbiota analysis and implications for sample size determination](2025-McAdams-Biological and technical variability in mouse microbiota analysis and implications for sample size determination.md)
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md)
 - [Antibiotic use and gut microbiome composition links from individual-level prescription data of 14,979 individuals](2026-baldanzi-antibiotic-use-gut-microbiome-prescription-data.md)
@@ -204,6 +205,10 @@ Automatically generated list of literature summaries.
 - [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
 - [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
 
+### AMR forecasting
+
+- [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md) (2026)
+
 ### AMR phenotype prediction
 
 - [Amr gnn genomic antimicrobial resistance prediction](2026-nguyen-amr-gnn-genomic-antimicrobial-resistance-prediction.md) (2026)
@@ -280,6 +285,10 @@ Automatically generated list of literature summaries.
 ### auxotrophy analysis
 
 - [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md) (2020)
+
+### AWaRe antibiotics
+
+- [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md) (2026)
 
 ### azithromycin
 
@@ -395,6 +404,10 @@ Automatically generated list of literature summaries.
 
 - [Conserved spatial subtypes cellular neighborhoods cancer associated fibroblasts](2025-liu-conserved-spatial-subtypes-cellular-neighborhoods-cancer-associated-fibroblasts.md) (2025)
 
+### carbapenem resistance
+
+- [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md) (2026)
+
 ### cardiovascular disease
 
 - [Association genetically predicted leisure social activities cardiovascular disease](2024-kim-association-genetically-predicted-leisure-social-activities-cardiovascular-disease.md) (2024)
@@ -422,6 +435,10 @@ Automatically generated list of literature summaries.
 ### Cellular niches
 
 - [Multi modal spatial characterization tumor immune microenvironments dlbcl](2025-dai-multi-modal-spatial-characterization-tumor-immune-microenvironments-dlbcl.md) (2025)
+
+### cephalosporin resistance
+
+- [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md) (2026)
 
 ### Cephalosporins
 
@@ -840,6 +857,10 @@ Automatically generated list of literature summaries.
 
 - [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
 
+### generalized additive models
+
+- [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md) (2026)
+
 ### genome contamination
 
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
@@ -895,6 +916,10 @@ Automatically generated list of literature summaries.
 ### Global Microbial Community Database
 
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md) (2026)
+
+### global surveillance
+
+- [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md) (2026)
 
 ### gonorrhoea
 
@@ -1111,6 +1136,10 @@ Automatically generated list of literature summaries.
 ### insulin resistance
 
 - [Human genetics of steatotic liver disease: insights into insulin resistance and lipid metabolism](2025-mancina-human-genetics-steatotic-liver-disease-insulin-resistance-lipid-metabolism.md) (2025)
+
+### intensive care
+
+- [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md) (2026)
 
 ### interannual stability
 
@@ -1561,6 +1590,10 @@ Automatically generated list of literature summaries.
 
 - [Multimodal generative ai copilot human pathology](2024-lu-multimodal-generative-ai-copilot-human-pathology.md) (2024)
 
+### pediatric antimicrobial resistance
+
+- [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md) (2026)
+
 ### PERCEPTION
 
 - [Perception predicts patient response resistance treatment](2024-sinha-perception-predicts-patient-response-resistance-treatment.md) (2024)
@@ -1768,6 +1801,10 @@ Automatically generated list of literature summaries.
 ### scverse
 
 - [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md) (2026)
+
+### sepsis
+
+- [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md) (2026)
 
 ### Sepsis prediction
 
@@ -2091,6 +2128,10 @@ Automatically generated list of literature summaries.
 ### WHO EGASP
 
 - [Zoliflodacin susceptibility egasp 2021 2024](2025-jacobsson-zoliflodacin-susceptibility-egasp-2021-2024.md) (2025)
+
+### WHO priority pathogens
+
+- [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md) (2026)
 
 ### whole-genome phylogenetics
 
