@@ -4,6 +4,9 @@ Automatically generated list of literature summaries.
 
 ## Articles by Year
 
+### 2036
+
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md)
 ### 2026
 
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md)
@@ -267,6 +270,10 @@ Automatically generated list of literature summaries.
 ### antimicrobial resistance (AMR)
 
 - [Amr gnn genomic antimicrobial resistance prediction](2026-nguyen-amr-gnn-genomic-antimicrobial-resistance-prediction.md) (2026)
+
+### antimicrobial stewardship
+
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
 
 ### antimicrobial surveillance
 
@@ -726,11 +733,16 @@ Automatically generated list of literature summaries.
 
 ### electronic health records
 
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
 - [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md) (2021)
 
 ### Electronic medical record integration
 
 - [FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation](2024-Shapiro-Sepsis-Immunoscore.md) (2024)
+
+### empirical antibiotic therapy
+
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
 
 ### Ensembl BioMart
 
@@ -793,6 +805,7 @@ Automatically generated list of literature summaries.
 
 ### external validation
 
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
 - [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
 
 ### fairness
@@ -847,6 +860,10 @@ Automatically generated list of literature summaries.
 ### Fusobacterium nucleatum
 
 - [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md) (2026)
+
+### gated recurrent unit
+
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
 
 ### Gavi
 
@@ -1353,6 +1370,10 @@ Automatically generated list of literature summaries.
 - [The Omg Dataset An Open Metagenomic Corpus For Mixed Modality Genomic Language Modeling](2024-Cornman-The-Omg-Dataset-An-Open-Metagenomic-Corpus-For-Mixed-Modality-Genomic-Language-Modeling.md) (2024)
 - [Evolutionary scale prediction atomic protein structure language model](2023-lin-evolutionary-scale-prediction-atomic-protein-structure-language-model.md) (2023)
 
+### methicillin-resistant *Staphylococcus aureus* (MRSA)
+
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
+
 ### methodological variability
 
 - [Evaluating analytical performance direct to consumer gut microbiome testing services](2026-servetas-evaluating-analytical-performance-direct-to-consumer-gut-microbiome-testing-services.md) (2026)
@@ -1412,6 +1433,10 @@ Automatically generated list of literature summaries.
 ### MicroGenomer
 
 - [Microgenomer Transferable Microbial Genome Representations Enabling Multi Scale Genomic Understanding And Ecophysiological Trait Prediction](2025-Kang-Microgenomer-Transferable-Microbial-Genome-Representations-Enabling-Multi-Scale-Genomic-Understanding-And-Ecophysiological-Trait-Prediction.md) (2025)
+
+### MIMIC-IV
+
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
 
 ### minimum inhibitory concentration
 
@@ -1622,6 +1647,10 @@ Automatically generated list of literature summaries.
 
 - [Perception predicts patient response resistance treatment](2024-sinha-perception-predicts-patient-response-resistance-treatment.md) (2024)
 
+### personalized risk stratification
+
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
+
 ### phase 3 randomized trial
 
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md) (2026)
@@ -1765,6 +1794,10 @@ Automatically generated list of literature summaries.
 ### real-world evidence
 
 - [Cell type directed network correcting combination therapy alzheimers disease](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md) (2025)
+
+### recurrent neural network
+
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
 
 ### Regulatory trade-offs
 
@@ -2014,6 +2047,10 @@ Automatically generated list of literature summaries.
 ### TIM-1
 
 - [B cell specific checkpoint molecules regulate anti tumour immunity](2023-bod-b-cell-specific-checkpoint-molecules-regulate-anti-tumour-immunity.md) (2023)
+
+### time-series prediction
+
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
 
 ### TM6SF2
 
