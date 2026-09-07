@@ -43,6 +43,7 @@ Automatically generated list of literature summaries.
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md)
 - [Antibiotic use and gut microbiome composition links from individual-level prescription data of 14,979 individuals](2026-baldanzi-antibiotic-use-gut-microbiome-prescription-data.md)
 - [Amr gnn genomic antimicrobial resistance prediction](2026-nguyen-amr-gnn-genomic-antimicrobial-resistance-prediction.md)
+- [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md)
 ### 2025
 
 - [Zoliflodacin susceptibility egasp 2021 2024](2025-jacobsson-zoliflodacin-susceptibility-egasp-2021-2024.md)
@@ -653,6 +654,10 @@ Automatically generated list of literature summaries.
 
 - [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
 
+### direct preference optimization
+
+- [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
+
 ### direct-to-consumer microbiome testing
 
 - [Evaluating analytical performance direct to consumer gut microbiome testing services](2026-servetas-evaluating-analytical-performance-direct-to-consumer-gut-microbiome-testing-services.md) (2026)
@@ -770,6 +775,10 @@ Automatically generated list of literature summaries.
 
 - [Interplm discovering interpretable features protein language models sparse autoencoders](2025-simon-interplm-discovering-interpretable-features-protein-language-models-sparse-autoencoders.md) (2025)
 
+### ESM-IF1
+
+- [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
+
 ### ESMFold
 
 - [Evolutionary scale prediction atomic protein structure language model](2023-lin-evolutionary-scale-prediction-atomic-protein-structure-language-model.md) (2023)
@@ -785,6 +794,10 @@ Automatically generated list of literature summaries.
 ### Experimental evolution
 
 - [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
+
+### experimental fitness
+
+- [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
 
 ### experiments
 
@@ -884,6 +897,10 @@ Automatically generated list of literature summaries.
 ### generalized additive models
 
 - [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md) (2026)
+
+### generative protein models
+
+- [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
 
 ### genome contamination
 
@@ -1025,6 +1042,10 @@ Automatically generated list of literature summaries.
 
 - [Zoliflodacin susceptibility egasp 2021 2024](2025-jacobsson-zoliflodacin-susceptibility-egasp-2021-2024.md) (2025)
 
+### H5N1 influenza
+
+- [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
+
 ### Habitat Generalism and Specialism
 
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md) (2026)
@@ -1040,6 +1061,10 @@ Automatically generated list of literature summaries.
 ### health-associated taxa
 
 - [Silva meta analysis of the uncultured gut microbiome candidate signature of health](2026-da-silva-meta-analysis-of-the-uncultured-gut-microbiome-candidate-signature-of-health.md) (2026)
+
+### hemagglutinin
+
+- [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
 
 ### Hemimethylation
 
@@ -1197,6 +1222,10 @@ Automatically generated list of literature summaries.
 
 - [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md) (2026)
 - [Nino intratumoral microbiota spatial cellular heterogeneity cancer](2022-galeano-nino-intratumoral-microbiota-spatial-cellular-heterogeneity-cancer.md) (2022)
+
+### inverse folding
+
+- [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
 
 ### IPD ratio
 
@@ -1453,6 +1482,10 @@ Automatically generated list of literature summaries.
 ### mobile genetic elements
 
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
+
+### model alignment
+
+- [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
 
 ### modeling
 
@@ -1725,6 +1758,10 @@ Automatically generated list of literature summaries.
 
 - [Gut microbiota-derived short-chain fatty acids and their role in human health and disease](2025-Mukhopadhya-Gut-microbiota-derived-short-chain-fatty-acids-and-their-role-in-human-health-and-disease.md) (2025)
 
+### protein design
+
+- [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
+
 ### protein language model
 
 - [Interplm discovering interpretable features protein language models sparse autoencoders](2025-simon-interplm-discovering-interpretable-features-protein-language-models-sparse-autoencoders.md) (2025)
@@ -1733,6 +1770,10 @@ Automatically generated list of literature summaries.
 
 - [Evolutionary scale prediction atomic protein structure language model](2023-lin-evolutionary-scale-prediction-atomic-protein-structure-language-model.md) (2023)
 
+### protein stability
+
+- [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
+
 ### protein-ligand complexes
 
 - [Accurate structure prediction biomolecular interactions alphafold 3](2024-abramson-accurate-structure-prediction-biomolecular-interactions-alphafold-3.md) (2024)
@@ -1740,6 +1781,10 @@ Automatically generated list of literature summaries.
 ### Protein-protein interactions
 
 - [Bindcraft One Shot Design Of Functional Protein Binders](2025-Pacesa-Bindcraft-One-Shot-Design-Of-Functional-Protein-Binders.md) (2025)
+
+### ProteinDPO
+
+- [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
 
 ### Protein–protein interaction network
 
@@ -2140,6 +2185,10 @@ Automatically generated list of literature summaries.
 ### vaccination coverage
 
 - [Effective health aid evidence gavi vaccine program](2025-shastry-effective-health-aid-evidence-gavi-vaccine-program.md) (2025)
+
+### vaccine antigen stabilization
+
+- [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
 
 ### Vaccine development
 
