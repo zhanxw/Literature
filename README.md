@@ -16,6 +16,7 @@ Automatically generated list of literature summaries.
 - [Silva meta analysis of the uncultured gut microbiome candidate signature of health](2026-da-silva-meta-analysis-of-the-uncultured-gut-microbiome-candidate-signature-of-health.md)
 - [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md)
 - [Reliable detection of Host-Microbe Signatures in cancer using PRISM](2026-Ghaddar-Reliable detection of Host-Microbe Signatures in cancer using PRISM.md)
+- [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md)
 - [Precise DNA base editing using AlphaFold3-based contact modelling](2026-Meng-Precise DNA base editing using AlphaFold3-based contact modelling.md)
 - [Navigating the duality of Akkermansia muciniphila](2026-Grant-Navigating the duality of Akkermansia muciniphila.md)
 - [Navigating duality akkermansia muciniphila](2026-grant-navigating-duality-akkermansia-muciniphila.md)
@@ -257,6 +258,7 @@ Automatically generated list of literature summaries.
 
 ### antimicrobial resistance
 
+- [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
 - [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
 - [Prediction of synergistic antibiotic combinations by graph learning](2022-lv-prediction-of-synergistic-antibiotic-combinations-by-graph-learning.md) (2022)
@@ -749,6 +751,7 @@ Automatically generated list of literature summaries.
 
 ### Escherichia coli*
 
+- [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
 - [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
 
 ### ESM-2
@@ -787,6 +790,10 @@ Automatically generated list of literature summaries.
 
 - [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
 - [Higher order epistasis drives evolutionary unpredictability toward novel antibiotic resistance](2025-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability-toward-novel-antibiotic-resistance.md) (2025)
+
+### external validation
+
+- [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
 
 ### fairness
 
@@ -876,6 +883,10 @@ Automatically generated list of literature summaries.
 ### Genome-scale sequence generation
 
 - [Genome Modelling And Design Across All Domains Of Life With Evo 2](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md) (2026)
+
+### genomic antimicrobial susceptibility testing
+
+- [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
 
 ### Genomic foundation model
 
@@ -1153,6 +1164,10 @@ Automatically generated list of literature summaries.
 
 - [Mmethane Interpretable Ai For Predicting Host Status From Microbial Composition And Metabolomics Data](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md) (2026)
 
+### interpretable machine learning
+
+- [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
+
 ### intestinal molecular environment
 
 - [Gwas intestinal molecular environment human gut microbiota variation](2026-dekkers-gwas-intestinal-molecular-environment-human-gut-microbiota-variation.md) (2026)
@@ -1177,6 +1192,10 @@ Automatically generated list of literature summaries.
 ### iStar
 
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md) (2023)
+
+### k-mers
+
+- [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
 
 ### Knowledge graph
 
@@ -1268,6 +1287,7 @@ Automatically generated list of literature summaries.
 
 ### machine learning
 
+- [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
 - [Machine learning assisted optimization dietary intervention dementia risk](2025-chen-machine-learning-assisted-optimization-dietary-intervention-dementia-risk.md) (2025)
 - [Evaluation prediction guide rna activities genome editing tools](2025-kim-evaluation-prediction-guide-rna-activities-genome-editing-tools.md) (2025)
 
@@ -1392,6 +1412,10 @@ Automatically generated list of literature summaries.
 ### MicroGenomer
 
 - [Microgenomer Transferable Microbial Genome Representations Enabling Multi Scale Genomic Understanding And Ecophysiological Trait Prediction](2025-Kang-Microgenomer-Transferable-Microbial-Genome-Representations-Enabling-Multi-Scale-Genomic-Understanding-And-Ecophysiological-Trait-Prediction.md) (2025)
+
+### minimum inhibitory concentration
+
+- [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
 
 ### mixed-modality sequences
 
@@ -1655,6 +1679,10 @@ Automatically generated list of literature summaries.
 ### prime editing
 
 - [Evaluation prediction guide rna activities genome editing tools](2025-kim-evaluation-prediction-guide-rna-activities-genome-editing-tools.md) (2025)
+
+### Progressive Genome Segment Enhancement
+
+- [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
 
 ### prokaryotes
 
@@ -2140,6 +2168,7 @@ Automatically generated list of literature summaries.
 ### whole-genome sequencing
 
 - [Zoliflodacin phase 3 microbiological failures](2026-unemo-zoliflodacin-phase-3-microbiological-failures.md) (2026)
+- [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
 
 ### whole-genome sequencing (WGS)
 
@@ -2156,6 +2185,10 @@ Automatically generated list of literature summaries.
 ### xenophagy
 
 - [Leveraging intratumoral probiotics pancreatic cancer immunotherapy via xenophagy](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md) (2026)
+
+### XGBoost
+
+- [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
 
 ### yeast (Saccharomyces cerevisiae)
 
