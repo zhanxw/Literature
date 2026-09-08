@@ -57,6 +57,7 @@ Automatically generated list of literature summaries.
 - [Methylmapr functional prokaryotic methylome](2025-morrissey-methylmapr-functional-prokaryotic-methylome.md)
 - [Machine learning assisted optimization dietary intervention dementia risk](2025-chen-machine-learning-assisted-optimization-dietary-intervention-dementia-risk.md)
 - [Lopez Imbalance In Gut Microbial Interactions As A Marker Of Health And Disease](2025-Corral-Lopez-Imbalance-In-Gut-Microbial-Interactions-As-A-Marker-Of-Health-And-Disease.md)
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md)
 - [Interplm discovering interpretable features protein language models sparse autoencoders](2025-simon-interplm-discovering-interpretable-features-protein-language-models-sparse-autoencoders.md)
 - [Impact library size scale testing virtual screening](2025-liu-impact-library-size-scale-testing-virtual-screening.md)
 - [Human genetics of steatotic liver disease: insights into insulin resistance and lipid metabolism](2025-mancina-human-genetics-steatotic-liver-disease-insulin-resistance-lipid-metabolism.md)
@@ -269,6 +270,7 @@ Automatically generated list of literature summaries.
 
 - [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
 - [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
 - [Prediction of synergistic antibiotic combinations by graph learning](2022-lv-prediction-of-synergistic-antibiotic-combinations-by-graph-learning.md) (2022)
 - [Validating The Amrfinder Tool And Resistance Gene Database](2019-Feldgarden-Validating-The-Amrfinder-Tool-And-Resistance-Gene-Database.md) (2019)
@@ -519,6 +521,10 @@ Automatically generated list of literature summaries.
 
 - [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md) (2021)
 
+### cloud computing
+
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
+
 ### CODEX
 
 - [Multi modal spatial characterization tumor immune microenvironments dlbcl](2025-dai-multi-modal-spatial-characterization-tumor-immune-microenvironments-dlbcl.md) (2025)
@@ -614,6 +620,14 @@ Automatically generated list of literature summaries.
 ### Dbp3
 
 - [Concerted modification ribosome single molecule rna profiling](2022-bailey-concerted-modification-ribosome-single-molecule-rna-profiling.md) (2022)
+
+### de Bruijn graphs
+
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
+
+### de novo assembly
+
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
 
 ### De novo protein binder design
 
@@ -1101,6 +1115,10 @@ Automatically generated list of literature summaries.
 
 - [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
 
+### HHV-6 reactivation
+
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
+
 ### hierarchical vision transformer
 
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md) (2023)
@@ -1266,6 +1284,10 @@ Automatically generated list of literature summaries.
 
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md) (2023)
 
+### k-mer search
+
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
+
 ### k-mers
 
 - [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
@@ -1325,6 +1347,10 @@ Automatically generated list of literature summaries.
 ### localization
 
 - [Spatial organization of bacterial transcription and translation](2016-Castellana-Spatial organization of bacterial transcription and translation.md) (2016)
+
+### Logan
+
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
 
 ### LolCDE
 
@@ -1421,6 +1447,7 @@ Automatically generated list of literature summaries.
 
 - [Gwas intestinal molecular environment human gut microbiota variation](2026-dekkers-gwas-intestinal-molecular-environment-human-gut-microbiota-variation.md) (2026)
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
 - [Gianthunter accurate detection giant virus metagenomic data](2025-qu-gianthunter-accurate-detection-giant-virus-metagenomic-data.md) (2025)
 - [Crocodeel Accurate Control Free Detection Of Cross Sample Contamination In Metagenomic Data](2025-Goulet-Crocodeel-Accurate-Control-Free-Detection-Of-Cross-Sample-Contamination-In-Metagenomic-Data.md) (2025)
 - [The Omg Dataset An Open Metagenomic Corpus For Mixed Modality Genomic Language Modeling](2024-Cornman-The-Omg-Dataset-An-Open-Metagenomic-Corpus-For-Mixed-Modality-Genomic-Language-Modeling.md) (2024)
@@ -1509,6 +1536,7 @@ Automatically generated list of literature summaries.
 ### mobile genetic elements
 
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
 
 ### model alignment
 
@@ -1715,6 +1743,10 @@ Automatically generated list of literature summaries.
 
 - [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
 
+### PETase
+
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
+
 ### phase 3 randomized trial
 
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md) (2026)
@@ -1732,9 +1764,21 @@ Automatically generated list of literature summaries.
 
 - [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md) (2020)
 
+### planetary-scale genomics
+
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
+
 ### plasma proteomics
 
 - [Plasma proteomics biomarkers undulating changes brain aging](2024-liu-plasma-proteomics-biomarkers-undulating-changes-brain-aging.md) (2024)
+
+### plasmids
+
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
+
+### plastic-degrading enzymes
+
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
 
 ### PNPLA3
 
@@ -1792,6 +1836,10 @@ Automatically generated list of literature summaries.
 ### protein design
 
 - [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
+
+### protein diversity
+
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
 
 ### protein language model
 
@@ -1954,6 +2002,10 @@ Automatically generated list of literature summaries.
 ### sequence quality control
 
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
+
+### Sequence Read Archive
+
+- [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md) (2025)
 
 ### ShapeGGen
 
