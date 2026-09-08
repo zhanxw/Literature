@@ -12,6 +12,7 @@ Automatically generated list of literature summaries.
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md)
 - [Zoliflodacin phase 3 microbiological failures](2026-unemo-zoliflodacin-phase-3-microbiological-failures.md)
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md)
+- [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md)
 - [Strain level genetic heterogeneity and colonization dynamics drive microbiome therapeutic efficacy](2026-chen-strain-level-genetic-heterogeneity-and-colonization-dynamics-drive-microbiome-therapeutic-efficacy.md)
 - [Spatial transcriptomics maps host gut microbiome biogeography high resolution](2026-ntekas-spatial-transcriptomics-maps-host-gut-microbiome-biogeography-high-resolution.md)
 - [Spatial omics forefront emerging technologies analytical innovations clinical applications](2026-liu-spatial-omics-forefront-emerging-technologies-analytical-innovations-clinical-applications.md)
@@ -1020,6 +1021,10 @@ Automatically generated list of literature summaries.
 
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md) (2026)
 
+### Granuloma
+
+- [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md) (2026)
+
 ### Graph learning
 
 - [Prediction of synergistic antibiotic combinations by graph learning](2022-lv-prediction-of-synergistic-antibiotic-combinations-by-graph-learning.md) (2022)
@@ -1206,6 +1211,10 @@ Automatically generated list of literature summaries.
 
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md) (2026)
 
+### Hypoxia
+
+- [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md) (2026)
+
 ### idiopathic pulmonary fibrosis
 
 - [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md) (2026)
@@ -1237,6 +1246,10 @@ Automatically generated list of literature summaries.
 ### Immune-privileged sites
 
 - [Multi modal spatial characterization tumor immune microenvironments dlbcl](2025-dai-multi-modal-spatial-characterization-tumor-immune-microenvironments-dlbcl.md) (2025)
+
+### Immunometabolism
+
+- [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md) (2026)
 
 ### in situ polyadenylation
 
@@ -1412,6 +1425,10 @@ Automatically generated list of literature summaries.
 
 - [FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation](2024-Shapiro-Sepsis-Immunoscore.md) (2024)
 
+### Macrophage
+
+- [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md) (2026)
+
 ### MarA
 
 - [Mara rama and soxs stress response survival cost](2020-holden-mara-rama-and-soxs-stress-response-survival-cost.md) (2020)
@@ -1490,6 +1507,10 @@ Automatically generated list of literature summaries.
 ### Methyltransferase activity
 
 - [Smalr bacterial methylome heterogeneity](2015-beaulaurier-smalr-bacterial-methylome-heterogeneity.md) (2015)
+
+### MIBI-TOF
+
+- [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md) (2026)
 
 ### MIC distribution
 
@@ -1652,6 +1673,10 @@ Automatically generated list of literature summaries.
 
 - [MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md) (2026)
 
+### Mycobacterium tuberculosis* (Mtb)
+
+- [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md) (2026)
+
 ### nanopore direct RNA sequencing
 
 - [Concerted modification ribosome single molecule rna profiling](2022-bailey-concerted-modification-ribosome-single-molecule-rna-profiling.md) (2022)
@@ -1708,6 +1733,10 @@ Automatically generated list of literature summaries.
 ### non-inferiority
 
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md) (2026)
+
+### Nonhuman primate
+
+- [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md) (2026)
 
 ### NSCLC immunotherapy
 
@@ -2067,8 +2096,9 @@ Automatically generated list of literature summaries.
 
 - [Predicting drug responses unseen cell types transfer learning foundation models](2025-wang-predicting-drug-responses-unseen-cell-types-transfer-learning-foundation-models.md) (2025)
 
-### single-cell RNA sequencing
+### Single-cell RNA sequencing
 
+- [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md) (2026)
 - [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
 
 ### single-cell RNA-seq
@@ -2117,6 +2147,10 @@ Automatically generated list of literature summaries.
 
 - [Genome Modelling And Design Across All Domains Of Life With Evo 2](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md) (2026)
 
+### Spatial cellular niche
+
+- [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md) (2026)
+
 ### Spatial metabolomics
 
 - [Spatial omics forefront emerging technologies analytical innovations clinical applications](2026-liu-spatial-omics-forefront-emerging-technologies-analytical-innovations-clinical-applications.md) (2026)
@@ -2133,8 +2167,9 @@ Automatically generated list of literature summaries.
 
 - [Spatial omics forefront emerging technologies analytical innovations clinical applications](2026-liu-spatial-omics-forefront-emerging-technologies-analytical-innovations-clinical-applications.md) (2026)
 
-### spatial transcriptomics
+### Spatial transcriptomics
 
+- [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md) (2026)
 - [Spatial transcriptomics maps host gut microbiome biogeography high resolution](2026-ntekas-spatial-transcriptomics-maps-host-gut-microbiome-biogeography-high-resolution.md) (2026)
 - [Spatial omics forefront emerging technologies analytical innovations clinical applications](2026-liu-spatial-omics-forefront-emerging-technologies-analytical-innovations-clinical-applications.md) (2026)
 - [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
@@ -2197,6 +2232,10 @@ Automatically generated list of literature summaries.
 ### synthetic benchmarks
 
 - [Evaluating explainability for graph neural networks](2023-agarwal-evaluating-explainability-graph-neural-networks.md) (2023)
+
+### T-cell exclusion
+
+- [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md) (2026)
 
 ### Taxonomic and Environmental Insights
 
@@ -2281,6 +2320,10 @@ Automatically generated list of literature summaries.
 ### Triple-negative breast cancer
 
 - [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
+
+### Tuberculosis (TB)
+
+- [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md) (2026)
 
 ### tumor heterogeneity
 
