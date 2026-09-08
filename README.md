@@ -16,6 +16,7 @@ Automatically generated list of literature summaries.
 - [Spatial transcriptomics maps host gut microbiome biogeography high resolution](2026-ntekas-spatial-transcriptomics-maps-host-gut-microbiome-biogeography-high-resolution.md)
 - [Spatial omics forefront emerging technologies analytical innovations clinical applications](2026-liu-spatial-omics-forefront-emerging-technologies-analytical-innovations-clinical-applications.md)
 - [Spatial and temporal patterns of public transit aerobiomes](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md)
+- [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md)
 - [Silva meta analysis of the uncultured gut microbiome candidate signature of health](2026-da-silva-meta-analysis-of-the-uncultured-gut-microbiome-candidate-signature-of-health.md)
 - [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md)
 - [Reliable detection of Host-Microbe Signatures in cancer using PRISM](2026-Ghaddar-Reliable detection of Host-Microbe Signatures in cancer using PRISM.md)
@@ -135,6 +136,10 @@ Automatically generated list of literature summaries.
 - [OmpK26, a Novel Porin Associated with Carbapenem Resistance in Klebsiella pneumoniae](2011-Garcia-Sureda-Ompk26-novel-porin-carbapenem-resistance.md)
 
 ## Articles by Keyword
+
+### 3D cell culture
+
+- [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
 
 ### 4mC
 
@@ -453,6 +458,10 @@ Automatically generated list of literature summaries.
 
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md) (2026)
 
+### cell hashing
+
+- [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
+
 ### Cell-cell communication
 
 - [Multi modal spatial characterization tumor immune microenvironments dlbcl](2025-dai-multi-modal-spatial-characterization-tumor-immune-microenvironments-dlbcl.md) (2025)
@@ -748,6 +757,10 @@ Automatically generated list of literature summaries.
 ### drug repurposing
 
 - [Cell type directed network correcting combination therapy alzheimers disease](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md) (2025)
+
+### drug response
+
+- [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
 
 ### drug response prediction
 
@@ -1103,6 +1116,10 @@ Automatically generated list of literature summaries.
 
 - [Silva meta analysis of the uncultured gut microbiome candidate signature of health](2026-da-silva-meta-analysis-of-the-uncultured-gut-microbiome-candidate-signature-of-health.md) (2026)
 
+### HeLa cells
+
+- [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
+
 ### hemagglutinin
 
 - [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
@@ -1278,6 +1295,7 @@ Automatically generated list of literature summaries.
 
 ### irinotecan
 
+- [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
 - [Cell type directed network correcting combination therapy alzheimers disease](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md) (2025)
 
 ### iStar
@@ -1409,6 +1427,10 @@ Automatically generated list of literature summaries.
 ### Mechanistic interpretability
 
 - [Genome Modelling And Design Across All Domains Of Life With Evo 2](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md) (2026)
+
+### mechano-microscopy
+
+- [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
 
 ### Med-BERT
 
@@ -1601,6 +1623,10 @@ Automatically generated list of literature summaries.
 ### Multidrug efflux
 
 - [Mara rama and soxs stress response survival cost](2020-holden-mara-rama-and-soxs-stress-response-survival-cost.md) (2020)
+
+### multilayer spheroids
+
+- [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
 
 ### multimodal AI
 
@@ -1983,6 +2009,10 @@ Automatically generated list of literature summaries.
 
 - [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
 
+### scTECH-seq
+
+- [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
+
 ### scverse
 
 - [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md) (2026)
@@ -2011,6 +2041,10 @@ Automatically generated list of literature summaries.
 
 - [Evaluating explainability for graph neural networks](2023-agarwal-evaluating-explainability-graph-neural-networks.md) (2023)
 
+### short barcode oligonucleotides
+
+- [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
+
 ### short-chain fatty acids
 
 - [Gut microbiota derived short chain fatty acids role human health disease](2025-mukhopadhya-gut-microbiota-derived-short-chain-fatty-acids-role-human-health-disease.md) (2025)
@@ -2032,6 +2066,10 @@ Automatically generated list of literature summaries.
 ### single-cell perturbation
 
 - [Predicting drug responses unseen cell types transfer learning foundation models](2025-wang-predicting-drug-responses-unseen-cell-types-transfer-learning-foundation-models.md) (2025)
+
+### single-cell RNA sequencing
+
+- [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
 
 ### single-cell RNA-seq
 
@@ -2099,6 +2137,7 @@ Automatically generated list of literature summaries.
 
 - [Spatial transcriptomics maps host gut microbiome biogeography high resolution](2026-ntekas-spatial-transcriptomics-maps-host-gut-microbiome-biogeography-high-resolution.md) (2026)
 - [Spatial omics forefront emerging technologies analytical innovations clinical applications](2026-liu-spatial-omics-forefront-emerging-technologies-analytical-innovations-clinical-applications.md) (2026)
+- [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
 - [Multimodal spatial omics co evolution alveolar progenitors proinflammatory niches lung precursor lesions](2026-peng-multimodal-spatial-omics-co-evolution-alveolar-progenitors-proinflammatory-niches-lung-precursor-lesions.md) (2026)
 - [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 - [Multi modal spatial characterization tumor immune microenvironments dlbcl](2025-dai-multi-modal-spatial-characterization-tumor-immune-microenvironments-dlbcl.md) (2025)
@@ -2260,6 +2299,10 @@ Automatically generated list of literature summaries.
 ### tumor-associated neutrophils (TANs)
 
 - [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md) (2026)
+
+### tumour models
+
+- [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
 
 ### ucgMLST
 
