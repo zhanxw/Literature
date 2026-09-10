@@ -44,6 +44,7 @@ Automatically generated list of literature summaries.
 - [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md)
 - [Biological and technical variability in mouse microbiota analysis and implications for sample size determination](2025-McAdams-Biological and technical variability in mouse microbiota analysis and implications for sample size determination.md)
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md)
+- [Antimicrobial resistance emerging therapeutic alternatives](2026-qurbani-antimicrobial-resistance-emerging-therapeutic-alternatives.md)
 - [Antibiotic use and gut microbiome composition links from individual-level prescription data of 14,979 individuals](2026-baldanzi-antibiotic-use-gut-microbiome-prescription-data.md)
 - [Amr gnn genomic antimicrobial resistance prediction](2026-nguyen-amr-gnn-genomic-antimicrobial-resistance-prediction.md)
 - [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md)
