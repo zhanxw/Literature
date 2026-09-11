@@ -28,6 +28,7 @@ Automatically generated list of literature summaries.
 - [Multimodal spatial omics co evolution alveolar progenitors proinflammatory niches lung precursor lesions](2026-peng-multimodal-spatial-omics-co-evolution-alveolar-progenitors-proinflammatory-niches-lung-precursor-lesions.md)
 - [MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md)
 - [Mmethane Interpretable Ai For Predicting Host Status From Microbial Composition And Metabolomics Data](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md)
+- [Microbiota mediated induction of beige adipocytes](2026-tanoue-microbiota-mediated-induction-of-beige-adipocytes.md)
 - [Leveraging intratumoral probiotics pancreatic cancer immunotherapy via xenophagy](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md)
 - [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md)
 - [Large scale benchmarking prokaryotic annotation tools](2026-jundzill-large-scale-benchmarking-prokaryotic-annotation-tools.md)
