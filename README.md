@@ -49,6 +49,7 @@ Automatically generated list of literature summaries.
 - [Antibiotic use and gut microbiome composition links from individual-level prescription data of 14,979 individuals](2026-baldanzi-antibiotic-use-gut-microbiome-prescription-data.md)
 - [Amr gnn genomic antimicrobial resistance prediction](2026-nguyen-amr-gnn-genomic-antimicrobial-resistance-prediction.md)
 - [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md)
+- [16s ribosomal rna modification translation efficiency](2026-park-16s-ribosomal-rna-modification-translation-efficiency.md)
 ### 2025
 
 - [Zoliflodacin susceptibility egasp 2021 2024](2025-jacobsson-zoliflodacin-susceptibility-egasp-2021-2024.md)
