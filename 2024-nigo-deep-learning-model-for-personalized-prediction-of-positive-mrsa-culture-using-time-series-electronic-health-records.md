@@ -6,7 +6,7 @@
 
 ### Journal
 
-- Nature Communications, volume 15, article 2036
+- Nature Communications, volume 15, article 2024
 
 ### Publication Date
 
