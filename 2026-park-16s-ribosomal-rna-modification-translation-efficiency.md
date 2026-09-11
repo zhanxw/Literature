@@ -10,7 +10,7 @@ Cell Reports
 
 ### Publication Date
 
-22 August 2026 (published online; issue dated 22 September 2026)
+22 September 2026 (Volume 45, Issue 9; open access)
 
 ### DOI
 
@@ -18,51 +18,57 @@ Cell Reports
 
 ## Keywords
 
-16S rRNA modification; MraW/RsmH; ribosome function; translation efficiency; structured mRNA; *Bacillus subtilis*; sporulation; transcript-specific translation.
+16S rRNA modification; MraW/RsmH; RsmI/YabC; ribosome heterogeneity; translation efficiency; structured mRNA; *Bacillus subtilis*; sporulation; SpoIVA; CmpA.
 
 ## Main Idea
 
-The study argues that the conserved MraW/RsmH-dependent modification of 16S rRNA does more than support general ribosome function: it can selectively improve translation of mRNAs containing inhibitory secondary structures near the start of the transcript. In *Bacillus subtilis*, loss of MraW reduces translation efficiency and changes the abundance of the sporulation checkpoint protein CmpA, because structural features in the *cmpA* transcript make its translation particularly sensitive to the modified ribosome.
+MraW/RsmH-mediated methylation of 16S rRNA helps ribosomes translate difficult, structured transcripts. In *Bacillus subtilis*, the effect is especially important for mRNAs whose 5′ region forms a stem-loop over the ribosome-binding/start-codon region or early coding sequence. The authors show that loss of MraW lowers translation of the negative sporulation regulator CmpA, allowing cells with defective SpoIVA to bypass the coat-assembly checkpoint. They propose that rRNA modifications and transcript structures form a gene-specific system for tuning protein dosage.
 
 ## Evidence Supporting the Main Idea
 
-- A loss-of-function *mraW* allele altered a late-stage sporulation phenotype, consistent with a translation-mediated developmental effect.
-- Ribosomes purified from Δ*mraW* cells showed an approximately two-fold decrease in translation efficiency compared with the corresponding modified-ribosome condition.
-- Δ*mraW* cells produced less of the sporulation checkpoint protein CmpA. The abstract reports that this regulation depends on sequence from both the 5′ untranslated region and the *cmpA* coding sequence.
-- The relevant transcript sequences form a stem-loop/step-loop structure that occludes early codons, providing a mechanistic explanation for transcript-specific sensitivity.
-- Proteomic analysis identified multiple proteins whose abundance was directly or indirectly affected by MraW; some associated transcripts contain similar structural elements.
-- Together, these results support a model in which a broadly acting 16S rRNA modification has especially strong effects on a subset of structured mRNAs.
+- A SpoIVA-L59P variant had an approximately 1,000-fold sporulation defect and failed to hydrolyze ATP normally; spontaneous suppressors carried a truncating *mraW* mutation.
+- Deleting *mraW* increased sporulation of the SpoIVA-L59P strain by approximately 10-fold, and complementation restored the defect. *mraW* deletion also partially suppressed other defective *spoIVA* alleles, while deletion of the predicted RsmI homolog *yabC* produced a weaker suppression.
+- Purified Δ*mraW* ribosomes translated reporter RNAs at approximately half the efficiency of wild-type ribosomes. The defect was larger for *cmpA* RNA than for an optimized control transcript.
+- Δ*mraW* reduced CmpA protein production but did not reduce *cmpA* transcription, and the effect persisted when *cmpA* was expressed from a constitutive promoter, supporting translational regulation.
+- The *cmpA* 5′ untranslated region plus early coding sequence forms a conserved stem-loop involving the intervening sequence between the ribosome-binding site and start codon and the first six codons. Disrupting the stem relieved MraW dependence; stabilizing it reduced expression in both wild-type and Δ*mraW* cells.
+- The proteomic screen identified MraW-sensitive proteins. Applying a two-fold-change threshold, detection in all strain backgrounds and reproducibility across three replicates with p < 0.05 identified Isp and YukJ for follow-up. Both have early structured RNA elements and showed MraW-dependent translation.
+- For *isp*, changing the predicted stem altered translation as expected: disrupting the stem increased Δ*mraW* expression, whereas strengthening it strongly reduced expression. For *yukJ*, promoter-only fusions were not MraW dependent, indicating that the translational effect resides in the transcript sequence.
 
 ## Main Novelty
 
-The paper links a conserved bacterial rRNA modification to transcript-selective translation through mRNA structure. It proposes that rRNA modification and structured 5′ coding regions can co-evolve to tune the dosage of proteins needed in limiting amounts, rather than treating ribosome modification as only a global change in translational capacity.
+The study connects a conserved 16S rRNA modification to transcript-specific translation through RNA secondary structure and links this mechanism to a bacterial developmental checkpoint. It moves beyond a global ribosome-efficiency model: MraW improves translation generally, but structured, dosage-sensitive transcripts experience the largest effect.
 
 ## Datasets Used for Evaluation
 
-- **Engineered and isogenic *B. subtilis* strains:** Wild-type and Δ*mraW*/loss-of-function backgrounds were used for ribosome purification, cellular protein measurements and sporulation-related phenotypic analysis. The accessible abstract and metadata do not specify the number of biological replicates.
-- **Purified ribosome translation assays:** Ribosomes from the relevant strain backgrounds were compared for translation efficiency; the reported outcome was an approximately two-fold reduction for Δ*mraW* ribosomes. The exact assay sample size is not specified in the accessible record.
-- **Targeted *cmpA* transcript/protein measurements:** *cmpA* sequence elements and CmpA abundance were used to connect transcript structure with translational regulation. The accessible record does not provide the construct count or sample size.
-- **Proteomic dataset:** Cellular protein abundance was profiled to identify additional MraW-sensitive proteins and candidate transcripts with related structural features. Dataset accession and sample size are not specified in the accessible record.
+- **Laboratory strains:** The study used *B. subtilis* PY79 and derivatives carrying *spoIVA*, *mraW*, *yabC*, *cmpA*, reporter and complementation alleles. All experiments used at least three independent biological replicates; exact n values are given in individual figure legends.
+- **Sporulation and growth assays:** Heat-resistant colony counts after 24 h in Difco Sporulation Medium measured sporulation efficiency relative to wild-type PY79. Cultures were heated at 80°C for 20 min before plating.
+- **Purified-ribosome translation assays:** Ribosomes were purified from exponentially growing or sporulating PY79 and Δ*mraW* cells and tested with optimized, *cmpA*, *cmpA*-stem-disrupted and reporter transcripts in cell-free transcription/translation reactions.
+- **Reporter and transcript constructs:** *cmpA*, *isp* and *yukJ* promoter/5′-UTR/ORF fragments were fused to GFP or lacZ. Stem-disrupting, stem-strengthening and compensatory sequence substitutions tested whether RNA structure caused the MraW dependence.
+- **Proteomics:** Wild-type and mutant *spoIVA* backgrounds with or without MraW were profiled during vegetative growth and sporulation by LC-MS/MS. The deposited mass-spectrometry dataset is available through ProteomeXchange/MassIVE as **PXD074358**; the article also provides Dataset S1.
+- **Sequence and structure analyses:** *cmpA*, *isp* and *yukJ* sequences were compared across relevant orthologs, and RNA structures were predicted with mFold and ViennaRNA. The article reports that all other supporting data are in the paper and supplemental information; no original code was reported.
 
 ## Experimental Procedure
 
-- Generate or analyze *B. subtilis* cells carrying loss-of-function *mraW* alleles and compare them with the corresponding control background.
-- Purify ribosomes from the strains and measure their translation efficiency in an in vitro translation comparison.
-- Assess the effect of MraW loss on sporulation-related phenotypes and on the abundance of the checkpoint protein CmpA.
-- Map the sequence requirements for *cmpA* regulation using its 5′ untranslated region and coding sequence, then evaluate the predicted stem-loop/step-loop structure near the start of the transcript.
-- Perform proteomic analysis to identify proteins whose production changes with MraW status.
-- Compare affected transcripts for related early mRNA structures and integrate the ribosome, transcript-structure and proteomic results into a model of transcript-specific translational control.
+- Characterize SpoIVA-L59P by measuring sporulation, protein abundance, localization and ATP hydrolysis.
+- Select spontaneous suppressors by repeated sporulation, heat treatment and regrowth; identify mutations by whole-genome sequencing.
+- Delete, complement or catalytically alter *mraW*, and delete *yabC*, then test suppression across several defective *spoIVA* alleles.
+- Purify ribosomes from PY79 and Δ*mraW* cells grown vegetatively or induced to sporulate; compare in vitro translation of optimized and structured reporter RNAs.
+- Measure CmpA protein and *cmpA* transcript output using immunoblotting, reporter fusions and constitutive-expression constructs to distinguish translation from transcription.
+- Truncate the *cmpA* ORF and mutate its intervening sequence, early codons and predicted stem to map the minimal MraW-sensitive element.
+- Profile proteins by mass spectrometry, apply the stated two-fold/all-backgrounds/three-replicates criteria, and select Isp and YukJ for mechanistic validation.
+- Test *isp* and *yukJ* promoter, 5′-UTR and coding-sequence fusions, including mutations that disrupt or stabilize predicted stem-loops.
+- Analyze results with means/medians, standard deviations and figure-specific statistical tests; statistical significance was defined as p < 0.05.
 
 ## Key Biology Insights
 
-- Ribosome heterogeneity can create gene-specific effects even when the underlying ribosome modification is broadly conserved.
-- An early mRNA structure can act as a regulatory checkpoint whose impact depends on the modification state of the translating ribosome.
-- MraW/RsmH-dependent 16S rRNA modification appears to enhance translation of structured mRNAs, while transcripts without comparable structures may be less sensitive.
-- In bacteria with functionally uncoupled transcription and translation, this mechanism could provide a way to tune protein dosage after transcription.
-- The proposed co-evolution of rRNA modifications and mRNA structures expands the usual view of translational regulation from independent RNA elements to a ribosome–transcript interaction.
+- Loss of a conserved rRNA modification can produce a developmental phenotype by selectively reducing translation of a checkpoint regulator rather than by causing a general growth defect.
+- The CmpA stem-loop normally limits translation enough to keep CmpA low but still permits checkpoint function. Without MraW-modified ribosomes, CmpA falls below the level needed to eliminate cells with defective coat assembly.
+- MraW-dependent translation is transcript specific: the proteomic effect is relatively sparse despite a general reduction in translation efficiency.
+- Structured regions can act within or immediately adjacent to the coding sequence, affecting initiation when the start region is occluded and potentially elongation when the structure forms after the start codon.
+- The authors suggest that the mechanism may be favored in organisms such as *B. subtilis* with functionally uncoupled transcription and translation, because transcripts can fold before ribosome engagement.
 
 ## Implications
 
-The findings suggest that bacterial phenotypes caused by rRNA-modification defects may arise from selective changes in translation of a small set of structured transcripts, not only from a uniform reduction in protein synthesis. The mechanism may help explain how ribosome modification influences development, stress responses and other dosage-sensitive programs. The proposed model remains to be tested across additional species and transcripts; the accessible article metadata and abstract do not establish the prevalence of this mechanism genome-wide.
+Ribosome modifications may be part of a broader bacterial strategy for maintaining precise levels of proteins involved in development, stress responses and other dosage-sensitive processes. The findings also suggest why MraW loss can have little effect in standard growth conditions but become important during sporulation or cold stress, when inhibitory RNA structures may be more stable. The proposed mechanism should be tested across additional species and transcript classes; the study establishes validated examples in *B. subtilis*, not a genome-wide prevalence estimate.
 
 Source: [Park et al., Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00965-4)
