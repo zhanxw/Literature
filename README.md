@@ -4,9 +4,6 @@ Automatically generated list of literature summaries.
 
 ## Articles by Year
 
-### 2036
-
-- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md)
 ### 2026
 
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md)
@@ -93,6 +90,7 @@ Automatically generated list of literature summaries.
 - [FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation](2024-Shapiro-Sepsis-Immunoscore.md)
 - [Exploring uncatalogued genetic variation in antimicrobial resistance gene families in Escherichia coli: an observational analysis](2024-Lipworth-Exploring uncatalogued genetic variation in antimicrobial resistance gene families in E. coli.md)
 - [Discovery structural class antibiotics explainable deep learning](2024-wong-discovery-structural-class-antibiotics-explainable-deep-learning.md)
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md)
 - [Association genetically predicted leisure social activities cardiovascular disease](2024-kim-association-genetically-predicted-leisure-social-activities-cardiovascular-disease.md)
 - [Accurate structure prediction biomolecular interactions alphafold 3](2024-abramson-accurate-structure-prediction-biomolecular-interactions-alphafold-3.md)
 ### 2023
@@ -292,7 +290,7 @@ Automatically generated list of literature summaries.
 
 ### antimicrobial stewardship
 
-- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2024)
 
 ### antimicrobial surveillance
 
@@ -794,7 +792,7 @@ Automatically generated list of literature summaries.
 
 ### electronic health records
 
-- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2024)
 - [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md) (2021)
 
 ### Electronic medical record integration
@@ -803,7 +801,7 @@ Automatically generated list of literature summaries.
 
 ### empirical antibiotic therapy
 
-- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2024)
 
 ### Ensembl BioMart
 
@@ -874,8 +872,8 @@ Automatically generated list of literature summaries.
 
 ### external validation
 
-- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
 - [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md) (2026)
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2024)
 
 ### fairness
 
@@ -932,7 +930,7 @@ Automatically generated list of literature summaries.
 
 ### gated recurrent unit
 
-- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2024)
 
 ### Gavi
 
@@ -1499,7 +1497,7 @@ Automatically generated list of literature summaries.
 
 ### methicillin-resistant *Staphylococcus aureus* (MRSA)
 
-- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2024)
 
 ### methodological variability
 
@@ -1567,7 +1565,7 @@ Automatically generated list of literature summaries.
 
 ### MIMIC-IV
 
-- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2024)
 
 ### minimum inhibitory concentration
 
@@ -1801,7 +1799,7 @@ Automatically generated list of literature summaries.
 
 ### personalized risk stratification
 
-- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2024)
 
 ### PETase
 
@@ -1981,7 +1979,7 @@ Automatically generated list of literature summaries.
 
 ### recurrent neural network
 
-- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2024)
 
 ### Regulatory trade-offs
 
@@ -2265,7 +2263,7 @@ Automatically generated list of literature summaries.
 
 ### time-series prediction
 
-- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2036)
+- [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md) (2024)
 
 ### tissue clocks
 
