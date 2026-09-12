@@ -24,6 +24,7 @@ Automatically generated list of literature summaries.
 - [Navigating duality akkermansia muciniphila](2026-grant-navigating-duality-akkermansia-muciniphila.md)
 - [Multimodal spatial omics co evolution alveolar progenitors proinflammatory niches lung precursor lesions](2026-peng-multimodal-spatial-omics-co-evolution-alveolar-progenitors-proinflammatory-niches-lung-precursor-lesions.md)
 - [MTB-ImmunogenKG: An LLM-assisted knowledge graph for antigen selection in tuberculosis vaccine research](2026-peng-mtb-immunogenkg-antigen-selection-tuberculosis-vaccine-research.md)
+- [Mouth to gut microbial transmission signatures](2026-jang-mouth-to-gut-microbial-transmission-signatures.md)
 - [Mmethane Interpretable Ai For Predicting Host Status From Microbial Composition And Metabolomics Data](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md)
 - [Microbiota mediated induction of beige adipocytes](2026-tanoue-microbiota-mediated-induction-of-beige-adipocytes.md)
 - [Leveraging intratumoral probiotics pancreatic cancer immunotherapy via xenophagy](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md)
