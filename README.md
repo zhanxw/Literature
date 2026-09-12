@@ -10,6 +10,7 @@ Automatically generated list of literature summaries.
 - [Zoliflodacin phase 3 microbiological failures](2026-unemo-zoliflodacin-phase-3-microbiological-failures.md)
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md)
 - [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md)
+- [Structural mechanism governing the directionality of bridge recombination](2026-hiraizumi-structural-mechanism-governing-the-directionality-of-bridge-recombination.md)
 - [Strain level genetic heterogeneity and colonization dynamics drive microbiome therapeutic efficacy](2026-chen-strain-level-genetic-heterogeneity-and-colonization-dynamics-drive-microbiome-therapeutic-efficacy.md)
 - [Spatial transcriptomics maps host gut microbiome biogeography high resolution](2026-ntekas-spatial-transcriptomics-maps-host-gut-microbiome-biogeography-high-resolution.md)
 - [Spatial omics forefront emerging technologies analytical innovations clinical applications](2026-liu-spatial-omics-forefront-emerging-technologies-analytical-innovations-clinical-applications.md)
