@@ -17,6 +17,7 @@ Automatically generated list of literature summaries.
 - [Spatial and temporal patterns of public transit aerobiomes](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md)
 - [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md)
 - [Silva meta analysis of the uncultured gut microbiome candidate signature of health](2026-da-silva-meta-analysis-of-the-uncultured-gut-microbiome-candidate-signature-of-health.md)
+- [Shared principles of human and bacterial antiviral immunity](2026-kranzusch-shared-principles-of-human-and-bacterial-antiviral-immunity.md)
 - [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md)
 - [Reliable detection of Host-Microbe Signatures in cancer using PRISM](2026-Ghaddar-Reliable detection of Host-Microbe Signatures in cancer using PRISM.md)
 - [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md)
@@ -300,6 +301,14 @@ Automatically generated list of literature summaries.
 
 - [Zoliflodacin susceptibility egasp 2021 2024](2025-jacobsson-zoliflodacin-susceptibility-egasp-2021-2024.md) (2025)
 
+### Antiviral immunity
+
+- [Shared principles of human and bacterial antiviral immunity](2026-kranzusch-shared-principles-of-human-and-bacterial-antiviral-immunity.md) (2026)
+
+### Argonaute proteins
+
+- [Shared principles of human and bacterial antiviral immunity](2026-kranzusch-shared-principles-of-human-and-bacterial-antiviral-immunity.md) (2026)
+
 ### atomic-level structure
 
 - [Evolutionary scale prediction atomic protein structure language model](2023-lin-evolutionary-scale-prediction-atomic-protein-structure-language-model.md) (2023)
@@ -372,6 +381,10 @@ Automatically generated list of literature summaries.
 ### bacterial recombination
 
 - [Rapid Phylogenetic Analysis Gubbins](2015-Croucher-Rapid-Phylogenetic-Analysis-Gubbins.md) (2015)
+
+### Bacteriophages
+
+- [Shared principles of human and bacterial antiviral immunity](2026-kranzusch-shared-principles-of-human-and-bacterial-antiviral-immunity.md) (2026)
 
 ### Bacteroides fragilis
 
@@ -485,6 +498,10 @@ Automatically generated list of literature summaries.
 ### Cephalosporins
 
 - [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
+
+### cGAS–STING
+
+- [Shared principles of human and bacterial antiviral immunity](2026-kranzusch-shared-principles-of-human-and-bacterial-antiviral-immunity.md) (2026)
 
 ### child mortality
 
@@ -1262,11 +1279,19 @@ Automatically generated list of literature summaries.
 
 - [Spatial transcriptomics maps host gut microbiome biogeography high resolution](2026-ntekas-spatial-transcriptomics-maps-host-gut-microbiome-biogeography-high-resolution.md) (2026)
 
+### Inflammasomes
+
+- [Shared principles of human and bacterial antiviral immunity](2026-kranzusch-shared-principles-of-human-and-bacterial-antiviral-immunity.md) (2026)
+
 ### inflammatory bowel disease
 
 - [Mmethane Interpretable Ai For Predicting Host Status From Microbial Composition And Metabolomics Data](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md) (2026)
 - [Gut microbiota-derived short-chain fatty acids and their role in human health and disease](2025-Mukhopadhya-Gut-microbiota-derived-short-chain-fatty-acids-and-their-role-in-human-health-and-disease.md) (2025)
 - [Commensal microbiota inflammatory bowel disease produce genotoxic metabolites](2022-cao-commensal-microbiota-inflammatory-bowel-disease-produce-genotoxic-metabolites.md) (2022)
+
+### Innate immunity
+
+- [Shared principles of human and bacterial antiviral immunity](2026-kranzusch-shared-principles-of-human-and-bacterial-antiviral-immunity.md) (2026)
 
 ### insulin resistance
 
@@ -2386,6 +2411,10 @@ Automatically generated list of literature summaries.
 
 - [Genome Modelling And Design Across All Domains Of Life With Evo 2](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md) (2026)
 
+### Viperin
+
+- [Shared principles of human and bacterial antiviral immunity](2026-kranzusch-shared-principles-of-human-and-bacterial-antiviral-immunity.md) (2026)
+
 ### viral detection
 
 - [Gianthunter accurate detection giant virus metagenomic data](2025-qu-gianthunter-accurate-detection-giant-virus-metagenomic-data.md) (2025)
@@ -2402,6 +2431,10 @@ Automatically generated list of literature summaries.
 ### Virulence factor expression
 
 - [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md) (2025)
+
+### Virus–host interactions
+
+- [Shared principles of human and bacterial antiviral immunity](2026-kranzusch-shared-principles-of-human-and-bacterial-antiviral-immunity.md) (2026)
 
 ### vision-language model
 
