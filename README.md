@@ -79,6 +79,7 @@ Automatically generated list of literature summaries.
 - [Decoding bacterial methylomes nanopore](2025-galeone-decoding-bacterial-methylomes-nanopore.md)
 - [Crocodeel Accurate Control Free Detection Of Cross Sample Contamination In Metagenomic Data](2025-Goulet-Crocodeel-Accurate-Control-Free-Detection-Of-Cross-Sample-Contamination-In-Metagenomic-Data.md)
 - [Conserved spatial subtypes cellular neighborhoods cancer associated fibroblasts](2025-liu-conserved-spatial-subtypes-cellular-neighborhoods-cancer-associated-fibroblasts.md)
+- [Challenges in capturing the mycobiome from shotgun metagenome data: lack of software and databases](2025-avershina-challenges-capturing-mycobiome-shotgun-metagenome.md)
 - [Cell type directed network correcting combination therapy alzheimers disease](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md)
 - [Bindcraft One Shot Design Of Functional Protein Binders](2025-Pacesa-Bindcraft-One-Shot-Design-Of-Functional-Protein-Binders.md)
 - [Baby-to-baby strain transmission shapes the developing gut microbiome](2025-Contador-Baby-to-baby strain transmission shapes the developing gut microbiome.md)
