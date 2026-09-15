@@ -73,6 +73,7 @@ Automatically generated list of literature summaries.
 - [Gut microbiota derived short chain fatty acids role human health disease](2025-mukhopadhya-gut-microbiota-derived-short-chain-fatty-acids-role-human-health-disease.md)
 - [Gianthunter accurate detection giant virus metagenomic data](2025-qu-gianthunter-accurate-detection-giant-virus-metagenomic-data.md)
 - [Evaluation prediction guide rna activities genome editing tools](2025-kim-evaluation-prediction-guide-rna-activities-genome-editing-tools.md)
+- [Eskape pathogens rapidly develop resistance](2025-daruka-eskape-pathogens-rapidly-develop-resistance.md)
 - [Effective health aid evidence gavi vaccine program](2025-shastry-effective-health-aid-evidence-gavi-vaccine-program.md)
 - [Dna methylation pathogenicity bacterial pathogens](2025-ma-dna-methylation-pathogenicity-bacterial-pathogens.md)
 - [Discovery ai guided mechanistic elucidation narrow spectrum antibiotic](2025-catacutan-discovery-ai-guided-mechanistic-elucidation-narrow-spectrum-antibiotic.md)
