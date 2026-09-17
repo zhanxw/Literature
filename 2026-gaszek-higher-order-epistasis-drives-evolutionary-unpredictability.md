@@ -16,6 +16,10 @@ September 4, 2026
 
 10.1038/s41467-026-77182-z
 
+### Source
+
+Publisher page: https://www.nature.com/articles/s41467-026-77182-z
+
 ## Keywords
 
 Antibiotic resistance; higher-order epistasis; evolutionary predictability; TEM-1 β-lactamase; ampicillin; aztreonam; fitness landscapes; combinatorial mutagenesis.
