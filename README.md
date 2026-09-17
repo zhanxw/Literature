@@ -67,6 +67,7 @@ Automatically generated list of literature summaries.
 - [Machine learning assisted optimization dietary intervention dementia risk](2025-chen-machine-learning-assisted-optimization-dietary-intervention-dementia-risk.md)
 - [Lopez Imbalance In Gut Microbial Interactions As A Marker Of Health And Disease](2025-Corral-Lopez-Imbalance-In-Gut-Microbial-Interactions-As-A-Marker-Of-Health-And-Disease.md)
 - [Logan planetary scale genome assembly surveys lifes diversity](2025-chikhi-logan-planetary-scale-genome-assembly-surveys-lifes-diversity.md)
+- [Lambda a large model based data agent](2025-sun-lambda-a-large-model-based-data-agent.md)
 - [Interplm discovering interpretable features protein language models sparse autoencoders](2025-simon-interplm-discovering-interpretable-features-protein-language-models-sparse-autoencoders.md)
 - [Impact library size scale testing virtual screening](2025-liu-impact-library-size-scale-testing-virtual-screening.md)
 - [Human genetics of steatotic liver disease: insights into insulin resistance and lipid metabolism](2025-mancina-human-genetics-steatotic-liver-disease-insulin-resistance-lipid-metabolism.md)
