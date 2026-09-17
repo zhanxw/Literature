@@ -42,6 +42,7 @@ Automatically generated list of literature summaries.
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md)
 - [Evaluating analytical performance direct to consumer gut microbiome testing services](2026-servetas-evaluating-analytical-performance-direct-to-consumer-gut-microbiome-testing-services.md)
 - [Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome](2026-Lu-Eubiota-modular-agentic-ai-gut-microbiome.md)
+- [Diverse bacterial pattern recognition receptors sense core phage proteome](2026-lee-diverse-bacterial-pattern-recognition-receptors-sense-core-phage-proteome.md)
 - [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md)
 - [Critical assessment of intratumor and low-biomass microbiome using long-read sequencing](2026-Fang-Critical assessment of intratumor and low-biomass microbiome using long-read sequencing.md)
 - [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md)
