@@ -35,6 +35,7 @@ Automatically generated list of literature summaries.
 - [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md)
 - [Identifying unmeasured heterogeneity in microbiome data via quantile thresholding (QuanT)](2026-Lu-Identifying_unmeasured_heterogeneity_quanT.md)
 - [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md)
+- [Higher order epistasis drives evolutionary unpredictability](2026-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability.md)
 - [Gwas intestinal molecular environment human gut microbiota variation](2026-dekkers-gwas-intestinal-molecular-environment-human-gut-microbiota-variation.md)
 - [Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design](2026-Shao-Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design.md)
 - [Genome Modelling And Design Across All Domains Of Life With Evo 2](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md)
