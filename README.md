@@ -113,6 +113,7 @@ Automatically generated list of literature summaries.
 - [B cell specific checkpoint molecules regulate anti tumour immunity](2023-bod-b-cell-specific-checkpoint-molecules-regulate-anti-tumour-immunity.md)
 ### 2022
 
+- [Systematic and quantitative view of the antiviral arsenal of prokaryotes](2022-tesson-systematic-and-quantitative-view-of-the-antiviral-arsenal-of-prokaryotes.md)
 - [Rgreat functional enrichment genomic regions](2023-gu-rgreat-functional-enrichment-genomic-regions.md)
 - [Prediction of synergistic antibiotic combinations by graph learning](2022-lv-prediction-of-synergistic-antibiotic-combinations-by-graph-learning.md)
 - [Nino intratumoral microbiota spatial cellular heterogeneity cancer](2022-galeano-nino-intratumoral-microbiota-spatial-cellular-heterogeneity-cancer.md)
