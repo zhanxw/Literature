@@ -43,6 +43,7 @@ Automatically generated list of literature summaries.
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md)
 - [Evaluating analytical performance direct to consumer gut microbiome testing services](2026-servetas-evaluating-analytical-performance-direct-to-consumer-gut-microbiome-testing-services.md)
 - [Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome](2026-Lu-Eubiota-modular-agentic-ai-gut-microbiome.md)
+- [Empowering clinical trial design with agentic intelligence and real-world data](2026-li-emulatrx-agentic-clinical-trial-design.md)
 - [Dnmt1 cxxc domain senses cpg islands dna methylation inhibition](2026-fang-dnmt1-cxxc-domain-senses-cpg-islands-dna-methylation-inhibition.md)
 - [Diverse bacterial pattern recognition receptors sense core phage proteome](2026-lee-diverse-bacterial-pattern-recognition-receptors-sense-core-phage-proteome.md)
 - [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md)
@@ -56,6 +57,8 @@ Automatically generated list of literature summaries.
 - [Amr gnn genomic antimicrobial resistance prediction](2026-nguyen-amr-gnn-genomic-antimicrobial-resistance-prediction.md)
 - [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md)
 - [Ai enhanced adaptive virtual screening large libraries ligand discovery](2026-cecchini-ai-enhanced-adaptive-virtual-screening-large-libraries-ligand-discovery.md)
+- [Agentic Trial Emulation to Learn Health System-specific Drug Effects At Scale](2026-kauffman-agentic-trial-emulation-health-system-drug-effects.md)
+- [AERO: An AI Agent for Adaptive Eligibility Refinement and Optimization of Clinical Trial Criteria in Real-World Trial Emulation](2026-li-aero-adaptive-eligibility-trial-emulation.md)
 - [16s ribosomal rna modification translation efficiency](2026-park-16s-ribosomal-rna-modification-translation-efficiency.md)
 ### 2025
 
