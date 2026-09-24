@@ -42,6 +42,7 @@ Automatically generated list of literature summaries.
 - [Genome Modelling And Design Across All Domains Of Life With Evo 2](2026-Brixi-Genome-Modelling-And-Design-Across-All-Domains-Of-Life-With-Evo-2.md)
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md)
 - [From study design to executable code: automating target trial emulation with large language models](2026-kim-theseus-automating-target-trial-emulation.md)
+- [Five country analysis geographic dietary drivers gut microbiome](2026-khatib-five-country-analysis-geographic-dietary-drivers-gut-microbiome.md)
 - [Evaluating analytical performance direct to consumer gut microbiome testing services](2026-servetas-evaluating-analytical-performance-direct-to-consumer-gut-microbiome-testing-services.md)
 - [Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome](2026-Lu-Eubiota-modular-agentic-ai-gut-microbiome.md)
 - [Empowering clinical trial design with agentic intelligence and real-world data](2026-li-emulatrx-agentic-clinical-trial-design.md)
