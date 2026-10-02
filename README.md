@@ -139,6 +139,7 @@ Automatically generated list of literature summaries.
 ### 2020
 
 - [Romero bacterial epigenome](2020-sanchez-romero-bacterial-epigenome.md)
+- [Medina outer membrane protein size lps o antigen protective antibody targeting salmonella](2020-dominguez-medina-outer-membrane-protein-size-lps-o-antigen-protective-antibody-targeting-salmonella.md)
 - [Mara rama and soxs stress response survival cost](2020-holden-mara-rama-and-soxs-stress-response-survival-cost.md)
 - [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md)
 ### 2019
