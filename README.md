@@ -111,6 +111,7 @@ Automatically generated list of literature summaries.
 - [Exploring uncatalogued genetic variation in antimicrobial resistance gene families in Escherichia coli: an observational analysis](2024-Lipworth-Exploring uncatalogued genetic variation in antimicrobial resistance gene families in E. coli.md)
 - [Discovery structural class antibiotics explainable deep learning](2024-wong-discovery-structural-class-antibiotics-explainable-deep-learning.md)
 - [Deep learning model for personalized prediction of positive mrsa culture using time series electronic health records](2024-nigo-deep-learning-model-for-personalized-prediction-of-positive-mrsa-culture-using-time-series-electronic-health-records.md)
+- [Bacterial cell surface characterization by phage display coupled to high throughput sequencing](2024-grun-bacterial-cell-surface-characterization-by-phage-display-coupled-to-high-throughput-sequencing.md)
 - [Association genetically predicted leisure social activities cardiovascular disease](2024-kim-association-genetically-predicted-leisure-social-activities-cardiovascular-disease.md)
 - [Accurate structure prediction biomolecular interactions alphafold 3](2024-abramson-accurate-structure-prediction-biomolecular-interactions-alphafold-3.md)
 ### 2023
