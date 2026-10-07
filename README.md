@@ -15,6 +15,7 @@ Automatically generated list of literature summaries.
 - [Spatial transcriptomics maps host gut microbiome biogeography high resolution](2026-ntekas-spatial-transcriptomics-maps-host-gut-microbiome-biogeography-high-resolution.md)
 - [Spatial omics forefront emerging technologies analytical innovations clinical applications](2026-liu-spatial-omics-forefront-emerging-technologies-analytical-innovations-clinical-applications.md)
 - [Spatial and temporal patterns of public transit aerobiomes](2026-Orr-Spatial and temporal patterns of public transit aerobiomes.md)
+- [Single-cell and spatial profiling highlights TB-induced myofibroblasts as drivers of lung pathology](2026-mbano-tb-induced-myofibroblasts-lung-pathology.md)
 - [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md)
 - [Silva meta analysis of the uncultured gut microbiome candidate signature of health](2026-da-silva-meta-analysis-of-the-uncultured-gut-microbiome-candidate-signature-of-health.md)
 - [Shared principles of human and bacterial antiviral immunity](2026-kranzusch-shared-principles-of-human-and-bacterial-antiviral-immunity.md)
@@ -67,7 +68,7 @@ Automatically generated list of literature summaries.
 ### 2025
 
 - [Zoliflodacin susceptibility egasp 2021 2024](2025-jacobsson-zoliflodacin-susceptibility-egasp-2021-2024.md)
-- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md)
+- [Stereo-seq V2: Spatial mapping of total RNA in FFPE sections at high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md)
 - [Spatial and temporal distribution of ribosomes in single cells reveals aging differences between old and new daughters of Escherichia coli](2025-Chao-Spatial-temporal-distribution-ribosomes-aging-E-coli.md)
 - [Predicting drug responses unseen cell types transfer learning foundation models](2025-wang-predicting-drug-responses-unseen-cell-types-transfer-learning-foundation-models.md)
 - [Multi modal spatial characterization tumor immune microenvironments dlbcl](2025-dai-multi-modal-spatial-characterization-tumor-immune-microenvironments-dlbcl.md)
@@ -130,6 +131,7 @@ Automatically generated list of literature summaries.
 - [Prediction of synergistic antibiotic combinations by graph learning](2022-lv-prediction-of-synergistic-antibiotic-combinations-by-graph-learning.md)
 - [Nino intratumoral microbiota spatial cellular heterogeneity cancer](2022-galeano-nino-intratumoral-microbiota-spatial-cellular-heterogeneity-cancer.md)
 - [Network based machine learning approach to predict immunotherapy response in cancer patients](2022-kong-network-based-machine-learning-approach-to-predict-immunotherapy-response-in-cancer-patients.md)
+- [Multimodal profiling of lung granulomas in macaques reveals cellular correlates of tuberculosis control](2022-gideon-multimodal-profiling-tuberculosis-granulomas.md)
 - [Dendritic cells direct circadian anti tumor immune responses](2022-wang-dendritic-cells-direct-circadian-anti-tumor-immune-responses.md)
 - [Concerted modification ribosome single molecule rna profiling](2022-bailey-concerted-modification-ribosome-single-molecule-rna-profiling.md)
 - [Commensal microbiota inflammatory bowel disease produce genotoxic metabolites](2022-cao-commensal-microbiota-inflammatory-bowel-disease-produce-genotoxic-metabolites.md)
@@ -358,7 +360,7 @@ Automatically generated list of literature summaries.
 
 ### B cell receptor repertoire
 
-- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
+- [Stereo-seq V2: Spatial mapping of total RNA in FFPE sections at high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 
 ### B cells
 
@@ -929,7 +931,7 @@ Automatically generated list of literature summaries.
 
 ### FFPE
 
-- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
+- [Stereo-seq V2: Spatial mapping of total RNA in FFPE sections at high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 
 ### Fitness landscape
 
@@ -1718,7 +1720,7 @@ Automatically generated list of literature summaries.
 
 ### Mycobacterium tuberculosis
 
-- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
+- [Stereo-seq V2: Spatial mapping of total RNA in FFPE sections at high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 
 ### Mycobacterium tuberculosis (MTB)
 
@@ -2015,7 +2017,7 @@ Automatically generated list of literature summaries.
 
 ### Random priming
 
-- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
+- [Stereo-seq V2: Spatial mapping of total RNA in FFPE sections at high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 
 ### RANSAC
 
@@ -2225,7 +2227,7 @@ Automatically generated list of literature summaries.
 - [Spatial omics forefront emerging technologies analytical innovations clinical applications](2026-liu-spatial-omics-forefront-emerging-technologies-analytical-innovations-clinical-applications.md) (2026)
 - [Single cell rna sequencing profiles drug activity within spatially engineered 3d cultures](2026-king-single-cell-rna-sequencing-profiles-drug-activity-within-spatially-engineered-3d-cultures.md) (2026)
 - [Multimodal spatial omics co evolution alveolar progenitors proinflammatory niches lung precursor lesions](2026-peng-multimodal-spatial-omics-co-evolution-alveolar-progenitors-proinflammatory-niches-lung-precursor-lesions.md) (2026)
-- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
+- [Stereo-seq V2: Spatial mapping of total RNA in FFPE sections at high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 - [Multi modal spatial characterization tumor immune microenvironments dlbcl](2025-dai-multi-modal-spatial-characterization-tumor-immune-microenvironments-dlbcl.md) (2025)
 - [Inferring super resolution tissue architecture integrating spatial transcriptomics histology](2023-zhang-inferring-super-resolution-tissue-architecture-integrating-spatial-transcriptomics-histology.md) (2023)
 - [Nino intratumoral microbiota spatial cellular heterogeneity cancer](2022-galeano-nino-intratumoral-microbiota-spatial-cellular-heterogeneity-cancer.md) (2022)
@@ -2252,7 +2254,7 @@ Automatically generated list of literature summaries.
 
 ### Stereo-seq V2
 
-- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
+- [Stereo-seq V2: Spatial mapping of total RNA in FFPE sections at high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 
 ### strain-level microbiome profiling
 
@@ -2327,7 +2329,7 @@ Automatically generated list of literature summaries.
 
 ### Total RNA
 
-- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
+- [Stereo-seq V2: Spatial mapping of total RNA in FFPE sections at high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 
 ### Transcription factor binding sites
 
@@ -2370,7 +2372,7 @@ Automatically generated list of literature summaries.
 
 ### Triple-negative breast cancer
 
-- [Stereo seq v2 spatial mapping total rna ffpe sections high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
+- [Stereo-seq V2: Spatial mapping of total RNA in FFPE sections at high resolution](2025-zhao-stereo-seq-v2-spatial-mapping-total-rna-ffpe-sections-high-resolution.md) (2025)
 
 ### Tuberculosis (TB)
 
