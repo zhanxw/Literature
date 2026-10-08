@@ -104,6 +104,7 @@ Automatically generated list of literature summaries.
 ### 2024
 
 - [The Omg Dataset An Open Metagenomic Corpus For Mixed Modality Genomic Language Modeling](2024-Cornman-The-Omg-Dataset-An-Open-Metagenomic-Corpus-For-Mixed-Modality-Genomic-Language-Modeling.md)
+- [Sopa technology invariant spatial omics](2024-blampey-sopa-technology-invariant-spatial-omics.md)
 - [Protein language models learn evolutionary statistics of interacting sequence motifs](2024-zhang-protein-language-models-learn-evolutionary-statistics-of-interacting-sequence-motifs.md)
 - [Plasma proteomics biomarkers undulating changes brain aging](2024-liu-plasma-proteomics-biomarkers-undulating-changes-brain-aging.md)
 - [Perception predicts patient response resistance treatment](2024-sinha-perception-predicts-patient-response-resistance-treatment.md)
