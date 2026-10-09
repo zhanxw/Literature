@@ -140,6 +140,7 @@ Automatically generated list of literature summaries.
 ### 2021
 
 - [Srgan wheat stripe rust classification](2021-maqsood-srgan-wheat-stripe-rust-classification.md)
+- [Snppar identifying convergent evolution](2021-edwards-snppar-identifying-convergent-evolution.md)
 - [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](2021-rasmy-med-bert-structured-electronic-health-records-disease-prediction.md)
 - [A trimethoprim derivative impedes antibiotic resistance evolution](2021-manna-a-trimethoprim-derivative-impedes-antibiotic-resistance-evolution.md)
 ### 2020
