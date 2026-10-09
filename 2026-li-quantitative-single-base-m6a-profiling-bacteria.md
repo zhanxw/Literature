@@ -13,48 +13,56 @@ Cell Reports
 [10.1016/j.celrep.2026.117831](https://doi.org/10.1016/j.celrep.2026.117831)
 
 ## Keywords
-Bacterial RNA modification; N6-methyladenosine (m6A); GLORI sequencing; single-base profiling; RNA stability; methyltransferases; evolutionary conservation; transcriptional regulation; *Pseudomonas syringae*.
+Bacterial RNA modification; N6-methyladenosine (m6A); GLORI sequencing; single-base resolution; RNA stability; methyltransferases; evolutionary conservation; bacterial epitranscriptomics; *Pseudomonas syringae*.
+
+## Abstract
+N6-methyladenosine (m6A) is widespread in eukaryotic RNA, but its bacterial distribution and function have been poorly defined. Li et al. apply GLORI sequencing to generate transcriptome-wide, single-base-resolution m6A maps in seven bacterial species. They identify 2,845 m6A sites during exponential growth, extensive condition-dependent dynamics in three strains, and virulence-pathway-associated remodeling in *Pseudomonas syringae*. Comparative analysis identifies 455 conserved m6A site pairs enriched in genes involved in growth, energy metabolism, and transmembrane transport. Integrated methylation, transcript-abundance, and RNA-stability analyses associate m6A with reduced mRNA abundance and increased RNA stability. The study further identifies the rRNA methyltransferases RlmF and RlmJ as bacterial mRNA m6A writers, providing a quantitative atlas and a foundation for studying bacterial m6A regulation and evolution.
 
 ## Main Idea
-The authors use GLORI sequencing to build quantitative, transcriptome-wide, single-base-resolution maps of bacterial m6A. Across seven bacterial species, they identify widespread m6A, condition-dependent remodeling, conserved sites, and associations with transcript abundance and RNA stability. The study further identifies RlmF and RlmJ as bacterial mRNA m6A writers, providing a framework for studying the regulatory and evolutionary roles of bacterial m6A.
+GLORI can reproducibly quantify bacterial m6A at single-base resolution. Bacterial m6A is species-specific, locally clustered, dynamically reprogrammed across growth and culture conditions, and associated with conserved physiological functions and RNA-fate regulation.
 
 ## Evidence Supporting the Main Idea
-- GLORI profiling identified 2,845 m6A sites during exponential growth across the seven-species survey.
-- Three strains showed extensive condition-dependent methylation dynamics.
-- In *P. syringae*, m6A remodeling was associated with virulence-related pathways.
-- Comparative analysis identified 455 conserved m6A site pairs, enriched in genes involved in growth, energy metabolism, and transmembrane transport.
-- Joint analysis of methylation, transcript abundance, and RNA stability associated m6A with reduced mRNA abundance and increased RNA stability.
-- Functional attribution identified the rRNA methyltransferases RlmF and RlmJ as writers of bacterial mRNA m6A.
-
-The accessible record provides these findings in the abstract; figure- or table-level effect sizes and statistical values were not available for independent verification.
+- The study profiles *Escherichia coli*, *Pseudomonas aeruginosa*, *Pseudomonas syringae*, *Klebsiella pneumoniae*, *Staphylococcus aureus*, *Bacillus cereus*, and *Bacillus subtilis*, spanning Gram-negative and Gram-positive bacteria.
+- Two biological replicate libraries were generated for each sample. Candidate sites required coverage >15× and modification fraction >0.1, and were retained only when reproducibly detected at identical genomic positions in both replicates.
+- Replicate m6A levels were highly reproducible, with Pearson correlations >0.88 across all seven species.
+- Exponential-growth m6A site counts ranged from 97 in *K. pneumoniae* to 874 in *S. aureus*, spanning 67–467 modified genes per species; the combined survey identified 2,845 sites.
+- Bacterial m6A was generally enriched in coding regions, showed species-specific distribution patterns, and lacked the strong single-motif preference typical of eukaryotic m6A. CRAUC was the most prevalent context, representing 7.1% of mRNA m6A sites.
+- Stationary-phase site counts increased by 6.2%–128.0% relative to exponential phase in *E. coli*, *P. aeruginosa*, and *P. syringae*; 15.5%–65.7% of sites showed phase-dependent methylation changes.
+- In *P. syringae*, virulence-related m6A patterns differed between virulence-repressing King’s B medium and virulence-inducing minimal medium, including changes affecting type III secretion system-associated genes.
+- Comparative analysis identified 455 conserved m6A site pairs, enriched in genes supporting growth, energy metabolism, and transmembrane transport.
+- Integration with RNA abundance and lifetime data associated m6A with lower mRNA abundance but longer RNA lifetime.
 
 ## Main Novelty
-This study establishes a quantitative, single-base-resolution bacterial m6A atlas rather than relying on enrichment-level profiling. It connects m6A distribution to environmental remodeling, cross-species conservation, RNA abundance, RNA stability, virulence-associated biology, and candidate writer enzymes in one analysis.
+This is a quantitative, single-base-resolution atlas of bacterial m6A across seven species. It combines reproducible site calling, growth- and condition-dependent methylome analysis, cross-species conservation, RNA-fate measurements, and writer-enzyme validation in one study.
 
 ## Datasets Used for Evaluation
-- **Seven bacterial species:** transcriptome-wide GLORI datasets used to map m6A sites and compare conservation. Species names, replicate counts, and sample counts are not specified in the accessible abstract.
-- **Three bacterial strains under multiple conditions:** used to assess condition-dependent m6A remodeling. Strain identities, conditions, and sample sizes are not specified in the accessible abstract.
-- ***Pseudomonas syringae* dataset:** used to associate m6A remodeling with virulence-related pathways. Sample size and experimental conditions are not specified in the accessible abstract.
-- **Integrated methylation, transcript-abundance, and RNA-stability measurements:** used to evaluate relationships between m6A, mRNA abundance, and RNA stability. Dataset sizes and assay details are not specified in the accessible abstract.
+- **Seven-species GLORI survey:** total RNA and rRNA-depleted RNA libraries from the seven bacterial species listed above; two biological replicates per sample. Used for baseline m6A mapping, distribution, abundance, and motif analysis.
+- **Growth-phase dataset:** *E. coli*, *P. aeruginosa*, and *P. syringae* profiled during exponential and stationary phases. Used to measure growth-phase reprogramming.
+- **Virulence-condition dataset:** *P. syringae* grown in King’s B medium and minimal medium; *P. aeruginosa* and *P. syringae* virulence genes were cross-referenced with VFDB 2025. Used to assess virulence-associated methylation.
+- **Cross-species orthology dataset:** orthologs identified with OrthoFinder and aligned at conserved adenines using ±2-nt flanking sequences. Used to identify 455 conserved m6A site pairs.
+- **Public RNA lifetime dataset:** *E. coli* RNA lifetime data from GSE144943. Used to assess the relationship between m6A and RNA stability.
+- **Public translation dataset:** *P. syringae* translation-efficiency data from GSE216157. Used in analyses of m6A-associated transcript behavior.
+- **RNA-seq datasets generated in this study:** *P. aeruginosa* and *P. syringae* expression measurements used with m6A calls for transcript-abundance analyses.
 
 ## Experimental Procedure
-- Apply GLORI sequencing to generate single-base-resolution, transcriptome-wide m6A maps in seven bacterial species.
-- Quantify m6A sites during exponential growth and identify sites that change across conditions in three strains.
-- Analyze remodeled m6A sites in *P. syringae* for enrichment in virulence-related pathways.
-- Compare m6A positions across species to identify conserved site pairs and their associated biological functions.
-- Integrate methylation calls with transcript abundance and RNA-stability measurements.
-- Investigate methyltransferases and identify RlmF and RlmJ as bacterial mRNA m6A writers.
-
-Detailed library preparation, validation experiments, replicate structure, statistical models, and figure-specific procedures are not specified in the accessible abstract.
+- Validate GLORI on known 23S rRNA m6A sites A1618 and A2030 across four Gram-negative and three Gram-positive species.
+- Deplete bacterial rRNA and apply GLORI chemical conversion; sequence two biological replicates per sample.
+- Call reproducible sites using coverage and modification-fraction thresholds, then quantify site abundance, stoichiometry, genomic distribution, gene length, and sequence context.
+- Compare exponential and stationary phases in three species and compare King’s B versus minimal medium in *P. syringae*.
+- Perform virulence-gene overlap and Gene Ontology enrichment analyses.
+- Identify conserved sites with OrthoFinder-based orthology and cross-species sequence alignment.
+- Integrate m6A calls with public RNA lifetime and translation-efficiency data and study-generated expression data.
+- Test RlmF and RlmJ using knockout/overexpression comparisons, m6A quantification, and locus-specific SELECT validation; FTO treatment was used as an additional validation assay.
 
 ## Key Biology Insights
-- Bacterial m6A is quantitatively widespread and dynamically reprogrammed by growth or environmental state.
-- Conserved m6A sites preferentially occur in genes supporting core bacterial physiology, including growth, energy metabolism, and membrane transport.
-- In *P. syringae*, m6A remodeling is linked to virulence-related pathways, suggesting a possible connection to pathogenic adaptation.
-- The reported association between m6A and lower mRNA abundance but greater RNA stability indicates that bacterial m6A may influence RNA fate through more than one regulatory axis.
-- RlmF and RlmJ, previously characterized as rRNA methyltransferases, may also write m6A on bacterial mRNAs, expanding the functional scope of these enzymes.
+- Bacterial m6A is not uniformly distributed: species differ in site counts, methylation levels, genomic localization, and sequence context.
+- m6A sites tend to cluster locally and exhibit elevated methylation levels; modified genes are generally longer than unmodified genes.
+- m6A methylomes are dynamically reprogrammed between exponential and stationary growth and across virulence-related culture conditions.
+- Conserved sites preferentially occur in core physiological genes, supporting an evolutionary component to bacterial m6A regulation.
+- m6A is associated with decreased transcript abundance but increased RNA lifetime, indicating that abundance and stability effects can coexist.
+- RlmF and RlmJ contribute to bacterial mRNA m6A methylation in addition to their established rRNA functions.
 
 ## Implications
-The atlas provides a reference for studying bacterial RNA epitranscriptomics and suggests that m6A may be an evolutionarily conserved regulator of bacterial physiology and stress or virulence programs. It also offers candidate enzymes and conserved sites for mechanistic validation. Because the accessible source was limited to the bibliographic record and abstract, the quantitative strength, causality, and strain-specific generality of these relationships require consultation of the full article and its supplementary data.
+The work establishes GLORI as a reproducible method for bacterial single-base m6A profiling and provides a reference atlas for bacterial epitranscriptomics. The condition-sensitive and conserved sites, together with RlmF/RlmJ validation, offer targets for mechanistic studies of growth, stress adaptation, virulence, and RNA turnover. The reported associations remain primarily correlative for transcript abundance and stability; causal effects will require targeted site and enzyme perturbation experiments.
 
-**Source:** Li et al., Cell Reports (2026), DOI [10.1016/j.celrep.2026.117831](https://doi.org/10.1016/j.celrep.2026.117831).
+**Source:** Li et al., Cell Reports (2026), DOI [10.1016/j.celrep.2026.117831](https://doi.org/10.1016/j.celrep.2026.117831). Full text accessed through the open-access Cell Reports article page.
