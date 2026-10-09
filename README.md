@@ -21,6 +21,7 @@ Automatically generated list of literature summaries.
 - [Shared principles of human and bacterial antiviral immunity](2026-kranzusch-shared-principles-of-human-and-bacterial-antiviral-immunity.md)
 - [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md)
 - [Reliable detection of Host-Microbe Signatures in cancer using PRISM](2026-Ghaddar-Reliable detection of Host-Microbe Signatures in cancer using PRISM.md)
+- [Quantitative single base m6a profiling bacteria](2026-li-quantitative-single-base-m6a-profiling-bacteria.md)
 - [Prediction of antimicrobial mic from bacterial genomes using pgse](2026-gerada-prediction-of-antimicrobial-mic-from-bacterial-genomes-using-pgse.md)
 - [Precise DNA base editing using AlphaFold3-based contact modelling](2026-Meng-Precise DNA base editing using AlphaFold3-based contact modelling.md)
 - [Navigating the duality of Akkermansia muciniphila](2026-Grant-Navigating the duality of Akkermansia muciniphila.md)
