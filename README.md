@@ -105,6 +105,7 @@ Automatically generated list of literature summaries.
 ### 2024
 
 - [The Omg Dataset An Open Metagenomic Corpus For Mixed Modality Genomic Language Modeling](2024-Cornman-The-Omg-Dataset-An-Open-Metagenomic-Corpus-For-Mixed-Modality-Genomic-Language-Modeling.md)
+- [The genome explorer genome browser](2024-herson-the-genome-explorer-genome-browser.md)
 - [Sopa technology invariant spatial omics](2024-blampey-sopa-technology-invariant-spatial-omics.md)
 - [Protein language models learn evolutionary statistics of interacting sequence motifs](2024-zhang-protein-language-models-learn-evolutionary-statistics-of-interacting-sequence-motifs.md)
 - [Plasma proteomics biomarkers undulating changes brain aging](2024-liu-plasma-proteomics-biomarkers-undulating-changes-brain-aging.md)
@@ -610,6 +611,7 @@ Automatically generated list of literature summaries.
 
 ### Comparative genomics
 
+- [The genome explorer genome browser](2024-herson-the-genome-explorer-genome-browser.md) (2024)
 - [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md) (2023)
 - [A workflow for generating multi-strain genome-scale metabolic models of prokaryotes](2020-norsigian-multi-strain-genome-scale-metabolic-models-prokaryotes.md) (2020)
 
@@ -1001,9 +1003,21 @@ Automatically generated list of literature summaries.
 
 - [Aligning protein generative models to experimental fitness with proteindpo](2026-widatalla-aligning-protein-generative-models-to-experimental-fitness-with-proteindpo.md) (2026)
 
+### Genome annotation
+
+- [The genome explorer genome browser](2024-herson-the-genome-explorer-genome-browser.md) (2024)
+
+### Genome browser
+
+- [The genome explorer genome browser](2024-herson-the-genome-explorer-genome-browser.md) (2024)
+
 ### genome contamination
 
 - [Genome contamination may lead to an overestimation of horizontal gene transfer inferences](2026-Nature Communications-Genome contamination may lead to an overestimation of horizontal gene transfer inferences.md) (2026)
+
+### Genome visualization
+
+- [The genome explorer genome browser](2024-herson-the-genome-explorer-genome-browser.md) (2024)
 
 ### genome-scale metabolic models
 
@@ -1324,6 +1338,10 @@ Automatically generated list of literature summaries.
 ### intensive care
 
 - [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md) (2026)
+
+### Interactive visualization
+
+- [The genome explorer genome browser](2024-herson-the-genome-explorer-genome-browser.md) (2024)
 
 ### interannual stability
 
@@ -1841,6 +1859,10 @@ Automatically generated list of literature summaries.
 ### pathology copilot
 
 - [Multimodal generative ai copilot human pathology](2024-lu-multimodal-generative-ai-copilot-human-pathology.md) (2024)
+
+### Pathway Tools
+
+- [The genome explorer genome browser](2024-herson-the-genome-explorer-genome-browser.md) (2024)
 
 ### pediatric antimicrobial resistance
 
