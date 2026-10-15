@@ -54,6 +54,7 @@ Automatically generated list of literature summaries.
 - [Critical assessment of intratumor and low-biomass microbiome using long-read sequencing](2026-Fang-Critical assessment of intratumor and low-biomass microbiome using long-read sequencing.md)
 - [Coevolutionary mining prokaryotic non coding elements genome language model](2026-li-coevolutionary-mining-prokaryotic-non-coding-elements-genome-language-model.md)
 - [Childhood antimicrobial resistance with global forecasts](2026-hu-childhood-antimicrobial-resistance-with-global-forecasts.md)
+- [Blanc bacteria regulate collective behaviour](2026-le-blanc-bacteria-regulate-collective-behaviour.md)
 - [Biological and technical variability in mouse microbiota analysis and implications for sample size determination](2025-McAdams-Biological and technical variability in mouse microbiota analysis and implications for sample size determination.md)
 - [Bacterial Genomic Structural Variations In Children With Autism Serve As Diagnostic Biomarkers](2026-Liu-Bacterial-Genomic-Structural-Variations-In-Children-With-Autism-Serve-As-Diagnostic-Biomarkers.md)
 - [Antisense transcription reveals disease-associated adaptations in the human gut microbiome](2026-pust-antisense-transcription-disease-associated-gut-microbiome-adaptations.md)
