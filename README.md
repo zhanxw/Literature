@@ -36,6 +36,7 @@ Automatically generated list of literature summaries.
 - [Large scale benchmarking prokaryotic annotation tools](2026-jundzill-large-scale-benchmarking-prokaryotic-annotation-tools.md)
 - [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md)
 - [Identifying unmeasured heterogeneity in microbiome data via quantile thresholding (QuanT)](2026-Lu-Identifying_unmeasured_heterogeneity_quanT.md)
+- [Hofe aminoglycoside antibiotics rna phase separation](2026-von-hofe-aminoglycoside-antibiotics-rna-phase-separation.md)
 - [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md)
 - [Higher order epistasis drives evolutionary unpredictability](2026-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability.md)
 - [Gwas intestinal molecular environment human gut microbiota variation](2026-dekkers-gwas-intestinal-molecular-environment-human-gut-microbiota-variation.md)
@@ -247,6 +248,10 @@ Automatically generated list of literature summaries.
 
 - [Cell type directed network correcting combination therapy alzheimers disease](2025-li-cell-type-directed-network-correcting-combination-therapy-alzheimers-disease.md) (2025)
 
+### aminoglycoside antibiotics
+
+- [Hofe aminoglycoside antibiotics rna phase separation](2026-von-hofe-aminoglycoside-antibiotics-rna-phase-separation.md) (2026)
+
 ### AmpC beta-lactamase
 
 - [Impact library size scale testing virtual screening](2025-liu-impact-library-size-scale-testing-virtual-screening.md) (2025)
@@ -448,6 +453,10 @@ Automatically generated list of literature summaries.
 ### biological aging
 
 - [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md) (2026)
+
+### biomolecular condensates
+
+- [Hofe aminoglycoside antibiotics rna phase separation](2026-von-hofe-aminoglycoside-antibiotics-rna-phase-separation.md) (2026)
 
 ### biomolecular interactions
 
@@ -1675,6 +1684,7 @@ Automatically generated list of literature summaries.
 ### Molecular dynamics
 
 - [Saturation mutagenesis map of generalist versus specialist adaptations of beta lactamase to novel antibiotics](2026-gaszek-saturation-mutagenesis-map-of-generalist-versus-specialist-adaptations-of-beta-lactamase-to-novel-antibiotics.md) (2026)
+- [Hofe aminoglycoside antibiotics rna phase separation](2026-von-hofe-aminoglycoside-antibiotics-rna-phase-separation.md) (2026)
 
 ### Monobactams
 
@@ -1784,6 +1794,10 @@ Automatically generated list of literature summaries.
 ### neoantigen vaccine
 
 - [Leveraging intratumoral probiotics pancreatic cancer immunotherapy via xenophagy](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md) (2026)
+
+### neomycin B
+
+- [Hofe aminoglycoside antibiotics rna phase separation](2026-von-hofe-aminoglycoside-antibiotics-rna-phase-separation.md) (2026)
 
 ### network correction
 
@@ -2100,6 +2114,14 @@ Automatically generated list of literature summaries.
 ### Risk stratification
 
 - [FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation](2024-Shapiro-Sepsis-Immunoscore.md) (2024)
+
+### RNA binding
+
+- [Hofe aminoglycoside antibiotics rna phase separation](2026-von-hofe-aminoglycoside-antibiotics-rna-phase-separation.md) (2026)
+
+### RNA phase separation
+
+- [Hofe aminoglycoside antibiotics rna phase separation](2026-von-hofe-aminoglycoside-antibiotics-rna-phase-separation.md) (2026)
 
 ### rRNA modification
 
