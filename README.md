@@ -40,6 +40,7 @@ Automatically generated list of literature summaries.
 - [Hofe aminoglycoside antibiotics rna phase separation](2026-von-hofe-aminoglycoside-antibiotics-rna-phase-separation.md)
 - [Histological aging signatures for monitoring tissue specific aging and disease](2026-abila-histological-aging-signatures-for-monitoring-tissue-specific-aging-and-disease.md)
 - [Higher order epistasis drives evolutionary unpredictability](2026-gaszek-higher-order-epistasis-drives-evolutionary-unpredictability.md)
+- [Hammond implementation of rapid pan microbial metagenomics](2026-forrest-hammond-implementation-of-rapid-pan-microbial-metagenomics.md)
 - [Gwas intestinal molecular environment human gut microbiota variation](2026-dekkers-gwas-intestinal-molecular-environment-human-gut-microbiota-variation.md)
 - [Gut microbiota generate dinitrosyl iron complexes](2026-kleschyov-gut-microbiota-generate-dinitrosyl-iron-complexes.md)
 - [Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design](2026-Shao-Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design.md)
