@@ -8,6 +8,7 @@ Automatically generated list of literature summaries.
 
 - [Zoliflodacin vs ceftriaxone azithromycin phase 3](2026-luckey-zoliflodacin-vs-ceftriaxone-azithromycin-phase-3.md)
 - [Zoliflodacin phase 3 microbiological failures](2026-unemo-zoliflodacin-phase-3-microbiological-failures.md)
+- [Topology and evolution of global transcriptional regulatory networks](2026-lu-topology-and-evolution-of-global-transcriptional-regulatory-networks.md)
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md)
 - [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md)
 - [Systematic mapping of the prokaryotic noncoding sequence space](2026-sun-systematic-mapping-of-the-prokaryotic-noncoding-sequence-space.md)
