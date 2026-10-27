@@ -33,6 +33,7 @@ Automatically generated list of literature summaries.
 - [Mouth to gut microbial transmission signatures](2026-jang-mouth-to-gut-microbial-transmission-signatures.md)
 - [Mmethane Interpretable Ai For Predicting Host Status From Microbial Composition And Metabolomics Data](2026-Dawkins-Mmethane-Interpretable-Ai-For-Predicting-Host-Status-From-Microbial-Composition-And-Metabolomics-Data.md)
 - [Microbiota mediated induction of beige adipocytes](2026-tanoue-microbiota-mediated-induction-of-beige-adipocytes.md)
+- [Microbial inositol phosphates orchestrate host diurnal metabolism](2026-zhang-microbial-inositol-phosphates-orchestrate-host-diurnal-metabolism.md)
 - [Leveraging intratumoral probiotics pancreatic cancer immunotherapy via xenophagy](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md)
 - [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md)
 - [Large scale benchmarking prokaryotic annotation tools](2026-jundzill-large-scale-benchmarking-prokaryotic-annotation-tools.md)
