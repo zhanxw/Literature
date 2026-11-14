@@ -11,6 +11,7 @@ Automatically generated list of literature summaries.
 - [Topology and evolution of global transcriptional regulatory networks](2026-lu-topology-and-evolution-of-global-transcriptional-regulatory-networks.md)
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](2026-Matias-Rodrigues-MicrobeAtlas.md)
 - [The immunometabolic topography of cellular organization and bacterial control in tuberculosis granulomas](2026-mccaffrey-the-immunometabolic-topography-of-cellular-organization-and-bacterial-control-in-tuberculosis-granulomas.md)
+- [T and b cells recognize splicing derived neutrophil neoantigens in lupus](2026-najjar-t-and-b-cells-recognize-splicing-derived-neutrophil-neoantigens-in-lupus.md)
 - [Systematic mapping of the prokaryotic noncoding sequence space](2026-sun-systematic-mapping-of-the-prokaryotic-noncoding-sequence-space.md)
 - [Structural mechanism governing the directionality of bridge recombination](2026-hiraizumi-structural-mechanism-governing-the-directionality-of-bridge-recombination.md)
 - [Strain level genetic heterogeneity and colonization dynamics drive microbiome therapeutic efficacy](2026-chen-strain-level-genetic-heterogeneity-and-colonization-dynamics-drive-microbiome-therapeutic-efficacy.md)
