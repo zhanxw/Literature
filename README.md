@@ -37,6 +37,7 @@ Automatically generated list of literature summaries.
 - [Leveraging intratumoral probiotics pancreatic cancer immunotherapy via xenophagy](2026-li-leveraging-intratumoral-probiotics-pancreatic-cancer-immunotherapy-via-xenophagy.md)
 - [Lazyslide accessible interoperable whole slide image analysis](2026-zheng-lazyslide-accessible-interoperable-whole-slide-image-analysis.md)
 - [Large scale benchmarking prokaryotic annotation tools](2026-jundzill-large-scale-benchmarking-prokaryotic-annotation-tools.md)
+- [Klebsiella dominant gut communities](2026-seymour-klebsiella-dominant-gut-communities.md)
 - [Intratumoral microbiota host genotype neutrophil cytotoxicity colorectal cancer](2026-sorrenti-intratumoral-microbiota-host-genotype-neutrophil-cytotoxicity-colorectal-cancer.md)
 - [Identifying unmeasured heterogeneity in microbiome data via quantile thresholding (QuanT)](2026-Lu-Identifying_unmeasured_heterogeneity_quanT.md)
 - [Hofe aminoglycoside antibiotics rna phase separation](2026-von-hofe-aminoglycoside-antibiotics-rna-phase-separation.md)
@@ -133,6 +134,7 @@ Automatically generated list of literature summaries.
 - [Comparative genomics dna methylation pseudomonas pa3](2023-li-comparative-genomics-dna-methylation-pseudomonas-pa3.md)
 - [Christoph microbemod prokaryotic methylation nanopore](2023-crits-christoph-microbemod-prokaryotic-methylation-nanopore.md)
 - [B cell specific checkpoint molecules regulate anti tumour immunity](2023-bod-b-cell-specific-checkpoint-molecules-regulate-anti-tumour-immunity.md)
+- [Automated assembly molecular mechanisms](2023-bachman-automated-assembly-molecular-mechanisms.md)
 ### 2022
 
 - [Systematic and quantitative view of the antiviral arsenal of prokaryotes](2022-tesson-systematic-and-quantitative-view-of-the-antiviral-arsenal-of-prokaryotes.md)
