@@ -56,6 +56,7 @@ Automatically generated list of literature summaries.
 - [Evaluating analytical performance direct to consumer gut microbiome testing services](2026-servetas-evaluating-analytical-performance-direct-to-consumer-gut-microbiome-testing-services.md)
 - [Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome](2026-Lu-Eubiota-modular-agentic-ai-gut-microbiome.md)
 - [Empowering clinical trial design with agentic intelligence and real-world data](2026-li-emulatrx-agentic-clinical-trial-design.md)
+- [Ehrworld patient centric medical world model](2026-mu-ehrworld-patient-centric-medical-world-model.md)
 - [Dnmt1 cxxc domain senses cpg islands dna methylation inhibition](2026-fang-dnmt1-cxxc-domain-senses-cpg-islands-dna-methylation-inhibition.md)
 - [Diverse bacterial pattern recognition receptors sense core phage proteome](2026-lee-diverse-bacterial-pattern-recognition-receptors-sense-core-phage-proteome.md)
 - [Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes](2026-xing-deep-learning-de-novo-therapeutic-discovery-transcriptional-phenotypes.md)
